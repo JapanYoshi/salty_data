@@ -27,6 +27,8 @@ the second-level folder must match the file name and question ID.
 
 Voice data must be saved as `.wav` files. `.wav.import` files will be generated automatically upon opening the project through Godot.
 
+If you want to learn through example, check [the /q/ folder of this repo](https://github.com/JapanYoshi/salty_data/tree/main/q), where all the official questions are stored.
+
 ## `_question.gdcfg`
 
 The question data file is a Godot configuration file (as suggested by the nonstandard file extension `.gdcfg`).
@@ -34,12 +36,40 @@ Its internal structure is an extended INI file compatible with [Godot’s `Confi
 
 Godot config files are text files made out of sections, each containing one or more key-value pairs.
 
+```
+[question]
+t = "Which of these subjects could you study while reading a library book [#3191#]with the Dewey Decimal class “420”?"
+v = "question"
+s = "
+Which of these subjects could you study while reading a library book[#3191#]
+with the Dewey Decimal class “420”?
+"
+
+[options]
+t = [
+  "History of the English Language",
+  "Ceramic Technology",
+  "Cinematography and Videography",
+  "Journalism"
+]
+v = "options"
+s = "
+History of the English Language,[#1635#]
+Ceramic Technology,[#3170#]
+Cinematography and Videography,[#4993#]
+or Journalism?
+"
+i = 0
+```
+
 ### Sections
 
 Most sections correspond to one voice line, 
 and contain the key `v` and `s`, sometimes `t`. They correspond to the file name, the subtitle string, and the text displayed on screen, respectively.
 
 The required sections will change by question type, but some of them are in common.
+
+This is an extract from the first official question:
 
 ### the `v` key: Voice file name
 
@@ -80,7 +110,6 @@ If the value is `"random"`, it will cause the game to randomize which variant of
 	"like_tute0", "like_tute1", "like_tute2", "like_tute3",
 	"like_title", "like_options", "like_ready",
 	"like_outro"
-]
 ```
 
 If the value starts with `_`, it will choose one random voice line from the corresponding section in `random_voicelines.json` and load it from the game files. The key `s` will be ignored. For example, to make Miles say the question intro (i.e. to have the game load a voice line from the `pretitle_miles` section), you would write:
@@ -111,22 +140,22 @@ The following sections contain miscellaneous on-screen text:
 
 **Most question types**
 
-* `[title]` - Question title. May contain BBCode.
-* `[question]` - Question body text. May contain BBCode. Also used for All Outta Salt’s nonsense phrase.
-* `[options]` - Options for multiple choice questions. **Must be an array of size 4!**
+* `[title]` - Question title. May contain BBCode: `[i]` and `[code]`.
+* `[question]` - Question body text. May contain BBCode: `[i]`, `[b]`, and `[code]`. Also used for All Outta Salt’s nonsense phrase.
+* `[options]` - Options for multiple choice questions. **Must be an array of size 4!** May contain BBCode: `[i]`, `[b]`, and `[code]`.
 
 **Candy Trivia**
 
-* `[setup]`, `[punchline]` - Candy Trivia joke, for questions containing a Laffy Taffy bar. May contain BBCode.
+* `[setup]`, `[punchline]` - Candy Trivia joke, for questions containing a Laffy Taffy bar. May *not* contain BBCode.
 
 **Sorta Kinda**
-* `[sort_a]`, `[sort_b]` - Sorta Kinda “boxes”, long form. May contain BBCode.
-* `[sort_a_short]`, `[sort_b_short]` - Sorta Kinda “boxes”, short form. May contain BBCode.
-* `[sort_options]` - Items to sort in the Sorta Kinda. **Must be an array of size 7!** The same goes with the `s` and `a` keys.
+* `[sort_a]`, `[sort_b]` - Sorta Kinda “boxes”, long form. May contain BBCode: `[i]`.
+* `[sort_a_short]`, `[sort_b_short]` - Sorta Kinda “boxes”, short form. May contain BBCode: `[i]`.
+* `[sort_options]` - Items to sort in the Sorta Kinda. **Must be an array of size 7!** The same goes with the `s` and `a` keys. May contain BBCode: `[i]`
 
 **All Outta Salt**
-* `[gib_genre]` - The category of an All Outta Salt (e.g. If the line says “With what slogan does this rhyme?”, set it to `"slogan"`.)
-* `[answer]` - All Outta Salt’s answer.
+* `[gib_genre]` - The category of an All Outta Salt (e.g. If the line says “With what slogan does this rhyme?”, set it to `"slogan"`.) May contain BBCode: `[i]`.
+* `[answer]` - All Outta Salt’s answer. May contain BBCode: `[i]`.
 
 ### Other keys
 
