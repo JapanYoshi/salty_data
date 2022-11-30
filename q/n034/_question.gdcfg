@@ -1,0 +1,79 @@
+[root]
+type = "N"
+
+[pretitle]
+v = "random"
+
+[title]
+t = "Lincoln’s Links on LinkedIn"
+v = "title"
+s = "“Lincoln’s Links on LinkedIn”."
+
+[intro]
+v = "intro"
+s = "Here’s where I flex my tongue-twister skills."
+
+[question]
+t = "If Lincoln logged in on a login link to Lincoln Logging, a logging supply chain link for making Lincoln Logs, [#4700#]then followed a link to Lincoln Logging’s logging logs, [#6872#]what kept Lincoln logged in while following the link to the Lincoln Logs logging logs by Lincoln Logging?"
+v = "question"
+s = "
+If Lincoln logged in on a login link to Lincoln Logging,[#2640#]
+a logging supply chain link for making Lincoln Logs,[#4700#]
+then followed a link to Lincoln Logging’s logging logs,[#6872#]
+what kept Lincoln logged in while following the link to the Lincoln Logs logging logs by Lincoln Logging?
+"
+
+[options]
+t = [
+"IP address",
+"session cookies",
+"SQL data entries",
+"tracking pixels"
+]
+v = "options"
+s = "
+IP address, session cookies, SQL data entries, or tracking pixels?
+"
+i = 1
+
+[used_lifesaver]
+v = "random"
+
+[reveal]
+v = "random"
+
+[reveal_crickets]
+v = "random"
+
+[reveal_jinx]
+v = "random"
+
+[reveal_split]
+v = "random"
+
+[reveal_correct]
+v = "random"
+
+[option0]
+v = "option0"
+s = "You’re way off the map."
+
+[option1]
+v = "option1"
+s = "Lincoln’s login credentials, or more commonly, a token generated when logging in,[#4676#]are logged onto session cookies."
+
+[option2]
+v = "option2"
+s = "SQL data entries would log Lincoln in when Lincoln logs into Lincoln Logging,[#3887#]
+but it wouldn’t keep Lincoln logged into Lincoln Logging’s logging logs.[#7014#]
+[i]And don’t make me say this again.[/i]"
+
+[option3]
+v = "option3"
+s = "You’re on the right track! ...Oh, who am I kidding, you’re nowhere near close."
+
+[outro]
+v = "outro"
+s = "
+[b]Daisy:[/b] Oh, I know! I should sing [i]In The End[/i] by Linkin Park during karaoke today![#3708#]
+[b]Candy:[/b] I am not going to do the rap part again. You’re on your own."

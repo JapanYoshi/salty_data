@@ -1,0 +1,83 @@
+[root]
+type = "N"
+
+[pretitle]
+v = "random"
+
+[title]
+t = "We All Stan Ice Cream"
+v = "title"
+s = "“We All Stan Ice Cream”."
+
+[intro]
+v = "intro"
+s = "Blackpink has gotten onto the Billboard charts a lot of times,[#2547#]
+but I feel like recruiting big-name Western artists for collabs is kinda cheating.[#6744#]
+[i]Kiss and Make Up[/i] with Dua Lipa,[#8931#]
+[i]Sour Candy[/i] with Lady Gaga,[#10751#]
+then [i]Ice Cream[/i] with Selena Gomez.[#12951#]
+All of which [i]of course[/i] charted on Hot 100. Anyway,"
+
+[question]
+v = "question"
+t = "According to a poll by YouGov, which Blackpink member is ordering the ice cream flavor that the [b]fewest[/b] Americans like?"
+s = "According to a poll by YouGov, which Blackpink member is ordering the ice cream flavor that the [i]fewest[/i] Americans like?"
+
+[options]
+t = [
+"Rosé ordering Rocky Road",
+"Jennie ordering butter pecan",
+"Jisoo ordering mint chocolate chip",
+"Lisa ordering caramel"
+]
+v = "options"
+s = "
+Rosé ordering Rocky Road,[#1754#]
+Jennie ordering butter pecan,[#3460#]
+Jisoo ordering mint chocolate chip,[#1861#]
+or Lisa ordering caramel?
+"
+i = 0
+
+[used_lifesaver]
+v = "random"
+
+[reveal]
+v = "random"
+
+[reveal_crickets]
+v = "random"
+
+[reveal_jinx]
+v = "random"
+
+[reveal_split]
+v = "random"
+
+[reveal_correct]
+v = "random"
+
+[option0]
+v = "option0"
+s = "
+Mint choc chip, butter pecan, and caramel ice cream are approved by about a third of the respondents,[#4856#]
+but Rocky Road’s approval rating is abysmal in comparison, at 29%.
+"
+
+[option1]
+v = "option1"
+s = "Surprisingly, butter pecan is the most liked flavor out of these four, thanks to steadfast support by Southerners.[#6153#]
+And that’s despite the fact that I still don’t know what the f**k a butter pecan is."
+
+[option2]
+v = "option2"
+s = "1 out of 3 dentists recommend toothpaste flavored ice cream."
+
+[option3]
+v = "random"
+s = ""
+
+[outro]
+v = "outro"
+s = "So for every 10 Americans, only 3 of them agree with Weird Al’s favorite flavor.[#4184#]
+Though maybe he just [i]says[/i] he loves Rocky Road because it sounds like “I Love Rock ’n’ Roll”."

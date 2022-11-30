@@ -1,0 +1,83 @@
+[root]
+type = "G"
+
+[pretitle]
+v = "random"
+
+[title]
+t = "Top Three Things to Do to the Designated Driver"
+v = "title"
+s = "
+“Top Three Things to Do to the Designated Driver”.
+"
+
+[gib_tute0]
+v = "random"
+
+[gib_tute1]
+v = "random"
+
+[gib_tute2]
+v = "random"
+
+[gib_tute3]
+v = "random"
+
+[gib_tute4]
+v = "random"
+
+[gib_genre]
+v = "_gib_genre_saying"
+t = "saying"
+
+[question]
+t = "Fruity fizz. Spin the guy. Shove the keyholder."
+v = "question"
+s = "“Fruity fizz. Spin the guy. Shove the keyholder.”"
+
+[answer]
+t = "Beauty is in the eye of the beholder."
+r = "^BEAUTY IS IN THE EYE OF THE BEE?HOLDER.?$"
+
+[clue0]
+t = "Aesthetic tastes are subjective..."
+v = "clue0"
+s = "
+Aesthetic tastes are subjective.
+"
+
+[clue1]
+t = "...and depend on whoever’s seeing it."
+v = "clue1"
+s = "
+Aesthetic tastes depend on whoever’s seeing it.
+"
+
+[clue2]
+t = "Attractiveness is stored in the viewer’s eyeballs."
+v = "clue2"
+s = "Attractiveness is stored in the viewer’s eyeballs."
+
+; always generic wrong answer. might override later if guest host happens
+[gib_wrong]
+v = "random"
+
+[reveal]
+v = "reveal"
+s = "
+Wow, that was an ugly little failure. But some people might like it,[#3864#]
+since “fruity fizz spin the guy shove the keyholder” and all.
+"
+
+[outro]
+v = "outro"
+s = "
+Beauty is in the eye of the Beholder,[#2219#]
+who is now floating towards you and attacking you. Roll for initiative.
+"
+
+[buzz_in]
+v = "random"
+
+[skip]
+v = "random"

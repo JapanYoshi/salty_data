@@ -1,0 +1,74 @@
+[root]
+type = "G"
+
+[pretitle]
+v = "random"
+
+[title]
+t = "Shopstravaganza!"
+v = "title"
+s = "
+“Shopstravaganza!”
+"
+
+[gib_tute0]
+v = "random"
+
+[gib_tute1]
+v = "random"
+
+[gib_tute2]
+v = "random"
+
+[gib_tute3]
+v = "random"
+
+[gib_tute4]
+v = "random"
+
+[gib_genre]
+v = "_gib_genre_phrase"
+t = "phrase"
+s = "With what [i]phrase[/i] does this rhyme?"
+
+[question]
+t = "Shop grand. Thrifty plenty."
+v = "question"
+s = "“Shop grand. Thrifty plenty”."
+
+[answer]
+t = "Drop and give me twenty!"
+r = "^DROP (AND|'?N'?) GI(VE |M)ME (TWENTY|20)[.!]?$"
+
+[clue0]
+v = "clue0"
+t = "You may shout this at someone..."
+s = "It’s something that you might shout at someone."
+
+[clue1]
+v = "clue1"
+t = "...in an army boot camp."
+s = "You’d hear this in an army boot camp."
+
+[clue2]
+v = "clue2"
+t = "Quit standing around and do some push-ups!"
+s = "Quit standing around and do some push-ups![#2284#]Not you. Keep your fingers on your buzzer."
+
+; always generic wrong answer. might override later if guest host happens
+[gib_wrong]
+v = "random"
+
+[reveal]
+v = "reveal"
+s = "[i][as drill sergeant][/i] Your performance was abysmal, Private! Shop grand thrifty plenty!"
+
+[outro]
+v = "outro"
+s = "Speaking of workouts, I was once offered to do the voice-over lines for a FitnessGram Pacer Test.[#5140#]The only problem was, I would have had to sit there and say the numbers in real time.[#9217#]I refused."
+
+[buzz_in]
+v = "random"
+
+[skip]
+v = "random"

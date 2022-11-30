@@ -1,0 +1,78 @@
+[root]
+type = "N"
+
+[pretitle]
+v = "random"
+
+[title]
+t = "Trigger Warning: Discussion of Phobias"
+v = "title"
+s = "“Trigger Warning: Discussion of Phobias”."
+
+[intro]
+v = ""
+s = ""
+
+[question]
+v = "question"
+t = "Suppose your friend has severe [b]acrophobia.[/b] [#2730#]Linking to which of these videos would [b]not[/b] frighten them?"
+s = "Suppose your friend has severe acrophobia.[#2730#]Linking to which of these videos would [i]not[/i] frighten them?"
+
+[options]
+t = [
+"How RADAR Guides Airplanes",
+"SCUBA Diver Discovers Cute Octopus",
+"Ancient CODEX Predicts Skyscrapers",
+"LASER Show Drone Footage"
+]
+v = "options"
+s = "
+“How Radar Guides Airplanes”,[#1671#]
+“Scuba Diver Discovers Cute Octopus”,[#4184#]
+“Ancient Codex Predicts Skyscrapers”,[#6629#]
+or “Laser Show Drone Footage”?
+"
+i = 1
+
+[used_lifesaver]
+v = "random"
+
+[reveal]
+v = "random"
+
+[reveal_crickets]
+v = "random"
+
+[reveal_jinx]
+v = "random"
+
+[reveal_split]
+v = "random"
+
+[reveal_correct]
+v = "random"
+
+[option0]
+v = "random"
+s = ""
+
+[option1]
+v = "option1"
+s = "Acrophobia is the fear of heights, so topics like airplanes, skyscrapers, and drone photography are a no-go."
+
+[option2]
+v = "option2"
+s = "Yes, RADAR, SCUBA, and LASER are all acronyms, but “codex” is just a normal word meaning “an early manuscript”.[#6629#]
+But that’s not what I was asking. That’s not what “acrophobia” means.[#10839#]
+Your friend [i]laughs[/i] at your assumption that they’re scared of acronyms,[#13855#]
+and makes fun of your claustrophobia by sending you GIFs of Santa Claus.[#17814#]
+You screwed your friendship up forever, and you are now the laughing stock of the entire group chat.[#23268#]
+Hope you’re happy."
+
+[option3]
+v = "random"
+s = ""
+
+[outro]
+v = "outro"
+s = "So fortunately, the old game [i]called[/i] Acrophobia wouldn’t actually trigger their acrophobia, so that’s a fortunate irony."

@@ -1,0 +1,79 @@
+[root]
+type = "N"
+
+[pretitle]
+v = "random"
+
+[title]
+t = "Trivia? Salty."
+v = "title"
+s = "“Trivia? Salty.”"
+
+[intro]
+v = "intro"
+s = "Viral marketing does work, doesn’t it?[#2596#]
+I still have that slogan stuck in my head ever since YouTube comments made it into a meme. Well,"
+
+[question]
+t = "Finish the middle of this meme: [#1887#]“Posture? Bad. [#3421#]_______? _______. [#4920#]Diagnosis? [b]Lumbago.[/b]"
+v = "question"
+s = "
+Finish the middle of this meme:[#1887#]
+“Posture? Bad.[#3421#]
+(Blank)? (Blank).[#4920#]
+Diagnosis? Lumbago.”
+"
+
+[options]
+t = [
+  "Back? Aching.",
+  "Ankles? Swelling.",
+  "Wrists? Inflamed.",
+  "Neck? Crooked."
+]
+v = "options"
+s = "
+“Back? Aching.”,[#1009#]
+“Ankles? Swelling.”,[#2115#]
+“Wrists? Inflamed.”,[#3253#]
+or “Neck? Crooked.”?
+"
+i = 0
+
+[used_lifesaver]
+v = "random"
+
+[reveal]
+v = "random"
+
+[reveal_crickets]
+v = "random"
+
+[reveal_jinx]
+v = "random"
+
+[reveal_split]
+v = "random"
+
+[reveal_correct]
+v = "random"
+
+[option0]
+v = "option0"
+s = "Lumbago is pain in the lumbar region, or lower back."
+
+[option1]
+v = "option1"
+s = "Seems like anatomical trivia is your Achilles’ heel."
+
+[option2]
+v = "option2"
+s = "We get it, you don’t use the computer enough to know about carpal tunnel syndrome. Big whoop."
+
+[option3]
+v = "option3"
+s = "At least you took a crack at it."
+
+[outro]
+v = "outro"
+s = "Ah yeah. Crippling pain is so relatable and memeable.[#3830#]Especially the existential kind."

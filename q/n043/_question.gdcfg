@@ -1,0 +1,73 @@
+[root]
+type = "N"
+
+[pretitle]
+v = "random"
+
+[title]
+t = "The Most Image-Processed Woman in History"
+v = "title"
+s = "“The Most Image-Processed Woman in History”."
+
+[intro]
+v = "intro"
+s = "If you’ve looked into image processing, you’ve seen that one sample image called Lena.[#4032#]It’s of a woman wearing a hat with feathers on the back, turning her head over her shoulder to look at the camera.[#8906#]It has both matte and glossy surfaces, and both fine details and blurred background,[#13197#]and of course, it has a face, which makes it easy to see if the algorithms messed up."
+
+[question]
+t = "But now, the Lena image is no longer available for download because of a crazy reason. What gives?"
+v = "question"
+s = "But now, the Lena image is no longer available for download because of a crazy reason. What gives?"
+
+[options]
+t = [
+"she is now in witness protection",
+"it came from a movie owned by Warner Bros.",
+"it’s a cropped nude from Playboy",
+"compression algorithms looked bad when tested on black people"
+]
+v = "options"
+s = "
+She is now in witness protection,[#1579#]
+it came from a movie owned by Warner Bros.,[#3694#]
+it’s a cropped nude from Playboy,[#5315#]
+or compression algorithms looked bad when tested on black people?
+"
+i = 2
+
+[used_lifesaver]
+v = "random"
+
+[reveal]
+v = "random"
+
+[reveal_crickets]
+v = "random"
+
+[reveal_jinx]
+v = "random"
+
+[reveal_split]
+v = "random"
+
+[reveal_correct]
+v = "random"
+
+[option0]
+v = "option0"
+s = "You’re not protected from wrong guesses."
+
+[option1]
+v = "option1"
+s = "I’m gonna cast Expelliarmus on your winnings."
+
+[option2]
+v = "option2"
+s = "I s**t you not—[#1741#]the “Lena” image is a low-res scan of the top third of a nude centerfold from Playboy.[#8191#]Of course, there were other reasons for its decline in popularity and eventual termination of distribution,[#12740#]like the scan being too small for modern-day images.[#15290#]But after decades, people eventually went: “Yeah, this is kinda inappropriate, innit”."
+
+[option3]
+v = "option3"
+s = "That’s very possible, but the odds of a predominantly white male industry[#3895#]caring about that is vanishingly low."
+
+[outro]
+v = "outro"
+s = "I, for one, wish more people tested their image processing algorithms on anime drawings."

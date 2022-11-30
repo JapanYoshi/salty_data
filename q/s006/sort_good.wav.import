@@ -1,0 +1,23 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/sort_good.wav-f624a96f158120556eac04e15d336e9c.sample"
+
+[deps]
+
+source_file="res://q/s006/sort_good.wav"
+dest_files=[ "res://.import/sort_good.wav-f624a96f158120556eac04e15d336e9c.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=1
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=1

@@ -1,0 +1,74 @@
+[root]
+type = "N"
+
+[pretitle]
+v = "random"
+
+[title]
+t = "Are the Boomers OK?"
+v = "title"
+s = "“Are the Boomers OK?”."
+
+[intro]
+v = ""
+
+[question]
+t = "If you want to give a sarcastic, dismissive remark to someone saying [#3444#]“Back in my day, QWERTY was brand-new and only existed on typewriters, [#9090#]not these fancy-schmancy touch screen devices!”, [#13786#]what would be the [b]most[/b] accurate?"
+v = "question"
+s = "
+If you want to give a sarcastic, dismissive remark to someone saying[#3444#]
+[i][old woman impression][/i] “Back in my day, QWERTY was brand-new and only existed on typewriters,[#9090#]
+not these fancy-schmancy touch screen devices!”,[#13786#]
+[i][normal voice][/i]what would be the [b]most[/b] accurate?
+"
+
+[options]
+t = [
+"Ok, Missionary-er",
+"Ok, Lost-er",
+"Ok, G.I.-er",
+"Ok, Silent-er"
+]
+v = "options"
+s = "
+“Ok, Missionary-er”, “Ok, Lost-er”, “Ok, G.I.-er”, or “Ok, Silent-er”?
+"
+i = 0
+
+[used_lifesaver]
+v = "random"
+
+[reveal]
+v = "random"
+
+[reveal_crickets]
+v = "random"
+
+[reveal_jinx]
+v = "random"
+
+[reveal_split]
+v = "random"
+
+[reveal_correct]
+v = "random"
+
+[option0]
+v = "option0"
+s = "The Missionary Generation was born after the Civil War, between 1860 and 1882.[#5506#]The QWERTY keyboard first entered the market in 1874, [#9000#]with the release of the Remington No. 1 typewriter."
+
+[option1]
+v = "option1"
+s = "I hope you find yourself soon."
+
+[option2]
+v = "option2"
+s = "[i][quietly][/i] Hmm, There’s gotta be a way to seamlessly segue into a “G.I. Joe mama” joke.[#4659#][i][loudly][/i]Ah, too late."
+
+[option3]
+v = "option3"
+s = "You had the right to remain silent."
+
+[outro]
+v = "outro"
+s = "That means: QWERTY’s 150th birthday is in 2024.[#4509#]And still, next to no other video game has managed to figure out a better way to type stuff on a controller.[#9537#]Innovation at its finest."

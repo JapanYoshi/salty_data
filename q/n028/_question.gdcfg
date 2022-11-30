@@ -1,0 +1,72 @@
+[root]
+type = "N"
+
+[pretitle]
+v = "_pretitle_miles"
+
+[title]
+t = "Is a Truckload of People Just 2 People?"
+v = "title"
+s = "“Is a Truckload of People Just 2 People?”."
+
+[intro]
+v = ""
+
+[question]
+t = "On average, how many people are in a metric ton of people?"
+v = "question"
+s = "On average, how many people are in a metric ton of people?"
+
+[options]
+t = [
+"16 people",
+"69 people",
+"280 people",
+"1400 people"
+]
+v = "options"
+s = "
+16 people, 69 people, 280 people, or 1400 people?
+"
+i = 0
+
+[used_lifesaver]
+v = "_used_lifesaver_miles"
+
+[reveal]
+v = "_reveal_miles"
+
+[reveal_crickets]
+v = "_reveal_crickets_miles"
+
+[reveal_jinx]
+v = "_reveal_jinx_miles"
+
+[reveal_split]
+v = "_reveal_split_miles"
+
+[reveal_correct]
+v = "_reveal_correct_miles"
+
+[option0]
+v = "option0"
+s = "The average person weighs 62 kilograms or 137 pounds.[#4358#]
+A metric ton is about 16 times that, at 1000 kilograms or 2205 pounds."
+
+[option1]
+v = "option1"
+s = "You should grow up. You and Candy both."
+
+[option2]
+v = "_option_miles"
+
+[option3]
+v = "option3"
+s = "Do you not know what a “ton” is, or do you not know what “literally” means?"
+
+[outro]
+v = "outro"
+s = "
+Of course, the answer is gonna be 15 or 14 people if you’re weighing people in Mexico.[#4987#]
+No, really, they have the highest rate of obesity.
+"

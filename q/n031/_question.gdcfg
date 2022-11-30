@@ -1,0 +1,75 @@
+[root]
+type = "N"
+
+[pretitle]
+v = "random"
+
+[title]
+t = "A Health Checkup"
+v = "title"
+s = "“A Health Checkup”."
+
+[intro]
+v = "intro"
+s = "Hey..."
+
+[question]
+t = "Are you hydrated?"
+v = "question"
+s = "Are you hydrated?"
+
+[options]
+t = [
+"Yeah, 25% of me is water",
+"Yeah, 40% of me is water",
+"Yeah, 55% of me is water",
+"Yeah, 70% of me is water"
+]
+v = "options"
+s = "
+“Yeah, 25% of me is water”,[#1869#]
+“Yeah, 40% of me is water”,[#3545#]
+“Yeah, 55% of me is water”,[#5359#]
+or “Yeah, 70% of me is water”?
+"
+i = 2
+
+[used_lifesaver]
+v = "random"
+
+[reveal]
+v = "random"
+
+[reveal_crickets]
+v = "random"
+
+[reveal_jinx]
+v = "random"
+
+[reveal_split]
+v = "random"
+
+[reveal_correct]
+v = "random"
+
+[option0]
+v = "option0"
+s = "What?! Drink some Hydralyte, stat!"
+
+[option1]
+v = "option1"
+s = "That’s a big mood."
+
+[option2]
+v = "option2"
+s = "The ideal body water percentage is somewhere around 55%."
+
+[option3]
+v = "option3"
+s = "What?! You’re drowning!"
+
+[outro]
+v = "outro"
+s = "Actually, let me just take a quick water break.[#2185#]
+Apparently I sweated really hard while I was out.[#4855#]
+Ugh, I’m definitely gonna have to change out of these clothes."

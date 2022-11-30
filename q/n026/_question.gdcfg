@@ -1,0 +1,94 @@
+[root]
+type = "N"
+
+[pretitle]
+v = "random"
+
+[title]
+t = "OSHAn Violation"
+v = "title"
+s = "“OSHA...-n Violation”."
+
+[intro]
+v = ""
+
+[question]
+t = "Which of these “seas” is an actual sea that connects to other seas, not a lake that’s compensating for something?"
+v = "question"
+s = "
+Which of these “seas” is an actual sea that connects to other seas,[#3431#]
+not a lake that’s compensating for something?
+"
+
+[options]
+t = [
+"the Aral Sea",
+"the Baltic Sea",
+"the Caspian Sea",
+"the Dead Sea"
+]
+v = "options"
+s = "The Aral Sea, the Baltic Sea, the Caspian Sea, or the Dead Sea?"
+i = 1
+
+[used_lifesaver]
+v = "random"
+
+[reveal]
+v = "random"
+
+[reveal_crickets]
+v = "random"
+
+[reveal_jinx]
+v = "random"
+
+[reveal_split]
+v = "random"
+
+[reveal_correct]
+v = "random"
+
+[option0]
+v = "option0"
+s = "Nope, Aral’s an error."
+
+[option1]
+v = "option1"
+s = "The Baltic Sea, located between Sweden, Poland, and Estonia,[#3142#]
+is connected to the Atlantic Ocean.[#5105#]
+The rest of them are [i]posers.[/i]"
+
+[option2]
+v = "random"
+
+[option3]
+v = "option3"
+s = "The Dead Sea is the saltiest lake in the world.[#2638#]
+The only thing that’s saltier...[#4141#]
+[i](invisible camera zooms into Candy’s face)[/i][#4976#]
+is me."
+
+[outro]
+v = "outro"
+s = "
+[b]Candy:[/b] Those damn lakes, trying to pretend they’re a sea.[#2554#]
+It’s like if I claimed to be a good actre—[#4616#]
+Hey! Who edited my cue card to say that?! I’m going to inconvenience your family![#9723#]
+You’re making me just so salty and... light-headed... Everything’s... Whoa...[#15557#]
+[i](Candy falls to the floor)[/i][#17361#]
+[b]Daisy:[/b] Uh, hello? Candy? You okay?[#22516#]
+[i](sigh)[/i] ...She fainted.[#24074#]
+[b]Miles:[/b] Oh my God, I knew this would happen someday, but geez, on the second episode?[#28431#]
+[i](Miles enters the booth)[/i]
+[b]Miles:[/b] And I keep telling her not to stay up all night snorting energy drinks before we have a show on.[#34427#]
+Now I have to deal with an unconscious gremlin and get her some medical care.[#38260#]
+...Or I could just leave her in the back room and host the rest of this game.[#42243#]
+Yeah, I think I’ll have to do that. She left her cue cards on the podium.[#46589#]
+Hey, Interns, could a couple of you carry her to the green room? She should only be like 50 kilograms.[#52130#]
+[b]intern:[/b] Yes, Mr. Stone.[#52839#]
+[b]Miles:[/b] You can just call me Miles. [i](sigh)[/i] I’m gonna have to scold her for this.[#58491#]
+[i][suddenly brighter tone][/i] Ahem. Welcome to the game! I’m Miles Stone, the producer.[#62580#]
+Did you know that Candy drafts most of these questions? It makes the writing process much easier.[#68390#]
+Of course, we have to filter some of them for having too much salt.
+"

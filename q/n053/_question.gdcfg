@@ -1,0 +1,68 @@
+[root]
+type = "N"
+
+[pretitle]
+v = "random"
+
+[title]
+t = "Yaaas, Queen, Dance!"
+v = "title"
+s = "“Yaaas, Queen, Dance!”"
+
+[intro]
+v = ""
+s = ""
+
+[question]
+v = "question"
+t = "Which dancer’s moves are on point? [#2085#]I mean, [#3133#][b]en pointe?[/b]"
+s = "Which dancer’s moves are on point?[#2085#]Erm, I mean, en pointe?"
+
+[options]
+t = [
+"the ballet dancer",
+"the flamenco dancer",
+"the ballroom dancer",
+"the can-can dancer"
+]
+v = "options"
+s = "The ballet dancer, the flamenco dancer, the ballroom dancer, or the can-can dancer?"
+i = 0
+
+[used_lifesaver]
+v = "random"
+
+[reveal]
+v = "random"
+
+[reveal_crickets]
+v = "random"
+
+[reveal_jinx]
+v = "random"
+
+[reveal_split]
+v = "random"
+
+[reveal_correct]
+v = "random"
+
+[option0]
+v = "option0"
+s = "“En pointe” is a ballet term for “on one’s toes”."
+
+[option1]
+v = "option1"
+s = "Olé olé? More like oh no oh no."
+
+[option2]
+v = "option2"
+s = "You’re upsetting the guests."
+
+[option3]
+v = "option3"
+s = "You can’t can’t do this."
+
+[outro]
+v = "outro"
+s = "Which proves my point that toeless shoes are pointe-less."

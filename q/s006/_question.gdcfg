@@ -1,0 +1,101 @@
+[root]
+type = "S"
+has_both = false
+
+[pretitle]
+v = "random"
+
+[title]
+t = "I’m Not Trying to Be a Better Person; My Name is Jake"
+v = "title"
+s = "“I’m Not Trying to Be a Better Person; My Name is Jake”."
+
+[sort_segue]
+v = "_sort_segue"
+s = ""
+
+[sort_category]
+v = "sort_category_events"
+s = "I’m gonna give you 7 events."
+
+[sort_explain]
+v = "sort_explain"
+s = "For each of them, you gotta tell me if it’s..."
+
+[sort_a]
+t = "something Earl J. Hickey from [i]My Name is Earl[/i] did"
+v = "sort_a"
+s = "something Earl J. Hickey atones for in the sit-com [i]My Name is Earl,[/i] or:,"
+
+[sort_b]   
+t = "something Jake Paul did"
+v = "sort_b"
+s = "something that the unfortunately real life YouTube douchbag Jake Paul did. If it’s from..."
+
+[sort_a_short]
+t = "[i]My Name is Earl[/i]"
+v = "sort_a_short"
+s = "[i]My Name is Earl[/i],"
+
+[sort_press_left]
+v = "sort_press_left"
+s = "Press [i]Left.[/i] But if it was done by..."
+
+[sort_b_short]
+t = "Jake Paul"
+v = "sort_b_short"
+s = "Jake Paul,"
+
+[sort_press_right]
+v = "sort_press_right"
+s = "Press [i]Right.[/i]"
+
+[sort_lifesaver]
+v = "_sort_lifesaver"
+
+[sort_no_lifesaver]
+v = "_sort_no_lifesaver"
+
+[sort_options]
+t = [
+"started a fire",
+"harassed a reporter",
+"scammed kids online",
+"kept a guy locked in a truck",
+"got the babysitter pregnant",
+"looted the mall",
+"didn’t pay taxes"
+]
+s = [
+"Started a fire.",
+"Harassed a reporter.",
+"Scammed kids online.",
+"Kept a guy locked in a truck.",
+"Got the babysitter pregnant.",
+"Looted the mall.",
+"Didn’t pay taxes."
+]
+a = [1, 0, 1, 0, 0, 1, 0]
+
+[sort_perfect]
+v = "sort_perfect"
+s = "You can give yourself a Team 10 outta ten! ...I’m not f**king sorry."
+
+[sort_good]
+v = "sort_good"
+s = "Looks like karma is starting to swing your way."
+
+[sort_ok]
+v = "sort_ok"
+s = "Not “fired mid-season” bad, but that was “canceled during a cliffhanger” bad."
+
+[sort_bad]
+v = "sort_bad"
+s = "Here’s something you can add to your list: Disappointed a beautiful game show host."
+
+[outro]
+v = "outro"
+s = "From now on, I’m setting a higher bar on YouTube apology videos. [#3751#]If they don’t go door to door to apologize to everyone they’ve wronged in person, it’s a hell no from me, bud."
+
+[skip]
+v = "random"

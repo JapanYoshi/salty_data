@@ -1,0 +1,108 @@
+[root]
+type = "C"
+
+[pretitle]
+v = "random"
+
+[title]
+t = "My Very Own Question Type"
+v = "title"
+s = "
+“My Very Own Question Type”.
+"
+
+[intro]
+v = "intro"
+s = "
+So, to justify me hosting this show, the writers had to come up with a special question type related to me.[#6185#]
+And they came up with the idea of... reading Laffy Taffy jokes.[#11356#]
+Yeah, I’m not happy about having to relive my brief high-school stint of proofreading those, either.[#16574#]
+[i](sigh)[/i] Here we go."
+
+[setup]
+t = "What kind of bear has no teeth?"
+v = "setup"
+s = "
+“What kind of bear has no teeth?[#2672#]
+"
+
+[punchline]
+t = "A gummy bear!"
+v = "punchline"
+s = "
+A gummy bear.”
+"
+
+[post_punchline]
+v = "post_punchline"
+s = "[i][sarcastically][/i] Wow, okay. So,"
+
+[question]
+t = "Suppose your gummy bear is swollen or bleeding. Which of these diagnoses makes the [b]least[/b] sense?"
+v = "question"
+s = "
+Suppose your gummy bear is swollen or bleeding.[#2619#]
+Which of these diagnoses makes the [i]least[/i] sense?
+"
+
+[options]
+t = [
+    "diabetes",
+    "eczema",
+    "scurvy",
+    "pregnancy"
+]
+v = "options"
+s = "
+Diabetes, eczema, scurvy, or pregnancy?
+"
+i = 1
+
+[used_lifesaver]
+v = "random"
+
+[reveal]
+v = "random"
+
+[reveal_crickets]
+v = "random"
+
+[reveal_jinx]
+v = "random"
+
+[reveal_split]
+v = "random"
+
+[reveal_correct]
+v = "random"
+
+[option0]
+v = "option0"
+s = "
+You are such an insulinsult.
+"
+
+[option1]
+v = "option1"
+s = "
+Eczema is a skin disease, and does not cause inflamed or bleeding gums.
+"
+
+[option2]
+v = "option2"
+s = "
+Oh come on, everybody knows that scurvy causes bleeding gums.[#3707#]
+Or at least, any sailor before we discovered Vitamin C,[#6544#]
+and anyone who ever read about the discovery of Vitamin C.
+"
+
+[option3]
+v = "option3"
+s = "Please do not breed."
+
+[outro]
+v = "outro"
+s = "
+And, depending on your degree of prior exposure,[#2371#]
+that “I’m a gummy bear” song may also cause bleeding ears.
+"

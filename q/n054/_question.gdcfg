@@ -1,0 +1,90 @@
+[root]
+type = "N"
+
+[pretitle]
+v = "random"
+
+[title]
+t = "Have Your Cravat and Eat It Too"
+v = "title"
+s = "“Have Your Cravat and Eat It Too”."
+
+[intro]
+v = "intro"
+s = "
+[b]Candy:[/b] That frilly thing Austin Powers wears around his neck? Yeah, that’s called a cravat.[##]
+Miles Edgeworth from [i]Ace Attorney[/i] does too, and so does Matt Preston, a judge from [i]MasterChef Australia.[/i][##]
+[b]Daisy:[/b] Actually, Candy, he quit after the 2019 season.[##]
+[b]Candy:[/b] Did he quit wearing that stupid cravat, Daisy? Anyway, that’s beside the point.
+"
+
+[question]
+v = "question"
+t = "If the cravat-wearing food critic Matt Preston was fed one of his own cravats, which is the [b]most[/b] appropriate criticism he could give?"
+s = "If the cravat-wearing food critic Matt Preston was fed one of his own cravats, which is the [i]most[/i] appropriate criticism he could give?"
+
+[options]
+t = [
+"“Your Croatian food is undercooked.”",
+"“Your English food is unappetizing.”",
+"“Your Italian food is overseasoned.”",
+"“Your Mexican food is disgusting.”",
+]
+v = "options"
+s = "[i][in English accent][/i] “Your Croatian food is undercooked.”,[#2513#]
+“Your English food is unappetizing.”,[#5053#]
+“Your Italian food is overseasoned.”,[#7430#]
+or “Your Mexican food is disgusting.”?"
+i = 0
+
+[used_lifesaver]
+v = "random"
+
+[reveal]
+v = "random"
+
+[reveal_crickets]
+v = "random"
+
+[reveal_jinx]
+v = "random"
+
+[reveal_split]
+v = "random"
+
+[reveal_correct]
+v = "random"
+
+[option0]
+v = "option0"
+s = "The word “cravat” derives from “a Croatian” in French,[##]
+which makes sense considering that the first cravats were worn in Croatia."
+
+[option1]
+v = "option1"
+s = "
+[b]Candy:[/b] Isn’t [i]all[/i] English food unappetizing?[##]
+[b]Daisy:[/b] Uh, fish ’n’ chips?[##]
+[b]Candy:[/b] Point taken. But the rest of it is.
+"
+
+[option2]
+v = "option2"
+s = "Mamma mia, that’s a spicy miss-a-take-a!"
+
+[option3]
+v = "option3"
+s = "
+[b]Candy:[/b] [i][in Matt Preston impression][/b] Quite frankly, that...[##]
+[i](plate shattering SFX)[/i][##]
+...is disgusting.[##]
+[##]
+[b]Daisy:[/b] Disgustingly good?[##]
+[b]Candy:[/b] No, just disgusting.
+"
+
+[outro]
+v = "outro"
+s = "Speaking of MasterChef, why do people freak out when someone with Indian heritage cooks Japanese cuisine?[#5718#]
+How is that culturally insensitive? We both have a profound love for curry![#10975#]
+...Actually, so do the Brits, but that’s beside the point."

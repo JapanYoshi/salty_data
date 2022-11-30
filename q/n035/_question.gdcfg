@@ -1,0 +1,77 @@
+[root]
+type = "N"
+
+[pretitle]
+v = "random"
+
+[title]
+t = "Gold Medals on a Gold Chain"
+v = "title"
+s = "“Gold Medals on a Gold Chain”."
+
+[intro]
+v = ""
+
+[question]
+t = "In the song “Get Low” by Lil Jon and the East Side Boyz, the famous chorus chants [#4878#]“Till all skeet skeet, motherf**kers”. [#8934#]Judging by the word “skeet”, which Olympic sport could this song be about?"
+v = "question"
+s = "
+In the song “Get Low” by Lil Jon and the East Side Boyz, the famous chorus chants “Till all skeet skeet, motherf**kers”.[#7036#]
+...Huh, I thought it was “down skeet skeet”.[#8934#]
+Judging by the word “skeet”, which Olympic sport could this song be about?
+"
+
+[options]
+t = [
+"motherf**king basketball",
+"motherf**king shooting",
+"motherf**king kayaking",
+"motherf**king wrestling"
+]
+v = "options"
+s = "
+Motherf**king basketball, motherf**king shooting, motherf**king kayaking, or motherf**king wrestling?
+"
+i = 1
+
+[used_lifesaver]
+v = "random"
+
+[reveal]
+v = "random"
+
+[reveal_crickets]
+v = "random"
+
+[reveal_jinx]
+v = "random"
+
+[reveal_split]
+v = "random"
+
+[reveal_correct]
+v = "random"
+
+[option0]
+v = "option0"
+s = "Well, you just got dunked on."
+
+[option1]
+v = "option1"
+s = "A skeet is a clay target used in skeet shooting, which has been an Olympic sport since 1968."
+
+[option2]
+v = "option2"
+s = "You can’t possibly think of a worse answer. Or can-oe?"
+
+[option3]
+v = "option3"
+s = "Wrestle with the facts. You’re bad at this."
+
+[outro]
+v = "outro"
+s = "
+[b]Candy:[/b] Wait, shooting? Ohhh! That’s what it actually means. So basically, his “gun” is his—[#6561#]
+[i](audio plug being pulled)[/i]
+[b]Miles:[/b] Sorry about that. This question is upsetting the censors and we have to cut the audio.
+"

@@ -1,0 +1,142 @@
+[root]
+type = "S"
+has_both = true
+
+[pretitle]
+v = "intro"
+s = "
+[b]PA system voice:[/b] Attention. Will the owner of the pink compact car[#3012#]
+with the license plate starting with 5-4-L-7,[#6580#]
+[b]Candy:[/b] Wait, that’s me.[#7340#]
+[b]PA system voice:[/b] Please immediately move your car, which is illegally double-parked.[#10773#]Otherwise, we will tow it away at your expense. Thank you.[#13956#]
+[b]Candy:[/b] Oh, god damn it, really? During a recording?[#17436#]
+Well, guess I have to go get that. [i](door opens)[/i][#18909#]
+[b]Miles:[/b] Hey, wait, didn’t you—
+[b]Candy:[/b] I’ll be right back. [i](door closes)[/i][#21154#]
+[b]Miles:[/b] —come on foot today...[#23446#]Daisy, did you do that?[#25002#]
+[b]Daisy:[/b] [i][smugly][/i] Huh? I have no idea what you’re talking about.[#28257#]
+[b]Miles:[/b] I am absolutely not buying that.[#30312#]
+[b]Daisy:[/b] Anyway, you need someone to host this question, right? I can hop right in.[#35490#]
+[b]Miles:[/b] [i](sigh)[/i] I have no choice, do I?[#37509#]
+[b]Daisy:[/b] Oh yes! This question is called:
+"
+
+[title]
+t = "Birds vs. Bees"
+v = "title"
+s = "Birds vs. Bees”."
+
+[sort_segue]
+v = "sort_segue"
+s = "And it’s a Sorta Kinda!"
+
+[sort_category]
+v = "sort_category_names"
+s = "I’m gonna list 7 names."
+
+[sort_explain]
+v = "sort_explain"
+s = "And to mess things up a bit, for each of them, you’re gonna have to answer if it’s:"
+
+[sort_a]
+t = "[i]not[/i] a type of bird"
+v = "sort_a"
+s = "[i]not[/i] a type of bird,"
+
+[sort_b]   
+t = "[i]not[/i] a type of bee"
+v = "sort_b"
+s = "[i]not[/i] a type of bee,"
+
+[sort_ab]
+v = "sort_ab"
+s = "or both! By which I mean neither of them. Hm. If it’s:"
+
+[sort_a_short]
+t = "not bird"
+v = "sort_a_short"
+s = "not a bird,"
+
+[sort_press_left]
+v = "sort_press_left"
+s = "press [i]Left.[/i] If it’s:"
+
+[sort_b_short]
+t = "not bee"
+v = "sort_b_short"
+s = "not a bee,"
+
+[sort_press_right]
+v = "sort_press_right"
+s = "press [i]Right[/i]."
+
+[sort_press_up]
+v = "sort_press_up"
+s = "And if it’s neither, press [i]Up.[/i]"
+
+[sort_lifesaver]
+v = "sort_lifesaver"
+s = "And don’t even think of using a Lifesaver on this question, okay? Let’s begin!"
+
+[sort_no_lifesaver]
+v = "sort_no_lifesaver"
+s = "Let’s begin!"
+
+[sort_options]
+t = [
+"valley carpenter",
+"willet",
+"amaretto",
+"mason",
+"sugarbag",
+"caracara",
+"hillock"
+]
+s = [
+"Valley carpenter!",
+"Willet!",
+"Amaretto!",
+"Mason!",
+"Sugarbag!",
+"Caracara!",
+"Alright, last one: Hillock!"
+]
+a = [0, 1, 2, 0, 0, 1, 2]
+
+[sort_perfect]
+v = "sort_perfect"
+s = "Wow, you saw right through me! Nobody’s done that before."
+
+[sort_good]
+v = "sort_good"
+s = "Very clever, not bad at all! But not clever enough."
+
+[sort_ok]
+v = "sort_ok"
+s = "Are you feeling alright? I see you could barely keep up."
+
+[sort_bad]
+v = "sort_bad"
+s = "Oh, did I leave you in the dust? Sorry not sorry!"
+
+[outro]
+v = "outro"
+s = "
+[i](door opens and slams)[/i]
+[b]Candy:[/b] Daisy, you lukewarm mug of decaf! I know it was you![#3664#]
+[b]Daisy:[/b] Huh? What do you mean?[#5669#]
+[b]Candy:[/b] Don’t you give me that sass, girl! First of all, I didn’t find my car down there, because—[#9877#]
+[b]Daisy:[/b] You came on foot today.[#10979#]
+[b]Candy:[/b] Exactly! Second of all, you have control of the speakers in this—[#14562#]
+Wait, you knew I came on foot, yet you went ahead with the fake announcement?[#17539#]
+[b]Daisy:[/b] Yuh huh.[#18871#]
+[b]Candy:[/b] I’m just hurt at how gullible you think I am.[#21462#]
+[b]Daisy:[/b] Hey, it worked anyway, didn’t it?[#23208#]
+[b]Candy:[/b] Shut up, Daisy, go backstage and stay backstage![#26377#]
+[b]Daisy:[/b] Sure, little miss gullible.[#27912#]
+[b]Candy:[/b] [i](frustration noises)[/i]
+"
+
+[skip]
+v = "skip"
+s = "No problemo. Let’s jump in!"

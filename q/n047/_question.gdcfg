@@ -1,0 +1,68 @@
+[root]
+type = "N"
+
+[pretitle]
+v = "random"
+
+[title]
+t = "A Serious Calculus Question"
+v = "title"
+s = "“A Serious Calculus Question”."
+
+[intro]
+v = "intro"
+s = "I’m about to hit you with a very serious math question.[#3708#]It involves a fair amount of calculus, and something that the mathematicians call[#7955#]“dimensional analysis”. Ready? I know you’re not, but here we go.[#13179#]"
+
+[question]
+t = "∫sin(x)dx from x=0 to x=π is:"
+v = "question"
+s = "What’s the area under the graph of sine X, with X from 0 to pi?"
+
+[options]
+t = [
+"2 unit-lengths",
+"2 unit-lengths squared",
+"2 unit-lengths cubed",
+"2 inverse unit-lengths"
+]
+v = "options"
+s = "2 unit-lengths, 2 unit-lengths squared, 2 unit-lengths cubed, or 2 inverse unit-lengths?"
+i = 1
+
+[used_lifesaver]
+v = "random"
+
+[reveal]
+v = "random"
+
+[reveal_crickets]
+v = "random"
+
+[reveal_jinx]
+v = "random"
+
+[reveal_split]
+v = "random"
+
+[reveal_correct]
+v = "random"
+
+[option0]
+v = "random"
+s = ""
+
+[option1]
+v = "option1"
+s = "Dimensional analysis tells me that the solution is length times length,[#4206#]and out of these units, that’s the only one with the dimensions “length squared”."
+
+[option2]
+v = "random"
+s = ""
+
+[option3]
+v = "random"
+s = ""
+
+[outro]
+v = "outro"
+s = "Which is just the rigorous mathematical way of saying “Of course area is length times length, genius.”"

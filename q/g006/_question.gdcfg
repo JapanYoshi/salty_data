@@ -1,0 +1,76 @@
+[root]
+type = "G"
+
+[pretitle]
+v = "random"
+
+[title]
+t = "Ky Needs Another Blender"
+v = "title"
+s = "
+“Ky Needs Another Blender”.
+"
+
+[gib_tute0]
+v = "random"
+
+[gib_tute1]
+v = "random"
+
+[gib_tute2]
+v = "random"
+
+[gib_tute3]
+v = "random"
+
+[gib_tute4]
+v = "random"
+
+[gib_genre]
+v = "_gib_genre_name"
+t = "proper name"
+s = "With what [i]proper name[/i] does this rhyme?"
+
+[question]
+t = "Chill, Ky! Appliance buy."
+v = "question"
+s = "“Chill, Ky! Appliance buy.”"
+
+[answer]
+t = "Bill Nye the Science Guy"
+r = "^BILL N[EIY]{1,2} THE SC?I[AE]N[CS]E GUY?$"
+
+[clue0]
+t = "It’s someone you saw on American TV..."
+v = "clue0"
+s = "It’s someone you saw on American TV..."
+
+[clue1]
+t = "...during class in middle school."
+v = "clue1"
+s = "You saw him during class in middle school."
+
+[clue2]
+t = "This William is gonna teach you some science."
+v = "clue2"
+s = "This William is gonna teach you some science."
+
+; always generic wrong answer. might override later if guest host happens
+[gib_wrong]
+v = "random"
+
+[reveal]
+v = "reveal"
+s = "When I was in middle school, the best part of science class was when they[#3633#]carted in this little monitor on wheels, and then[#7221#]everyone huddled around and we heard[#9494#][i][sung][/i] “Chill Ky Appliance Buy”."
+
+[outro]
+v = "outro"
+s = "
+Though, I guess kids these days don’t learn as much science from Bill Nye as they learn from...[#5406#]Vsauce?[#6956#]Veritasium?[#8910#]Steve Mould?[#10757#]Oh no. I’m out of touch.
+"
+
+[buzz_in]
+v = "random"
+
+[skip]
+v = "random"

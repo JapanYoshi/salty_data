@@ -1,0 +1,95 @@
+[root]
+type = "C"
+
+[pretitle]
+v = "random"
+
+[title]
+t = "Swinging from Red Vines"
+v = "title"
+s = "
+“Swinging from Red Vines”.
+"
+
+[intro]
+v = "intro"
+s = "
+I’ve got another Laffy Taffy bar right on the podium here, which is convenient for a fix of bad jokes and processed sugar."
+
+[setup]
+t = "What do you call rabbits hopping backwards in a row?"
+v = "setup"
+s = "
+“What do you call rabbits hopping backwards in a row?[#2947#]
+"
+
+[punchline]
+t = "A receding hare line!"
+v = "punchline"
+s = "
+A receding hare line.”
+"
+
+[post_punchline]
+v = "post_punchline"
+s = "So, that’s a thing. Well..."
+
+[question]
+t = "Based on the social habits of hares, how many hares would [b]most likely[/b] be in that “receding hare line”?"
+v = "question"
+s = "Based on the social habits of hares, how many hares would [i]most likely[/i] be in that “receding hare line”?"
+
+[options]
+t = [
+    "just 2 or 3 hares",
+    "about 5 hares",
+    "about 10 hares",
+    "about 20 hares"
+]
+v = "options"
+s = "Just 2 or 3 hares, about 5 hares, about 10 hares, or about 20 hares?"
+i = 0
+
+[used_lifesaver]
+v = "random"
+
+[reveal]
+v = "random"
+
+[reveal_crickets]
+v = "random"
+
+[reveal_jinx]
+v = "random"
+
+[reveal_split]
+v = "random"
+
+[reveal_correct]
+v = "random"
+
+[option0]
+v = "option0"
+s = "Hares are solitary creatures, living by themselves or with a partner.[#3449#]
+So we’d have just the bare minimum needed to form a line, two hares.[#7230#]
+Maybe a third one if they’re feeling frisky."
+
+[option1]
+v = "option1"
+s = "Missed it by a hare."
+
+[option2]
+v = "option2"
+s = "Your guess was lopsided."
+
+[option3]
+v = "option3"
+s = "That was quite the hoptimistic guess, but putting twenty hares in one place would spell disaster."
+
+[outro]
+v = "outro"
+s = "
+I don’t have to worry about a receding hairline any time soon, fortunately.[#3309#]
+But considering that my dad and both my grandpas went bald, I might not be safe for much longer.[#8306#]
+...I’m feeling a little light-headed already.
+"

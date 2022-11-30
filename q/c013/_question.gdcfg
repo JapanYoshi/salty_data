@@ -1,0 +1,122 @@
+[root]
+type = "C"
+
+[pretitle]
+v = "random"
+
+[title]
+t = "Saliferous Minutiae"
+v = "title"
+s = "
+“Saliferous Minutiae”.
+"
+
+[intro]
+v = "intro"
+s = "
+I have the strangest urge to hit myself over the head with a book.[#3836#]
+But I can’t just do it for no reason.[#5928#]
+Maybe if I read a bad Laffy Taffy joke, I’ll feel inspired.
+"
+
+[setup]
+t = "I have the world’s worst thesaurus."
+v = "setup"
+s = "
+“I have the world’s worst thesaurus.[#2871#]
+"
+
+[punchline]
+t = "Not only is it terrible, it’s also terrible!"
+v = "punchline"
+s = "
+Not only is it terrible, it’s also terrible!”
+"
+
+[post_punchline]
+v = "post_punchline"
+s = "
+[i](groans)[/i] Yep, let me find a book to hit myself over the head with.[#3225#]
+[i](drawer slides open)[/i][#4863#]
+Oh. My thesaurus! How convenient.
+"
+
+[question]
+t = "Based on my much better thesaurus, [#1863#]which of the following statements about the world’s worst thesaurus is accurate?"
+v = "question"
+s = "Based on my much better thesaurus,[#1863#]
+which of the following statements about the world’s worst thesaurus—[#5445#]
+and also this joke—is accurate?"
+
+[options]
+t = [
+"Not only is it terrible, it’s also [b]odious.[/b]",
+"Not only is it terrible, it’s also [b]exalted.[/b]",
+"Not only is it terrible, it’s also [b]fugacious.[/b]",
+"Not only is it terrible, it’s also [b]dolorous.[/b]",
+]
+v = "options"
+s = "
+“Not only is it terrible, it’s also odious.”,[#2864#]
+“Not only is it terrible, it’s also exalted.”,[#5537#]
+“Not only is it terrible, it’s also fugacious.”,[#8558#]
+or “Not only is it terrible, it’s also dolorous.”?
+"
+i = 0
+
+[used_lifesaver]
+v = "random"
+
+[reveal]
+v = "random"
+
+[reveal_crickets]
+v = "random"
+
+[reveal_jinx]
+v = "random"
+
+[reveal_split]
+v = "random"
+
+[reveal_correct]
+v = "random"
+
+[option0]
+v = "option0"
+s = "
+According to my pocket [i]dictionary,[/i][#2434#]
+odious means “arousing and deserving hatred.”[#5826#]
+Sounds like a synonym of terrible to me!
+"
+
+[option1]
+v = "option1"
+s = "
+Exalted means “held in high regard”,[#2833#]
+which you certainly won’t be after this hit to your score.
+"
+
+[option2]
+v = "option2"
+s = "
+Fugacious means “fleeting”, as in “Your thoughts appear to be quite fugacious.”
+"
+
+[option3]
+v = "option3"
+s = "
+Dolorous means “expressing great sorrow or distress.”[#3868#]
+Try not to be too dolorous when I take away some of your cash, alright?
+"
+
+[outro]
+v = "outro"
+s = "
+Now, what was I going to do again with this book?[#2128#]
+[#3543#]
+Aw, I can’t remember. Or should I say, I can’t “recall”?[#7540#]
+“Hark back to” it?[#8686#]
+[#9539#]
+Okay, that’s enough thesaurus for today.
+"

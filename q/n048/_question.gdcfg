@@ -1,0 +1,70 @@
+[root]
+type = "N"
+
+[pretitle]
+v = "random"
+
+[title]
+t = "The Queen is Dead; Long live the King!"
+v = "title"
+s = "“The Queen is Dead; Long Live the King”."
+
+[intro]
+v = "intro"
+s = "While we were writing these questions, we got some shocking news out of the blue![#4323#]The long-reigning Queen Elizabeth II died at 98.[#8421#]So that means we started making this show in the Elizabethan Era, and finished it in the...[#13666#][#14749#]Uh, hold on..."
+
+[question]
+t = "What’s the name of this new era when the monarch of England is King Charles?"
+v = "question"
+s = "What’s the name of this new era when the monarch of England is King Charles?"
+
+[options]
+t = [
+"the Caroline era",
+"the Carlian era",
+"the Carolean era",
+"the Charlatan era"
+]
+v = "options"
+s = "
+the Caroline era, the Carlian era, the Carolean era, or the Charlatan era?
+"
+i = 2
+
+[used_lifesaver]
+v = "random"
+
+[reveal]
+v = "random"
+
+[reveal_crickets]
+v = "random"
+
+[reveal_jinx]
+v = "random"
+
+[reveal_split]
+v = "random"
+
+[reveal_correct]
+v = "random"
+
+[option0]
+v = "option0"
+s = "Yes, the era marked by the reign of Charles I is called the Caroline era.[#4206#]However, the new king is King Charles II."
+
+[option1]
+v = "option1"
+s = "No, I believe that’s the term for the era of American TV where iCarly was big."
+
+[option2]
+v = "option2"
+s = "While Charles I’s reign is called the Caroline era,[#3261#]Charles II’s reign seems to be called the Carolean era so far."
+
+[option3]
+v = "option3"
+s = "[i][in English accent][/i] Oh, what?! I beg your pardon?![#3123#]How [i]dare[/i] you accuse the King of England of being a [i]lowly charlatan![/i]"
+
+[outro]
+v = "outro"
+s = "The saddest part of all of this is that all of the memes about Queen Elizabeth being immortal are outdated now."

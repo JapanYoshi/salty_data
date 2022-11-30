@@ -1,0 +1,79 @@
+[root]
+type = "G"
+
+[pretitle]
+v = "random"
+
+[title]
+t = "Deflecting Attacks with Sick Jams"
+v = "title"
+s = "
+“Deflecting Attacks with Sick Jams”.
+"
+
+[gib_tute0]
+v = "random"
+
+[gib_tute1]
+v = "random"
+
+[gib_tute2]
+v = "random"
+
+[gib_tute3]
+v = "random"
+
+[gib_tute4]
+v = "random"
+
+[gib_genre]
+v = "_gib_genre_trope"
+t = "TV Trope"
+
+[question]
+t = "Bard: parrying, chillin’."
+v = "question"
+s = "“Bard: parrying, chillin’.”"
+
+[answer]
+t = "Card-Carrying Villain"
+r = "^CARD[ \-]?CARR?YING VILL?[AEIOUY]{1,2}N$"
+
+[clue0]
+t = "“I’m proud and professional..."
+v = "clue0"
+s = "“I’m proud and professional,” this kind of character might say..."
+
+[clue1]
+t = "...about being a bad guy and doing evil deeds..."
+v = "clue1"
+s = "“About being a bad guy, and doing evil deeds.”"
+
+[clue2]
+t = "...so please, take my business card.”"
+v = "clue2"
+s = "“So please, take my business card.”"
+
+; always generic wrong answer. might override later if guest host happens
+[gib_wrong]
+v = "random"
+
+[reveal]
+v = "reveal"
+s = "
+If you’re gonna be a bad guy, why not be upfront with it, and be a professional?[#3719#]
+A reliable business partner?[#5438#]
+A “bard parrying chillin’”?
+"
+
+[outro]
+v = "outro"
+s = "
+I mean, Doofenschmirtz Evil Incorporated needs more business partners, too. Want me to give you their email address?
+"
+
+[buzz_in]
+v = "random"
+
+[skip]
+v = "random"

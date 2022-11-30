@@ -1,0 +1,109 @@
+[root]
+type = "S"
+has_both = false
+
+[pretitle]
+v = "random"
+
+[title]
+t = "The World Accordion to Al"
+v = "title"
+s = "“The World Accordion to Al”."
+
+[sort_segue]
+v = "sort_segue"
+s = "It’s a Sorta Kinda, by the way."
+
+[sort_category]
+v = "sort_category"
+s = "If you’re wondering why I sound quieter, it’s because I’m gonna be doing a question about one of Daisy’s favorite musicians, and I don’t want her going ballistic."
+
+[sort_explain]
+v = "sort_explain"
+s = "So please keep quiet while you tell me if the following 2010-ish songs were:"
+
+[sort_a]
+t = "parodied by “Weird Al” Yankovic"
+v = "sort_a"
+s = "parodied by “Weird Al” Yankovic, or:"
+
+[sort_b]   
+t = "parodied by the Annoying Orange"
+v = "sort_b"
+s = "parodied by The Annoying Orange. If it was pastiched by..."
+
+[sort_a_short]
+t = "Weird Al"
+v = "sort_a_short"
+s = "Weird Al,"
+
+[sort_press_left]
+v = "sort_press_left"
+s = "press Left. And if it was made insufferable by..."
+
+[sort_b_short]
+t = "the Annoying Orange"
+v = "sort_b_short"
+s = "The Annoying Orange,"
+
+[sort_press_right]
+v = "sort_press_right"
+s = "press Right."
+
+[sort_lifesaver]
+v = "sort_lifesaver"
+s = "And don’t reach for your Lifesaver this round. It won’t work. Here we go."
+
+[sort_no_lifesaver]
+v = "sort_no_lifesaver"
+s = "All clear? Here we go."
+
+[sort_options]
+t = [
+"Party in the U.S.A. – Miley Cyrus (2009)",
+"Party Rock Anthem – LMFAO (2011)",
+"Happy – Pharrell Williams (2013)",
+"Gangnam Style – PSY (2012)",
+"Born This Way – Lady Gaga (2011)",
+"Poker Face – Lady Gaga (2008)",
+"Bad Romance – Lady Gaga (2009)",
+]
+s = [
+"Party in the U.S.A. by Miley Cyrus.",
+"Party Rock Anthem by LMFAO.",
+"Happy by Pharrell Williams.",
+"Gangnam Style by PSY.",
+"Born This Way by Lady Gaga.",
+"Poker Face by... also Lady Gaga.",
+"Bad Romance—You know the drill.",
+]
+a = [1, 0, 0, 1, 0, 0, 1]
+
+[sort_perfect]
+v = "sort_perfect"
+s = "You grabbed this Sorta Kinda by the frizzy hair and yanked it!"
+
+[sort_good]
+v = "sort_good"
+s = "[i][in Annoying Orange impression][/i] Wazzuuuuuuuuup? [i][normally][/i] Well, your score is, but not by much."
+
+[sort_ok]
+v = "sort_ok"
+s = "You’re about as good as a parody of Friday by Rebecca Black. Honestly, anything’s better than the original."
+
+[sort_bad]
+v = "sort_bad"
+s = "[i][in Annoying Orange impression][/i] Hey! Hey! Score! Hey, score! KNIFE!"
+
+[outro]
+v = "outro"
+s = "
+[b]Candy:[/b] Phew, we made it through this question intact. Onto the—[##]
+[i](accordion rendition of the Jaws theme)[/i][##]
+[b]Candy:[/b] Oh no. Duck and cover! Save yourselves![##]
+[b]Daisy:[/b] [i][in crazed tone][/i] Caaandyyy![##]
+[b]Candy:[/b] Run for your life!
+"
+
+[skip]
+v = "random"

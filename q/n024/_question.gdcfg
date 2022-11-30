@@ -1,0 +1,80 @@
+[root]
+type = "N"
+
+[pretitle]
+v = "pretitle"
+s = "Entering the scene..."
+
+[title]
+t = "I’ve Been a Keen Teen for Ween"
+v = "title"
+s = "“I’ve Been a Keen Teen for Ween”."
+
+[intro]
+v = "intro"
+s = "Wow, these rhymes packed like sardines are on fire like kerosene! Well, ready to make some green?"
+
+[question]
+t = "If you were [b]weaning[/b] with the members of the band Ween, which of the following would you have been?"
+v = "question"
+s = "
+If you were [i]weaning[/i] with the members of the band Ween, which of the following would you have been?
+"
+
+[options]
+t = [
+"changing car oil with Dean and Gene",
+"making clarified butter with Dean and Gene",
+"abstaining from breast milk with Dean and Gene",
+"jacking off Dean and Gene"
+]
+v = "options"
+s = "
+Changing car oil with Dean and Gene,[#1725#]
+making clarified butter with Dean and Gene,[#3718#]
+abstaining from breast milk with Dean and Gene,[#5622#]
+or jacking off Dean and Gene?
+"
+i = 2
+
+[used_lifesaver]
+v = "random"
+
+[reveal]
+v = "random"
+
+[reveal_crickets]
+v = "random"
+
+[reveal_jinx]
+v = "random"
+
+[reveal_split]
+v = "random"
+
+[reveal_correct]
+v = "random"
+
+[option0]
+v = "option0"
+s = "You mean filling a limousine with gasoline? That’s wrong too, but you know what I mean."
+
+[option1]
+v = "option1"
+s = "You could use that for cooking the Pork Roll Egg and Cheese.[#2421#]But that’s the wrongest answer to this question I’ve ever seen."
+
+[option2]
+v = "option2"
+s = "Weaning is where a baby is trained to stop drinking breast milk and start eating more solid foods,[#4853#]like pastes made of crushed soybean."
+
+[option3]
+v = "option3"
+s = "I think you’re too stuck on the word “Ween”."
+
+[outro]
+v = "outro"
+s = "That’s one way to get used to Guava Juice.[#2124#]
+After that, you should get the Sega Genesis out so you, Dean, and Gene can play Dr. Robotnik’s Mean Bean Machine.[#7793#]
+...I can’t stop rhyming. Hopefully it’ll get better before Halloween.[#11222#]
+Oh, in the name of the Queen![#13423#]
+Oh well, off to Question Thirteen."

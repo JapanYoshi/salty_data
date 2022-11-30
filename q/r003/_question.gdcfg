@@ -1,0 +1,108 @@
+[root]
+type = "R"
+
+[rush_intro]
+v = "random"
+
+[rush_tute0]
+v = "random"
+
+[rush_tute1]
+v = "random"
+
+[rush_tute2]
+v = "random"
+
+[rush_tute3]
+v = "random"
+
+[title]
+t = "Dead Presidents"
+v = "title"
+s = "
+“Dead Presidents”.
+"
+
+[explanation]
+v = "explanation"
+s = "
+Tell me how these presidents died, to get dead presidents in your wallet.
+"
+
+[rush_ready]
+v = "_rush_ready"
+
+[section0]
+q = "heart malfunction"
+o = [
+"John Adams",
+"James Madison",
+"James A. Garfield",
+"William McKinley",
+"Warren G. Harding",
+"Calvin Coolidge"
+]
+a = [1,1,0,0,1,1]
+
+[section1]
+q = "stroke"
+o = [
+"Harry S. Truman",
+"John Quincy Adams",
+"Millard Fillmore",
+"Andrew Johnson",
+"Jimmy Carter",
+"Richard Nixon"
+]
+a = [0,1,1,1,0,1]
+
+[section2]
+q = "assassination"
+o = [
+"William Howard Taft",
+"Abraham Lincoln",
+"Theodore Roosevelt",
+"James A. Garfield",
+"William McKinley",
+"John F. Kennedy"
+]
+a = [0,1,0,1,1,1]
+
+[section3]
+q = "in office (not assassinated)"
+o = [
+"William Henry Harrison",
+"James K. Polk",
+"Zachary Taylor",
+"John Tyler",
+"Warren G. Harding",
+"Franklin D. Roosevelt"
+]
+a = [1,0,1,0,1,1]
+
+[section4]
+q = "on the Fourth of July"
+o = [
+"Ulysses S. Grant",
+"Thomas Jefferson",
+"Dwight D. Eisenhower",
+"John Adams",
+"Herbert Hoover",
+"James Monroe"
+]
+a = [0,1,0,1,0,1]
+
+[section5]
+q = "after the COVID pandemic started"
+o = [
+"George H. W. Bush (Sr.)",
+"George W. Bush (Jr.)",
+"Gerald Ford",
+"Ronald Reagan",
+"Bill Clinton",
+"Jimmy Carter"
+]
+a = [0,1,0,0,1,1]
+
+[skip]
+v = "_rush_skip"

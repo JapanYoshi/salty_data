@@ -1,0 +1,103 @@
+[root]
+type = "S"
+has_both = false
+
+[pretitle]
+v = "random"
+
+[title]
+t = "Schadenfreude: a Life Story"
+v = "title"
+s = "“Schadenfreude: a Life Story”."
+
+[sort_segue]
+v = "_sort_segue"
+s = ""
+
+[sort_category]
+v = "sort_category_injuries"
+s = "I’m gonna read a list of seven injuries."
+
+[sort_explain]
+v = "sort_explain"
+s = "And for each one, tell me if it was inflicted upon:"
+
+[sort_a]
+t = "pro-wrestler Mic Foley"
+v = "sort_a"
+s = "pro-wrestler Mic Foley, or:"
+
+[sort_b]   
+t = "Steve-O from [i]Jackass[/i]"
+v = "sort_b"
+s = "Steve-O from the stunt/variety show [i]Jackass.[/i] If it was suffered by..."
+
+[sort_a_short]
+t = "Mic Foley"
+v = "sort_a_short"
+s = "Mic Foley,"
+
+[sort_press_left]
+v = "sort_press_left"
+s = "press [i]Left.[/i] And if it was suffered by..."
+
+[sort_b_short]
+t = "Steve-O"
+v = "sort_b_short"
+s = "Steve-O,"
+
+[sort_press_right]
+v = "sort_press_right"
+s = "Press [i]Right.[/i]"
+
+[sort_lifesaver]
+v = "_sort_lifesaver"
+
+[sort_no_lifesaver]
+v = "_sort_no_lifesaver"
+
+[sort_options]
+t = [
+"severed ear",
+"broken tailbone",
+"twice broken nose",
+"second-degree burns on face",
+"bruised kidneys",
+"eight concussions",
+"splintered ankle",
+]
+s = [
+"Severed ear!",
+"Broken tailbone!",
+"Twice broken nose!",
+"S—Second-degree burns on face, oh God.",
+"Bruised kid—Jeez! [i]Both[/i] kidneys?!",
+"Eight concu—Okay, no, I’m done. I can’t with this.",
+"Splintered... [i](retches)[/i] ankle...",
+]
+a = [0, 1, 0, 1, 0, 0, 1]
+
+[sort_perfect]
+v = "sort_perfect"
+s = "If you’re gonna be dumb, you gotta be tough. Which conversely explains why you can’t bench press more than the bar."
+
+[sort_good]
+v = "sort_good"
+s = "You’re like Steve-O after the drugs. Good, but there’s no magic in it anymore."
+
+[sort_ok]
+v = "sort_ok"
+s = "Just for the record, how many steel chairs did you get thrown at your head?"
+
+[sort_bad]
+v = "sort_bad"
+s = "The only jackass I see here is you."
+
+[outro]
+v = "outro"
+s = "Adrenaline is one hell of a drug.[#2465#]
+It numbs the pain when you get into horrible painful injuries,[#4897#]
+but it makes you get into those horrible painful injuries in the first place."
+
+[skip]
+v = "random"

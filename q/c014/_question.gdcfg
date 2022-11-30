@@ -1,0 +1,119 @@
+[root]
+type = "C"
+
+[pretitle]
+v = "random"
+
+[title]
+t = "Checking on My Amazon Stocks"
+v = "title"
+s = "
+“Checking on My Amazon Stocks”.
+"
+
+[intro]
+v = "intro"
+s = "
+[#1527#]
+[i](sigh)[/i] Screw it. Let’s have a Laffy Taffy.
+"
+
+[setup]
+t = "What’s the derivative of Amazon?"
+v = "setup"
+s = "
+“What’s the derivative of Amazon?[#2148#]
+"
+
+[punchline]
+t = "Amazon Prime!"
+v = "punchline"
+s = "
+Amazon Prime!”
+"
+
+[post_punchline]
+v = "post_punchline"
+s = "
+A calculus joke... I don’t think Laffy Taffy knows its audience, people.
+"
+
+[question]
+t = "Let’s say that Amazon is a cubic function. [#2622#]What kind of graph would Amazon Prime have?"
+v = "question"
+s = "
+Let’s say that Amazon is a cubic function.[#2622#]
+What kind of graph would Amazon Prime have?
+"
+
+[options]
+t = [
+"a 4th-degree polynomial",
+"a parabola",
+"a straight line",
+"a different cubic function",
+]
+v = "options"
+s = "
+A fourth-degree polynomial, a parabola, a straight line, or a different cubic function?
+"
+i = 1
+
+[used_lifesaver]
+v = "random"
+
+[reveal]
+v = "random"
+
+[reveal_crickets]
+v = "random"
+
+[reveal_jinx]
+v = "random"
+
+[reveal_split]
+v = "random"
+
+[reveal_correct]
+v = "random"
+
+[option0]
+v = "option0"
+s = "
+No, that would be the integral of Amazon.[#2918#]
+Man, I wish I knew enough about calculus to make a joke about that.
+"
+
+[option1]
+v = "option1"
+s = "
+The derivative of a polynomial has a degree one lower than the original polynomial.[#4492#]
+So that means the third-degree polynomial Amazon will have a secord-degree Amazon Prime,[#9838#]
+or in other words, a quadratic function, whose graph we call a parabola.[#14127#]
+—That was just word salad to me. I dunno.
+"
+
+[option2]
+v = "option2"
+s = "
+I think you’re thinking of a stock market graph, buddy.
+"
+
+[option3]
+v = "option3"
+s = "
+You know what? I—I appreciate you trying.[#2405#]
+Calculus is confusing, so I don’t blame you for getting it wrong.[#5704#]
+I’m still taking away your points, though. And silently laughing at you.
+"
+
+[outro]
+v = "outro"
+s = "
+Okay, wait, wait, wait, I got a genius business opportunity! Someone write this down! So...[#3962#]
+Okay, it’s Laffy Taffy... But it has advanced math jokes on it...[#8028#]
+And we market it to, like, students and schools and teachers, and it’s called...[#11666#]
+Graph-y Taffy![#12991#]
+[#14339#]
+Alright, now that I say it out loud, it doesn’t feel so good.
+"

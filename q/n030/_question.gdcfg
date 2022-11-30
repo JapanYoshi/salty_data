@@ -1,0 +1,77 @@
+[root]
+type = "N"
+
+[pretitle]
+v = "_pretitle_miles"
+
+[title]
+t = "Breadth of the Wild"
+v = "title"
+s = "“Breadth of the Wild”."
+
+[intro]
+v = ""
+
+[question]
+t = "How many links tall is Link from the [i]Legend of Zelda[/i] series?"
+v = "question"
+s = "How many links tall is Link from the [i]Legend of Zelda[/i] series?"
+
+[options]
+t = [
+"Link is 2 to 3 links tall",
+"Link is 8 to 9 links tall",
+"Link is 30 to 40 links tall",
+"Link is 160 to 180 links tall"
+]
+v = "options"
+s = "
+Link is 2 to 3 links tall,[#2021#]
+Link is 8 to 9 links tall,[#4100#]
+Link is 30 to 40 links tall,[#6315#]
+or Link is 160 to 180 links tall?
+"
+i = 1
+
+[used_lifesaver]
+v = "_used_lifesaver_miles"
+
+[reveal]
+v = "_reveal_miles"
+
+[reveal_crickets]
+v = "_reveal_crickets_miles"
+
+[reveal_jinx]
+v = "_reveal_jinx_miles"
+
+[reveal_split]
+v = "_reveal_split_miles"
+
+[reveal_correct]
+v = "_reveal_correct_miles"
+
+[option0]
+v = "option0"
+s = "That would make him about as tall as a garden gnome, but I can understand your confusion."
+
+[option1]
+v = "option1"
+s = "A link—the unit—is 20.1 centimeters, or 7.9 inches.[#4787#]
+Since Link—the hero—is a young adult male of average height in most incarnations,[#9423#]
+a reasonable height for him would be 8 to 9 links tall,[#12338#]
+which is 160 to 180 centimeters, or 5-foot-3 to 5-foot-11."
+
+[option2]
+v = "_option_miles"
+
+[option3]
+v = "option3"
+s = "You’re thinking of centimeters, not links."
+
+[outro]
+v = "outro"
+s = "
+All these unit questions, read by a man named “Miles Stone”.[#3497#]
+Did Candy [i]plan[/i] to faint?
+"

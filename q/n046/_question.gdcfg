@@ -1,0 +1,71 @@
+[root]
+type = "N"
+
+[pretitle]
+v = "random"
+
+[title]
+t = "Burj-eoise Khalifa"
+v = "title"
+s = "“Burj-eoise Khalifa”."
+
+[intro]
+v = "intro"
+s = "Ah, Burj Khalifa.[#2263#]Specifically made to be the tallest tower in the world,[#5300#]by Saudi millionaires who have more money than they know what to do with."
+
+[question]
+v = "question"
+t = "Which of the following is a [b]true[/b] fact about Burj Khalifa?"
+s = "Which of the following is a [i]true[/i] fact about Burj Khalifa?"
+
+[options]
+t = [
+"It has the highest outdoor observation deck in the world.",
+"It has more than 3000 parking spaces.",
+"It has the highest toilet in the world.",
+"It took more than 5 years to build it."
+]
+v = "options"
+s = "It has the highest outdoor observation deck in the world,[#3144#]
+it has more than 3000 parking spaces,[#5714#]
+it has the highest toilet in the world,[#7731#]
+or it took more than 5 years to build it?"
+i = 3
+
+[used_lifesaver]
+v = "random"
+
+[reveal]
+v = "random"
+
+[reveal_crickets]
+v = "random"
+
+[reveal_jinx]
+v = "random"
+
+[reveal_split]
+v = "random"
+
+[reveal_correct]
+v = "random"
+
+[option0]
+v = "option0"
+s = "That Guinness World Record was beaten by Canton Tower in Guangzhou, China.[#4100#]Just goes to show that “tallest building” world records are dick-measuring contests by rich autocrats."
+
+[option1]
+v = "option1"
+s = "Alas, they were just 43 parking spaces short of a full 3000.[#3940#]Maybe they just couldn’t fit all those expensive luxury cars a bit more up close for fear of scratching each other."
+
+[option2]
+v = "option2"
+s = "Barafu Camp, Tanzania has that record, at 4600m up Kilimanjaro,[#5799#]or about 5½ Burj Khalifas high.[#8814#]That’s the closest you can get to literally sh**ing on Burj Khalifa."
+
+[option3]
+v = "option3"
+s = "Burj Khalifa took over 5 years to build.[#3218#]Looks like no amount of oil money could have made them work any faster."
+
+[outro]
+v = "outro"
+s = "But oil money can and did convince them that [i]not[/i] connecting the Burj Khalifa to the sewage system is an acceptable cost-cutting measure.[#7105#]A marvel of engineering: over 800 meters high,[#11649#]supported by poop trucks."

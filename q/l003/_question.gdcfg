@@ -1,0 +1,136 @@
+[root]
+type = "L"
+
+[like_intro]
+v = "random"
+
+[like_tute0]
+v = "random"
+
+[like_tute1]
+v = "random"
+
+[like_tute2]
+v = "random"
+
+[like_tute3]
+v = "random"
+
+[like_title]
+v = "random"
+
+[title]
+t = "Sit (Down, Shut Up)-Com"
+v = "title"
+s = "
+“Sit Down, Shut Up-Com”.
+"
+
+[like_options]
+v = "random"
+
+[options]
+v = "options"
+o = [
+    "[i]Three’s Company[/i] (1976–)",
+    "[i]7th Heaven[/i] (1996–)",
+    "[i]8 Simple Rules[/i] (2002–)"
+]
+s = "
+[i]Three’s Company, 7th Heaven,[/i] and [i]8 Simple Rules.[/i]
+"
+
+[like_ready]
+v = "like_ready"
+s = "“Be Kind, Rewind” to the golden days of the Boob Tube."
+
+[section0]
+v = "section0"
+t = "had more seasons than the number in its title"
+s = "“Had more seasons than the number in its title”."
+o = [
+    "[i]Three’s Company[/i] (1976–)",
+    "[i]7th Heaven[/i] (1996–)",
+    "[i]8 Simple Rules[/i] (2002–)",
+    "[i]Six Feet Under[/i] (2001–)"
+]
+
+[answer0]
+a = [1, 1, 0, 0]
+v = "answer0"
+s = "
+[i]Three[/i] got 8 seasons, [i]7th[/i] had 11 seasons,[#3386#][i]8[/i] had just 3 seasons, and [i]Six[/i] had 5 seasons.[#7004#]Try wrapping your head around [i]that.[/i]
+"
+
+[section1]
+v = "section1"
+t = "featured actor John Ritter"
+s = "“Featured actor John Ritter”."
+o = [
+    "[i]Three’s Company[/i] (1976–)",
+    "[i]7th Heaven[/i] (1996–)",
+    "[i]8 Simple Rules[/i] (2002–)",
+    "[i]The Love Boat[/i] (1977–)"
+]
+
+[answer1]
+a = [1, 0, 1, 1]
+v = "answer1"
+s = "
+Bless his soul, John Ritter also voiced Eugene Grandy from [i]King of the Hill[/i] till his death in 2003.
+"
+
+[section2]
+v = "section2"
+t = "had a black main character"
+s = "“Had a black main character”."
+o = [
+    "[i]Three’s Company[/i] (1976–)",
+    "[i]7th Heaven[/i] (1996–)",
+    "[i]8 Simple Rules[/i] (2002–)",
+    "[i]Saved by the Bell[/i] (1989–)"
+]
+
+[answer2]
+a = [0, 0, 0, 1]
+v = "answer2"
+s = "Good ol’ Lisa Turtle, played by Lark Voorhies.[#2978#][i]Saved[/i] came out in 1989, and was ruined by the reboot in 1993."
+
+[section3]
+v = "section3"
+t = "got canceled multiple times"
+s = "“Got canceled multiple times”."
+o = [
+    "[i]Three’s Company[/i] (1976–)",
+    "[i]7th Heaven[/i] (1996–)",
+    "[i]8 Simple Rules[/i] (2002–)",
+    "[i]Taxi[/i] (1978–)"
+]
+
+[answer3]
+a = [0, 1, 0, 1]
+v = "answer3"
+s = "Warner Bros canceled [i]7th[/i] after Season 10, but the CW brought it back for an 11th.[#5181#][i]Taxi[/i] changed hands from ABC to NBC in Season 5.[#9012#]Guess that makes two studios that tried to get sloppy seconds from a canceled show like a vulture."
+
+[section4]
+v = "section4"
+t = "7 or above on IMDb (as of September 2022)"
+s = "“Seven or above on IMDb”."
+o = [
+    "[i]Three’s Company[/i] (1976–)",
+    "[i]7th Heaven[/i] (1996–)",
+    "[i]8 Simple Rules[/i] (2002–)",
+    "[i]Family Matters[/i] (1989–)"
+]
+
+[answer4]
+a = [1, 0, 1, 0]
+v = "answer4"
+s = "The lowest rating out of this bunch by far is [i]7th[/i],[#3439#]with a 5.5/10 against [i]Family Matters’[/i] 6.6."
+
+[like_outro]
+v = "random"
+s = ""
+
+[skip]
+v = "random"

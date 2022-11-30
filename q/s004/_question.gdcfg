@@ -1,0 +1,105 @@
+[root]
+type = "S"
+has_both = false
+
+[pretitle]
+v = "random"
+
+[title]
+t = "Ready or Knot"
+v = "title"
+s = "“Ready or Knot”,"
+
+[sort_segue]
+v = "sort_segue"
+s = "here comes a Sorta Kinda!"
+
+[sort_category]
+v = "sort_category_names"
+s = "I’m gonna give you 7 names."
+
+[sort_explain]
+v = "sort_explain"
+s = "For each of them, I need you to tell me if it’s..."
+
+[sort_a]
+t = "a way to tie a necktie"
+v = "sort_a"
+s = "a way to tie a necktie,"
+
+[sort_b]   
+t = "a way to hold someone down in wrestling"
+v = "sort_b"
+s = "or a way to hold someone down in wrestling. If it’s a..."
+
+[sort_a_short]
+t = "necktie knot"
+v = "sort_a_short"
+s = "necktie knot,"
+
+[sort_press_left]
+v = "_sort_press_left"
+
+[sort_b_short]
+t = "wrestling hold"
+v = "sort_b_short"
+s = "wrestling hold,"
+
+[sort_press_right]
+v = "_sort_press_right"
+
+[sort_lifesaver]
+v = "_sort_lifesaver"
+
+[sort_no_lifesaver]
+v = "_sort_no_lifesaver"
+
+[sort_options]
+t = [
+"half Nelson",
+"half Windsor",
+"fish hook",
+"cloverleaf",
+"four-in-hand",
+"trinity",
+"double chickenwing"
+]
+s = [
+"Half Nelson!",
+"Half Windsor!",
+"Fish hook!",
+"Cloverleaf!",
+"Four-in-hand!",
+"Trinity!",
+"Double chickenwing!"
+]
+a = [1, 0, 1, 1, 0, 0, 1]
+
+[sort_perfect]
+v = "sort_perfect"
+s = "[i](wrestling gong, crowd cheer)[/i][#1500#]
+Knock-out! You deserve the champion belt, sport!"
+
+[sort_good]
+v = "sort_good"
+s = "That was like tying a full Windsor without practice.[#2625#]
+You could almost do it, but it ended up messy."
+
+[sort_ok]
+v = "sort_ok"
+s = "No amount of fixing could’ve gotten you a decent score."
+
+[sort_bad]
+v = "sort_bad"
+s = "You wear clip-ons, don’t you?"
+
+[outro]
+v = "outro"
+s = "
+I have some unused options:[#1750#]
+Prince Albert, Pratt, Krasny Hourglass, Front Chancery.[#6250#]
+Only one of them is a wrestling move, and you’ll never know which.
+"
+
+[skip]
+v = "random"

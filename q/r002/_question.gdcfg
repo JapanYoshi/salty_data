@@ -1,0 +1,108 @@
+[root]
+type = "R"
+
+[rush_intro]
+v = "random"
+
+[rush_tute0]
+v = "random"
+
+[rush_tute1]
+v = "random"
+
+[rush_tute2]
+v = "random"
+
+[rush_tute3]
+v = "random"
+
+[title]
+t = "Been There, Not Born There"
+v = "title"
+s = "
+“Been There, Not Born There”.
+"
+
+[explanation]
+v = "explanation"
+s = "
+Which world-hoppers are [i]not from[/i] the wonderful place in question?
+"
+
+[rush_ready]
+v = "_rush_ready"
+
+[section0]
+q = "Narnia (The Chronicles of)"
+o = [
+"Peter Pevensie",
+"Peter’s father",
+"Eustace Scrubb",
+"Polly Plummer",
+"King Frank",
+"Dr. Cornelius"
+]
+a = [1,0,1,1,1,0]
+
+[section1]
+q = "Neverland (Peter Pan)"
+o = [
+"Peter Pan",
+"Tinkerbell",
+"Wendy Darling",
+"Tigerlily",
+"Captain Hook",
+"the crocodile"
+]
+a = [1,0,1,0,1,0]
+
+[section2]
+q = "Oz (The Wizard of)"
+o = [
+"Dorothy Gale",
+"Toto",
+"Glinda",
+"the Scarecrow",
+"the Wicked Witch of the West",
+"the Wizard of Oz"
+]
+a = [1,1,0,0,0,1]
+
+[section3]
+q = "The Grid (Tron)"
+o = [
+"Kevin Flynn",
+"Sam Flynn",
+"Clu",
+"Alan Bradley",
+"General Tesler",
+"the DataWraiths"
+]
+a = [1,1,0,1,0,1]
+
+[section4]
+q = "real life (Enchanted)"
+o = [
+"Giselle",
+"Robert Phillip",
+"Prince Edward",
+"Queen Narissa",
+"Nancy Tremaine",
+"Pip"
+]
+a = [1,0,1,1,0,1]
+
+[section5]
+q = "real life (Space Jam)"
+o = [
+"Michael Jordan",
+"Charles Barkley",
+"Bugs Bunny",
+"Wile E. Coyote",
+"Daffy Duck",
+"Foghorn Leghorn"
+]
+a = [0,0,1,0,1,1]
+
+[skip]
+v = "_rush_skip"

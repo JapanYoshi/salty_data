@@ -1,0 +1,71 @@
+[root]
+type = "N"
+
+[pretitle]
+v = "random"
+
+[title]
+t = "Full of Bull"
+v = "title"
+s = "“Full of Bull”."
+
+[intro]
+v = ""
+
+[question]
+t = "If I decided to fill up an empty stomach with nothing but Red Bull, how many 8.3 oz (245 ml) cans can I expect to chug?"
+v = "question"
+s = "
+If I decided to fill up an empty stomach with nothing but Red Bull[#2963#]
+like I did earlier this week,[#4340#]
+how many 8.3-ounce cans can I expect to chug?
+"
+
+[options]
+t = [
+"2.4 cans",
+"3.8 cans",
+"5.1 cans",
+"6.9 cans"
+]
+v = "options"
+s = "2.1 cans, 3.8 cans, 5.1 cans, or 6.9 cans?"
+i = 1
+
+[used_lifesaver]
+v = "random"
+
+[reveal]
+v = "random"
+
+[reveal_crickets]
+v = "random"
+
+[reveal_jinx]
+v = "random"
+
+[reveal_split]
+v = "random"
+
+[reveal_correct]
+v = "random"
+
+[option0]
+v = "option0"
+s = "Just two? Come on, get your belly in the game!"
+
+[option1]
+v = "option1"
+s = "The human stomach can expand to about a quart, which is 32 fluid ounces.[#4250#]
+You can fit 4 cans of Bull in there if you really try."
+
+[option2]
+v = "random"
+
+[option3]
+v = "option3"
+s = "[i]Not[/i] nice."
+
+[outro]
+v = "outro"
+s = "Where I come from, that’s called “completely normal finals week behavior”."

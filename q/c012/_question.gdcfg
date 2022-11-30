@@ -1,0 +1,107 @@
+[root]
+type = "C"
+
+[pretitle]
+v = "random"
+
+[title]
+t = "These Jokes are Classic"
+v = "title"
+s = "
+“These Jokes are Classic”—No they aren’t.
+"
+
+[intro]
+v = "intro"
+s = "
+Hey, you don’t mind if I take a quick lunch break now, right?[#2532#]
+Don’t worry, I won’t be eating anything noisy, just a tuna sandwich and a Laffy Taffy.
+"
+
+[setup]
+t = "What is a chicken’s favorite composer?"
+v = "setup"
+s = "
+“What is a chicken’s favorite composer?[#2572#]
+"
+
+[punchline]
+t = "Bach! Bach! Bach!"
+v = "punchline"
+s = "
+Bach! Bach! Bach!”
+"
+
+[post_punchline]
+v = "post_punchline"
+s = "
+[i](deep, disillusioned sigh)[/i][#2369#]
+I don’t know if I should laugh or cry. Maybe both.
+"
+
+[question]
+t = "If these chickens really [i]are[/i] fans of Bach, which of the following pieces would be their favorite?"
+v = "question"
+s = "If these chickens really [i]are[/i] fans of Bach, which of the following pieces would be their favorite?"
+
+[options]
+t = [
+"Canon in D Major",
+"The Well-Tempered Clavier",
+"The Four Seasons",
+"Eine Kleine Nachtmusik",
+]
+v = "options"
+s = "
+Canon in D Major, the Well-Tempered Clavier,[#2912#]
+the Four Seasons, or Eine Kleine Nachtmusik?
+"
+i = 1
+
+[used_lifesaver]
+v = "random"
+
+[reveal]
+v = "random"
+
+[reveal_crickets]
+v = "random"
+
+[reveal_jinx]
+v = "random"
+
+[reveal_split]
+v = "random"
+
+[reveal_correct]
+v = "random"
+
+[option0]
+v = "option0"
+s = "
+[i][shouting over piano slams][/i] You need more practice!
+"
+
+[option1]
+v = "option1"
+s = "
+The Well-Tempered Clavier is the only piece by Bach on this list.
+"
+
+[option2]
+v = "option2"
+s = "
+Is that the [i]only[/i] bit of classical music you know?
+"
+
+[option3]
+v = "option3"
+s = "
+No, Eine Kleine Nachtmusik is by Mozart. And those chickens didn’t seem to like Mozart much.
+"
+
+[outro]
+v = "outro"
+s = "
+I didn’t know chickens were into classical music. I would have thought they would be country fans.
+"

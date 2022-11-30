@@ -1,0 +1,78 @@
+[root]
+type = "N"
+
+[pretitle]
+v = "random"
+
+[title]
+t = "The Blues (Da Ba Dee, Da Ba Dye)"
+v = "title"
+s = "“The Blues (Da Ba Dee, Da Ba Dye)”."
+
+[intro]
+v = "intro"
+s = "Speaking of karaoke, here’s a question about music!"
+
+[question]
+t = "Suppose the band Eiffel 65 got really into blues music. [#3816#]If they decided to cover songs that use the 12-bar blues chord progression, [#7500#]which song would NOT be included in their blue blues setlist?"
+v = "question"
+s = "
+Suppose the band Eiffel 65 got really into blues music. [#3816#]If they decided to cover songs that use the 12-bar blues chord progression, [#7500#]which song would NOT be included in their blue blues setlist?
+"
+
+[options]
+t = [
+"Sing, Sing, Sing (With a Swing)",
+"Rock Around the Clock",
+"Johnny B. Goode",
+"Soul Bossa Nova, a.k.a. Austin Powers theme"
+]
+v = "options"
+s = "
+Sing, Sing, Sing (With a Swing),[#1868#]
+Rock Around the Clock,[#3087#]
+Johnny B. Goode,[#4218#]
+or Soul Bossa Nova, a.k.a. the Austin Powers theme?
+"
+i = 0
+
+[used_lifesaver]
+v = "random"
+
+[reveal]
+v = "random"
+
+[reveal_crickets]
+v = "random"
+
+[reveal_jinx]
+v = "random"
+
+[reveal_split]
+v = "random"
+
+[reveal_correct]
+v = "random"
+
+[option0]
+v = "option0"
+s = "Sing, Sing, Sing doesn't use the 12-bar blues progression. The others use it for a significant portion of the song."
+
+[option1]
+v = "option1"
+s = "I bet you don't rock at any time of day."
+
+[option2]
+v = "option2"
+s = "C’mon, Johnny B. Better!"
+
+[option3]
+v = "option3"
+s = "[i][British accent][/i] This answer’s not my groove, baby."
+
+[outro]
+v = "outro"
+s = "The 12-bar blues progression is just like the four chords of pop, except if you like it, you’re still considered cultured.[#7000#]
+Miles sings nothing but jazz classics at karaoke. Geez, hoity toity much?[#11500#]
+[b]Miles:[/b] Hey, if I want to sing [i]Fly Me to the Moon[/i] and [i]L-O-V-E[/i] at karaoke today, it’s my prerogative, okay?[#18750#]
+[b]Candy:[/b] But you sing [i]Fly Me to the Moon[/i] every single time! Live a little, Miles!"

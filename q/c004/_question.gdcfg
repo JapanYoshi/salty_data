@@ -1,0 +1,85 @@
+[root]
+type = "C"
+
+[pretitle]
+v = "random"
+
+[title]
+t = "Lolli-Pop Music"
+v = "title"
+s = "
+“Lolli-Pop Music”.
+"
+
+[intro]
+v = ""
+
+[question]
+t = "Which one of these would be the best jingle for a lollipop, because it contains “The Lick”? (Each jingle will play twice.)"
+v = "question"
+s = "Which one of these would be the best jingle for a lollipop, because it contains “The Lick”?"
+
+[options]
+t = [
+"sound 1",
+"sound 2",
+"sound 3",
+"sound 4"
+]
+v = "options"
+s = "
+Sound 1, [i](1st jingle plays)[/i][#2282#]
+sound 2, [i](2nd jingle plays)[/i][#4886#]
+sound 3, [i](3rd jingle plays)[/i][#7398#]
+or sound 4? [i](4th jingle plays)[/i][#9989#]
+Once again, it’s sound 1, [i](1st jingle plays)[/i][#13047#]
+sound 2, [i](2nd jingle plays)[/i][#15605#]
+sound 3, [i](3rd jingle plays)[/i][#18130#]
+or sound 4? [i](4th jingle plays)[/i]
+"
+i = 3
+
+[used_lifesaver]
+v = "random"
+
+[reveal]
+v = "random"
+
+[reveal_crickets]
+v = "random"
+
+[reveal_jinx]
+v = "random"
+
+[reveal_split]
+v = "random"
+
+[reveal_correct]
+v = "random"
+
+[option0]
+v = "option0"
+s = "That’s wrong! Oh, you mad? Cry Me a River about it.[#3858#]
+No, seriously, it’s called “Cry Me a River”."
+
+[option1]
+v = "option1"
+s = "Oh congrats, you found Totaka’s Song!"
+
+[option2]
+v = "option2"
+s = "That’s kinda sus, not gonna lie."
+
+[option3]
+v = "option3"
+s = "Yup, that’s the jazz cliché known as “The Lick”. [i](4th jingle plays, slower)[/i][#4659#]
+Although any stock musical phrase may be called a lick,[#7693#]
+the lick called [i]“The[/i] Lick” gained notoriety as an internet meme, owing to how commonly it seems to appear."
+
+[outro]
+v = "outro"
+s = "
+I mean, from Dave Brubeck to Chick Corea to Pink Floyd to Santana to even Lady Gaga?[#5750#]
+There’s something magical about The Lick.[#8015#]
+Ooh, Paparazzi by Lady Gaga, that’s another good one I’d love to sing.
+"

@@ -1,0 +1,23 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/post_punchline.wav-76aaf86ba64270d75122d7e3b95eb266.sample"
+
+[deps]
+
+source_file="res://q/c006/post_punchline.wav"
+dest_files=[ "res://.import/post_punchline.wav-76aaf86ba64270d75122d7e3b95eb266.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=1
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=1

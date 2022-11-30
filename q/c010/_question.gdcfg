@@ -1,0 +1,107 @@
+[root]
+type = "C"
+
+[pretitle]
+v = "random"
+
+[title]
+t = "I Liked It Before It Went Metric"
+v = "title"
+s = "
+“I Liked It Before It Went Metric”.
+"
+
+[intro]
+v = "intro"
+s = "
+You ever do that thing where you forget to eat a proper lunch,[#2315#]
+so you just end up snacking the whole day trying to make up for it,[#5711#]
+and even though you feel like you’re gonna pass out at any moment due to the lack of real food,[#9541#]
+you’re too stubborn to eat anything healthy?[#11905#]
+On an unrelated note, here’s a Laffy Taffy.
+"
+
+[setup]
+t = "How much does a hipster weigh?"
+v = "setup"
+s = "
+“How much does a hipster weigh?[#2573#]
+"
+
+[punchline]
+t = "An Instagram!"
+v = "punchline"
+s = "
+An Instagram!”
+"
+
+[post_punchline]
+v = "post_punchline"
+s = "Ugh, who wrote this, a frickin’ boomer? Anyway,"
+
+[question]
+t = "If this hipster wanted to know how much they weighed in the US Customary System, how much would they weigh in Insta-ounces?"
+v = "question"
+s = "If this hipster wanted to know how much they weighed in the US Customary System,[#3778#]how much would they weigh in Insta-ounces?"
+
+[options]
+t = [
+"≈0.002 Insta-oz.",
+"≈0.035 Insta-oz.",
+"≈0.250 Insta-oz.",
+"≈0.544 Insta-oz.",
+]
+v = "options"
+s = "
+About 0.002 Insta-ounces,[#2355#]
+about 0.035 Insta-ounces,[#4882#]
+about 0.250 Insta-ounces,[#7286#]
+or about 0.544 Insta-ounces?
+"
+i = 1
+
+[used_lifesaver]
+v = "random"
+
+[reveal]
+v = "random"
+
+[reveal_crickets]
+v = "random"
+
+[reveal_jinx]
+v = "random"
+
+[reveal_split]
+v = "random"
+
+[reveal_correct]
+v = "random"
+
+[option0]
+v = "option0"
+s = "
+That’s not even worth a quarter of an Insta-pound.
+"
+
+[option1]
+v = "option1"
+s = "
+A gram is approximately 0.035274 ounces.
+"
+
+[option2]
+v = "option2"
+s = "
+Should have weighed your options a little more.
+"
+
+[option3]
+v = "option3"
+s = "
+[i](scale breaking under excessive weight)[/i]
+"
+
+[outro]
+v = "outro"
+s = "In all seriousness, I hope that hipster is eating okay. Doesn’t hurt to put on a few extra Insta-grams for your safety."

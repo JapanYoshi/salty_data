@@ -1,0 +1,72 @@
+[root]
+type = "N"
+
+[pretitle]
+v = "random"
+
+[title]
+t = "Your host? Virago."
+v = "title"
+s = "“Your host? Virago.”"
+
+[intro]
+v = "intro"
+s = "Yup, this is another Trivago question."
+
+[question]
+t = "How can I lose my [b]viraginity[/b]?"
+v = "question"
+s = "
+How can I lose my viraginity?
+"
+
+[options]
+t = [
+  "be less vivacious",
+  "be less expensive",
+  "be less petulant",
+  "be less witty"
+]
+v = "options"
+s = "
+Be less vivacious, be less expensive, be less petulant, or be less witty?
+"
+i = 2
+
+[used_lifesaver]
+v = "random"
+
+[reveal]
+v = "random"
+
+[reveal_crickets]
+v = "random"
+
+[reveal_jinx]
+v = "random"
+
+[reveal_split]
+v = "random"
+
+[reveal_correct]
+v = "random"
+
+[option0]
+v = "option0"
+s = "Trust me, current events are making me less vivacious every single day already."
+
+[option1]
+v = "option1"
+s = "What, you can’t afford to wine and dine me out on every date?[#2813#]Olive Garden doesn’t count, by the way."
+
+[option2]
+v = "option2"
+s = "A “virago” is a loud, bad-tempered woman who is easily angered by the slightest provocation, [#5677#]and “viraginity” is the quality of being a virago. [#8687#]So the best fit out of these four would be “petulant”, [#11285#]which is similar to “irritable” or “snappy”."
+
+[option3]
+v = "option3"
+s = "Dude, imagine how boring this game would be then."
+
+[outro]
+v = "outro"
+s = "If you knew the people I know, you’d be a virago too.[#3583#]I’m the shrew that nobody can tame, bitches!"

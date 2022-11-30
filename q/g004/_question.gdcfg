@@ -1,0 +1,83 @@
+[root]
+type = "G"
+
+[pretitle]
+v = "random"
+
+[title]
+t = "Brown Guy with an Afro"
+v = "title"
+s = "
+“Brown Guy with an Afro”.
+"
+
+[gib_tute0]
+v = "random"
+
+[gib_tute1]
+v = "random"
+
+[gib_tute2]
+v = "random"
+
+[gib_tute3]
+v = "random"
+
+[gib_tute4]
+v = "random"
+
+[gib_genre]
+v = "gib_genre_chant"
+t = "chant"
+s = "With what [i]chant[/i] does this rhyme?"
+
+[question]
+t = "Frothy coffee body, coy boy toy!"
+v = "question"
+s = "“Frothy coffee body, coy boy toy!”[#2600#]
+Wow, is that horny or what?"
+
+[answer]
+t = "Aussie, Aussie, Aussie! Oi, oi, oi!"
+r = "^(AUSSIE|OZZY|OGGY),? (AUSSIE|OZZY|OGGY),? (AUSSIE|OZZY|OGGY)[,\.!]? O[IY](\-|,? )O[IY](\-|,? )O[IY][\.!]?$"
+
+[clue0]
+t = "It’s a national chant..."
+v = "clue0"
+s = "It’s a national chant... [i][stifled fake-shout][/i]FREEDOM!"
+
+[clue1]
+t = "...representing the land down under."
+v = "clue1"
+s = "It represents [i][Aussie impression][/i] the land down under. Crikey!"
+
+[clue2]
+t = "There’s only 2 words in there, repeated 3× each."
+v = "clue2"
+s = "There are only two words in there, repeated thrice each."
+
+; always generic wrong answer. might override later if guest host happens
+[gib_wrong]
+v = "random"
+
+[reveal]
+v = "reveal"
+s = "
+Apparently there are no Australians playing this game today, because here’s the answer.
+"
+
+[outro]
+v = "outro"
+s = "
+[b]Candy:[/b] You may laugh at that, but watch a single international footy game and you—[#3228#]
+[b]Daisy:[/b] [i][from outside the booth][/i] Aussie Aussie Aussie![#4463#]
+[b]Candy:[/b] Oy oy oy! I can't help it. It's a reflex now.[#6863#]
+[b]Daisy:[/b] [i][from outside the booth][/i] Aussie Aussie Aussie![#8127#]
+[b]Candy:[/b] Oy oy oy! Stop that! Once was enough!
+"
+
+[buzz_in]
+v = "random"
+
+[skip]
+v = "random"

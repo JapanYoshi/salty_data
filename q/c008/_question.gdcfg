@@ -1,0 +1,92 @@
+[root]
+type = "C"
+
+[pretitle]
+v = "random"
+
+[title]
+t = "Jokes You Have Heard a Thousand Times"
+v = "title"
+s = "
+“Jokes You Have Heard a Thousand Times”.
+"
+
+[intro]
+v = "intro"
+s = "There was a part of my life where I worked as a student proofreader for Laffy Taffy jokes.[#4048#]
+These kiddy puns are horrible 9 times out of 10![#7035#]
+But I still eat Laffy Taffy, so I’ll just share what it says on this particular wrapper here."
+
+[setup]
+t = "Did you hear about the fire at the circus?"
+v = "setup"
+s = "
+“Did you hear about the fire at the circus?[#3117#]
+"
+
+[punchline]
+t = "It was in tents!"
+v = "punchline"
+s = "
+It was in tents!”
+"
+
+[post_punchline]
+v = "post_punchline"
+s = "Hm. We can work with this."
+
+[question]
+t = "Whose sex is [b]not[/b] in tents?"
+v = "question"
+s = "Whose sex is [b]not[/b] in tents?"
+
+[options]
+t = [
+"Aleut sex",
+"Sioux sex",
+"Siberian Yupik sex",
+"Kyrgyz sex",
+]
+v = "options"
+s = "
+Aleut sex, Sioux sex, Siberian Yupik sex, or Kyrgyz sex?
+"
+i = 0
+
+[used_lifesaver]
+v = "random"
+
+[reveal]
+v = "random"
+
+[reveal_crickets]
+v = "random"
+
+[reveal_jinx]
+v = "random"
+
+[reveal_split]
+v = "random"
+
+[reveal_correct]
+v = "random"
+
+[option0]
+v = "option0"
+s = "Aleuts live in partially-underground houses called barabara.[#3171#]The rest of them live, and also reproduce, in tents."
+
+[option1]
+v = "option1"
+s = "The Sioux people famously live in a conical tent called a lodge or a teepee.[#4067#]And if you can’t find anything funny to say about the word “teepee”, you may be too young to play this game."
+
+[option2]
+v = "option2"
+s = "Siberian Yupik people live in a yaranga, a tent covered in reindeer hide.[#4081#]I hear that yaranga manufacturing is also a source of secondary income for Santa Claus."
+
+[option3]
+v = "option3"
+s = "Various nomadic groups in the central Asian steppes, like Kyrgyz nomads, live in yurts,[#4739#]mobile tents covered with woolen felt.[#6892#]Insert sheep joke here."
+
+[outro]
+v = "outro"
+s = "It’s hard to have sex with a marine mammal under a tarp,[#2885#]for all in tents and porpoises.[#4977#][#5656#]Hey, Laffy Taffy, step up your pun game!"

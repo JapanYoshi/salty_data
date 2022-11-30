@@ -1,0 +1,71 @@
+[root]
+type = "N"
+
+[pretitle]
+v = "random"
+
+[title]
+t = "I’m the Bad-at-Geography Guy, Duh"
+v = "title"
+s = "“I’m the Bad-at-Geography Guy, Duh”."
+
+[intro]
+v = ""
+s = ""
+
+[question]
+t = "If Billie Eilish were “isle-ish” because she’s only [i]mostly[/i] surrounded by ocean, what could she call herself?"
+v = "question"
+s = "If Billie Eilish were “isle-ish” because she’s only [i]mostly[/i] surrounded by ocean, what could she call herself?"
+
+[options]
+t = [
+"Billie Peninsula",
+"Billie Archipelago",
+"Billie Estuary",
+"Billie O’Brien"
+]
+v = "options"
+s = "
+Billie Peninsula, Billie Archipelago, Billie Estuary, or Billie O’Brien?
+"
+i = 0
+
+[used_lifesaver]
+v = "random"
+
+[reveal]
+v = "random"
+
+[reveal_crickets]
+v = "random"
+
+[reveal_jinx]
+v = "random"
+
+[reveal_split]
+v = "random"
+
+[reveal_correct]
+v = "random"
+
+[option0]
+v = "option0"
+s = "A peninsula is a landmass that juts out into the ocean, but isn’t an island."
+
+[option1]
+v = "option1"
+s = "No, that would mean she’s exploded into lots of little Billie Isles."
+
+[option2]
+v = "option2"
+s = "An estuary isn’t even a landmass; it’s a body of water![##]Mostly made of the brackish tears of Billie Eilish fans."
+
+[option3]
+v = "option3"
+s = "[b]Candy:[/b] [i](sigh)[/i] Daisy, please?[##]
+[b]Daisy:[/b] Nope, too easy."
+
+[outro]
+v = "outro"
+s = "She says all the good girls go to Hell, so I think that leaves all the bad girls to stay and haunt a Hot Topic or Claire’s or whatever."

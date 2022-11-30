@@ -1,0 +1,83 @@
+[root]
+type = "N"
+
+[pretitle]
+v = "random"
+
+[title]
+t = "Spoon in Your Hand, Fork in Your Mouth"
+v = "title"
+s = "“Spoon in Your Hand, Fork in Your Mouth”."
+
+[intro]
+v = "intro"
+s = "
+Have you ever noticed how restaurants just [i]love[/i] naming themselves after tableware?[#4407#]
+Just in my town, we got “the Silver Spoon”, “the Crooked Knife”, “the Flavor Table”...[#10044#]
+Ugh, you get it.
+"
+
+[question]
+v = "question"
+t = "If a new restaurant opened in my town called “Morton’s Fork”, what could I expect if I dined there?"
+s = "If a new restaurant opened in my town called “Morton’s Fork”, what could I expect if I dined there?"
+
+[options]
+t = [
+"An authority figure would decide what I would eat.",
+"I would order one thing and get something completely different.",
+"There would be 1 option on the menu; I could take it or leave it.",
+"No matter what I ordered, I would get the same thing.",
+]
+v = "options"
+s = "
+An authority figure would decide what I would eat,[#2207#]
+I would order one thing and get something completely different,[#4950#]
+There would be one option on the menu, and I could take it or leave it,[#7803#]
+Or no matter what I ordered, I would get the same thing?
+"
+i = 3
+
+[used_lifesaver]
+v = "random"
+
+[reveal]
+v = "random"
+
+[reveal_crickets]
+v = "random"
+
+[reveal_jinx]
+v = "random"
+
+[reveal_split]
+v = "random"
+
+[reveal_correct]
+v = "random"
+
+[option0]
+v = "option0"
+s = "Do you have an authority figure picking your answer choices as well?"
+
+[option1]
+v = "option1"
+s = "
+Yep, you got it! Morton’s fork is...[#2492#]
+[i]not[/i] that. See what I did there? You got something completely different than what you wanted.
+"
+
+[option2]
+v = "option2"
+s = "No, that’s “Hobson’s choice”. Common mistake."
+
+[option3]
+v = "option3"
+s = "
+Morton’s Fork is a false dilemma when two choices lead to the same result.
+"
+
+[outro]
+v = "outro"
+s = "For example, would you like to go on to the next question? Yes or no?[#4000#]
+[i](Make your insignificant choice now)[/i]"

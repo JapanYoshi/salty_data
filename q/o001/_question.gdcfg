@@ -1,0 +1,141 @@
+[root]
+type = "O"
+
+[pretitle]
+v = "random"
+
+[title]
+t = "Laugh in the Reaper’s Face"
+v = "title"
+s = "
+“Laugh in the Reaper’s Face”.
+"
+
+[preintro]
+v = "preintro"
+s = "
+[i](door opens)[/i]
+[b]Ozzy:[/b] Who’s out here using our sacred chant all willy-nilly?!
+[#3647#]
+[b]Candy:[/b] Oh God, it’s you.
+"
+
+[intro]
+v = "intro"
+s = "
+[b]Candy:[/b] Ladies and gentlemen, this is our “resident” Australian squatter Ozzy.[#5584#]
+He’s like a million years old and really angry over pretty much everything all the time.[#9762#]
+[b]Ozzy:[/b] Who you calling a million years old?![#12195#]
+You think that just because I know about stuff from forever ago that I’m old-fashioned?![#16399#]
+[b]Candy:[/b] Well, you are. Why are you here, anyway?[#18913#]
+[b]Ozzy:[/b] I was told to wait until you said something that I wouldn’t miss, then my question would be ready.[#23576#]
+I didn’t expect it to be [i]that![/i][#25738#]
+[b]Candy:[/b] I wasn’t told that. Who told you that?[#27745#]
+[b]Ozzy:[/b] I don’t know her name! Some girl in a jacket and a sh**-eating grin.[#32495#]
+[b]Candy:[/b] [i](sigh)[/i] Daisy, why are you like this?[#35364#]
+[b]Daisy:[/b] C’mon, Candy, you should be used to my sense of humor by now.[#38893#]
+[b]Ozzy:[/b] What? You call that nonsense comedy? Kid, you don’t know what you’re missing out on![#44419#]
+Comedy when I was young was actually funny![#47928#]
+[b]Candy:[/b] Which one: the guy with the Muslim terrorist ventriloquist puppet, or the badly drawn shadow puppets?[#52698#]
+[b]Ozzy:[/b] Hah! You think you’re so funny, don’t you, Candy? Eh?[#56391#]
+Here, let me tell you about a real comedy genius.
+"
+
+[question]
+t = "80’s British comedy legend...[#3276#] Founded 20th Century Coyote... [#7328#]and The Comic Strip... [#10542#]Slapstick, crude material... [#18458#]Played a sex-crazed lord, [#19808#]sadistic politician, [#21459#]a no-hoper virgin... [#23647#]Died in 2014... [#37403#]Who is Ozzy talking about?"
+v = "question"
+s = "
+[b]Ozzy:[/b] This guy was a legend of British comedy in the 80’s.[#3276#]
+He formed a comedy troupe with his friends known as 20th Century Coyote,[#7328#]
+along with their own comedy club called The Comic Strip.[#10542#]
+He performed shows that revolutionized comedy, with violent slapstick and crude and vulgar material.[#16532#]
+Some of his most iconic characters were a sex-crazed lord, a sadistic politician, and a complete no-hoper virgin.[#23647#]
+And then he passed away in 2014, where he was remembered as a pioneer of alternative comedy.[#31000#]
+[b]Candy:[/b] That sounds more like a predator than a comedian.[#33101#]
+[b]Ozzy:[/b] You youngins these days would say that! This guy was a legend.[#37403#]
+Now who the heck am I talking about?!
+"
+
+[options]
+t = [
+    "Eric Idle",
+    "Roger Lloyd-Pack",
+    "Ronnie Corbett",
+    "Rik Mayall"
+]
+v = "options"
+s = "
+Eric Idle, Roger Lloyd-Pack, Ronnie Corbett, or Rik Mayall?
+"
+i = 3
+
+[used_lifesaver]
+v = "random"
+
+[reveal]
+v = "random"
+
+[reveal_crickets]
+v = "random"
+
+[reveal_jinx]
+v = "random"
+
+[reveal_split]
+v = "random"
+
+[reveal_correct]
+v = "random"
+
+[option0]
+v = "option0"
+s = "
+[b]Ozzy:[/b] Eric Idle is still alive![#2291#] ...Right?[#3787#]
+[b]Candy:[/b] Well, as of writing this question, yeah.[#6448#]
+[b]Ozzy:[/b] And what year is this again?[#7971#]
+[b]Candy:[/b] At the very earliest, 2015.
+[b]Ozzy:[/b] Good.
+"
+
+[option1]
+v = "option1"
+s = "
+[b]Daisy:[/b] Well, you asked for it.[#1615#]
+[b]Candy:[/b] Oh god.[#2979#]
+[i](many farm animal sounds and fart sounds)[/i][#8024#]
+[b]Ozzy:[/b] And he still found time to f**k all of them!
+"
+
+[option2]
+v = "option2"
+s = "
+[b]Ozzy:[/b] You would need two of them for a start, you moron![#2779#]
+[b]Candy:[/b] ...I don’t get it.[#4221#]
+[b]Ozzy:[/b] Of course you wouldn’t!
+"
+
+[option3]
+v = "option3"
+s = "
+[b]Candy:[/b] Was it Rik Mayall, Ozzy?[#1421#]
+[b]Ozzy:[/b] ’Course it was! Rik Mayall, founder of 20th Century Coyote and The Comic Strip.[#6492#]Famous for shows such as [i]The Young Ones[/i] and [i]Bottom,[/i][#9432#]and many of his characters like Alan B’Stard and Lord Flashheart.
+"
+
+[outro]
+v = "outro"
+s = "
+[b]Candy:[/b] You actually think violence is funny?[#1774#]
+[b]Ozzy:[/b] You have no idea. You have no idea what you missed, kid! This guy was a genius![#8097#]
+[b]Candy:[/b] Really? Well, in that case... Daisy![#10877#]
+[b]Daisy:[/b] Yes, Candy?[#11976#]
+[b]Candy:[/b] What does this button marked “trap door” do again?[#14227#]
+[b]Daisy:[/b] I don’t know... Give it a push![#16968#]
+[i](buzzer) (shrill female scream)[/i][#19782#]
+[b]Candy:[/b] No no no! You were meant to play the [i]male[/i] screaming effect![#23324#]
+[b]Daisy:[/b] [i][clearly on purpose] (giggles)[/i] Oops! My bad![#25919#]
+[b]Ozzy:[/b] [i](opens door to leave)[/i] I don’t know what you kids are getting at, but it’s not my problem.[#29315#]
+[i](slams door)[/i][#30745#]
+[b]Candy:[/b] Nice one, Daisy. You ruined the joke.[#33327#]
+[b]Daisy:[/b] What? I thought that was funnier! The suggestion that you were falling down a trapdoor. Hilarious![#40431#]
+[b]Candy:[/b] You would think that, wouldn’t you?
+"

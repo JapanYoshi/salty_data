@@ -1,0 +1,90 @@
+[root]
+type = "N"
+
+[pretitle]
+v = "random"
+
+[title]
+t = "Creatures of Sin"
+v = "title"
+s = "“Creatures of Sin”."
+
+[intro]
+v = "intro"
+s = "
+So I’ve been watching Fullmetal Alchemist, and I can’t stop thinking about those seven deadly sins characters.[#4930#]
+Y’know, the Homunculi. I feel like their character designs could just be way weirder.
+"
+
+[question]
+v = "question"
+t = "What would the Homunculi look like if they resembled the [b]cortical homunculus?[/b]"
+s = "What would they look like if they resembled the cortical homunculus?"
+
+[options]
+t = [
+"They would look like Frankenstein’s Monster.",
+"The sizes of their body parts would be distorted.",
+"They would reflect the Elric brothers’ perceptions of themselves.",
+"They would have their brains on their stomachs.",
+]
+v = "options"
+s = "
+They would look like Frankenstein’s Monster,[#2050#]
+the sizes of their body parts would be distorted,[#4495#]
+they would reflect the Elric brothers’ perceptions of themselves,[#7538#]
+or they would have their brains on their stomachs?
+"
+i = 1
+
+[used_lifesaver]
+v = "random"
+
+[reveal]
+v = "random"
+
+[reveal_crickets]
+v = "random"
+
+[reveal_jinx]
+v = "random"
+
+[reveal_split]
+v = "random"
+
+[reveal_correct]
+v = "random"
+
+[option0]
+v = "option0"
+s = "
+Frankenstein’s Monster is one of a kind! You think [i]anyone[/i] could steal his look?
+"
+
+[option1]
+v = "option1"
+s = "
+The cortical homunculus is a neurological map of how the brain senses different body parts,[#4400#]
+and how much of the brain is devoted to them.
+"
+
+[option2]
+v = "option2"
+s = "
+This answer reflects your wrongness.
+"
+
+[option3]
+v = "option3"
+s = "
+I wouldn’t say that having your brain on the stomach is [i]“mostly[/i] normal”. That [i]would[/i] be frickin’ weird, though.
+"
+
+[outro]
+v = "outro"
+s = "
+It also looks frickin’ weird.[#1467#]
+Hey, at least if Lust looked like a cortical homunculus, no-one would be thirsting over her.[#5725#]
+[#6645#]
+Oh, who am I kidding, there’s gotta be some weirdo out there who would be into that.
+"

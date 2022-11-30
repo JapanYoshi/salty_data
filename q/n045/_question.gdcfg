@@ -1,0 +1,94 @@
+[root]
+type = "N"
+
+[pretitle]
+v = "random"
+
+[title]
+t = "One Of Candy’s Many Rants"
+v = "title"
+s = "One of my many rants."
+
+[intro]
+v = "intro"
+s = "Y’know, this may sound really 90s, but political correctness has gone way out of hand again.[#5491#]
+Like, when I was growing up, political correctness was all about respecting each other’s upbringing and sensibilities[#11472#]
+to a reasonable degree in a rational way.[#14462#]
+But now it’s all “my way or the highway” up in here, like—[#17401#]
+I can’t even call myself bisexual without being called[#19928#]
+“part of the q***r community”. “Part of the”—[#23460#]
+“Part of the q***r community”?![#26023#]
+Cut out the middle man and just call me a f**king d**e, why don’t you?[#29518#]
+Oh, and if I say this to anyone ever, I’m, quote unquote, “homophobic”?[#35241#]
+Yeah, no respect for [i]your[/i] feelings about hurtful words[#37993#]
+as soon as the Hive Mind decides it’s “valid”[#40809#]
+to call literally [i]everyone[/i] that slur.[#43220#]
+Anyway,"
+
+[question]
+v = "question"
+t = "Which of the following is [b]not[/b] a ridiculously PC description of a “PC”?"
+s = "Which of the following is [i]not[/i] a ridiculously PC description of a “PC”?"
+
+[options]
+t = [
+"“It’s a group of politicians who have Welsh pride.”",
+"“It’s a differently-abled pancreas cell.”",
+"“She’s an Indian-Indian person who identifies as a film actress.”",
+"“It’s a registered trademark of the IBM Corporation.”"
+]
+v = "options"
+s = "
+“It’s a group of politicians who have Welsh pride.”,[#2538#]
+“It’s a differently-abled pancreas cell.”,[#4914#]
+“She’s an Indian-Indian person who identifies as a film actress.”,[#8522#]
+or “It’s a registered trademark of the IBM Corporation.”?"
+i = 3
+
+[used_lifesaver]
+v = "random"
+
+[reveal]
+v = "random"
+
+[reveal_crickets]
+v = "random"
+
+[reveal_jinx]
+v = "random"
+
+[reveal_split]
+v = "random"
+
+[reveal_correct]
+v = "random"
+
+[option0]
+v = "random"
+s = ""
+
+[option1]
+v = "option1"
+s = "“Differently abled”—Give me a f**king break![#3261#]
+Having to use a wheelchair or something to get everywhere is “disabled”![#7060#]
+“Differently abled” would be having to [i]fly[/i] everywhere because—[#10977#]
+you have f**king super powers or something!"
+
+[option2]
+v = "option2"
+s = "No, that’s Priyanka Chopra, the massively famous Indian film actress.[#4607#]
+By the way, she doesn’t just “identify as” an actress; she [i]is[/i] an actress.[#9215#]
+Much like actual, genuine, dysphoric trans women don’t “identify as” women; they [i]are.[/i][#15213#]
+And can we talk about how they started saying “American Indian” to mean “indigenous American”[#20359#]
+to the detriment of all the half-American, half-Indian-as-in-the-subcontinent people out there?[#26288#]
+Madness!"
+
+[option3]
+v = "option3"
+s = "As far as we know, “IBM PC” was a trademark of IBM, but not the general term “PC”,[#6133#]
+which was used by all sorts of people as opposed to home computers shared by multiple persons,[#11321#]and later, as opposed to Mac computers."
+
+[outro]
+v = "outro"
+s = "But back to PC culture these days. Can we talk about how neither the extremely PC side[#5217#]nor the extremely anti-PC side want to acknowledge each other’s humanity?[#10960#]Both of those guys engage in bad-faith arguments and stomping on each other’s feelings[#15664#]because their echo chambers must keep ringing[#18138#]and being open-minded to any other viewpoints is a bannable offence![#22561#][i][audio fades out as Candy keeps ranting][/i]
+The exact moment they see any single trace of opinions, or[#27073#]God forbid, facts,[#29034#]that countervail the current consensus of the droning duckspeakers,[#33303#]no holds are barred and all hostility is justified for the good of the “community”![#38904#]It’s basically a cult!"

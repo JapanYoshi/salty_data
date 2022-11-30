@@ -1,0 +1,77 @@
+[root]
+type = "G"
+
+[pretitle]
+v = "random"
+
+[title]
+t = "But It Tastes Just Like the Real Thing!"
+v = "title"
+s = "
+“But It Tastes Just Like the Real Thing!”.
+"
+
+[gib_tute0]
+v = "random"
+
+[gib_tute1]
+v = "random"
+
+[gib_tute2]
+v = "random"
+
+[gib_tute3]
+v = "random"
+
+[gib_tute4]
+v = "random"
+
+[gib_genre]
+v = "gib_genre_cliche"
+t = "cliché"
+s = "With what [i]cliché[/i] does this rhyme?"
+
+[question]
+t = "Wet gruel plant felt real creams."
+v = "question"
+s = "“Wet gruel plant felt real creams.”"
+
+[answer]
+t = "Jet fuel can’t melt steel beams"
+r = "^JET FUEL CAN'?T MELT STE[AE]L BEAMS[\.!]?$"
+
+[clue0]
+t = "It’s something a conspiracy theory might say..."
+v = "clue0"
+s = "It’s something a conspiracy theory might say..."
+
+[clue1]
+t = "...about the construction of a certain building."
+v = "clue1"
+s = "...about the construction of a certain building."
+
+[clue2]
+t = "Plane juice can’t make metal all liquidy."
+v = "clue2"
+s = "Plane juice can’t make metal all liquidy."
+
+; always generic wrong answer. might override later if guest host happens
+[gib_wrong]
+v = "random"
+
+[reveal]
+v = "reveal"
+s = "Well, I was under the impression that the 9/11 terrorist attacks was something that you would never forget."
+
+[outro]
+v = "outro"
+s = "
+I mean, jet fuel obviously can [i]bend[/i] steel beams enough[#3942#]
+And so can crashing an entire f**king airplane onto it.
+"
+
+[buzz_in]
+v = "random"
+
+[skip]
+v = "random"

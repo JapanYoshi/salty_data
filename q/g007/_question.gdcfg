@@ -1,0 +1,77 @@
+[root]
+type = "G"
+
+[pretitle]
+v = "random"
+
+[title]
+t = "Aloha, Arachnid!"
+v = "title"
+s = "
+“Aloha, Arachnid!”
+"
+
+[gib_tute0]
+v = "random"
+
+[gib_tute1]
+v = "random"
+
+[gib_tute2]
+v = "random"
+
+[gib_tute3]
+v = "random"
+
+[gib_tute4]
+v = "random"
+
+[gib_genre]
+v = "gib_category_cliche"
+t = "cliché"
+s = "With what [i]cliché[/i] does this rhyme?"
+
+[question]
+t = "Screeching hula spider"
+v = "question"
+s = "“Screeching hula spider”."
+
+[answer]
+t = "preaching to the choir"
+r = "^PRE[AE]CHING TO THE (CH?|QU)O?IE?RE?$"
+
+[clue0]
+t = "It describes the act of arguing..."
+v = "clue0"
+s = "It describes the act of arguing..."
+
+[clue1]
+t = "...to people who are already convinced."
+v = "clue1"
+s = "...to people who are already convinced."
+
+[clue2]
+t = "Evangelizing to the singing guys."
+v = "clue2"
+s = "Evangelizing to the singing guys."
+
+; always generic wrong answer. might override later if guest host happens
+[gib_wrong]
+v = "random"
+
+[reveal]
+v = "reveal"
+s = "Well, I should thank you for not getting this one right,[#2145#]’cause otherwise I would have been screeching hula spider."
+
+[outro]
+v = "outro"
+s = "
+[i][in Southern accent][/i] “Have you heard of the good news in the Bible?”[#2500#]
+[i][in Southern accent][/i] “Heard of it? We’re already four-part harmonizing it!”
+"
+
+[buzz_in]
+v = "random"
+
+[skip]
+v = "random"

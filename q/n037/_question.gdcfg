@@ -1,0 +1,76 @@
+[root]
+type = "N"
+
+[pretitle]
+v = "random"
+
+[title]
+t = "To [code]sleep(1);[/code] Perchance to Dream"
+v = "title"
+s = "“To—
+[i][robotic voice][/i]Sleep. Open paren. One. Close paren. Semicolon.[#2131#]
+[i][normal voice][/i] Perchance to Dream”."
+
+[intro]
+v = "intro"
+s = "“To be or not to be—that is the question.” But my question is this:"
+
+[question]
+t = "According to Boolean logic, what is the answer to [code]to_be | !to_be[/code]?"
+v = "question"
+s = "According to Boolean logic, what is the answer to “to be or not to be”?"
+
+[options]
+t = [
+"[code]TRUE[/code]",
+"[code]FALSE[/code]",
+"[code]to_be[/code]",
+"[code]!to_be[/code]"
+]
+v = "options"
+s = "
+True, false, to be, or not to be?
+"
+i = 0
+
+[used_lifesaver]
+v = "random"
+
+[reveal]
+v = "random"
+
+[reveal_crickets]
+v = "random"
+
+[reveal_jinx]
+v = "random"
+
+[reveal_split]
+v = "random"
+
+[reveal_correct]
+v = "random"
+
+[option0]
+v = "option0"
+s = "Whether some boolean value x is true or false,[#3299#]
+x or not x is a tautology, meaning it’s always true.[#7392#]
+I mean, if x is false, the inverse will be true, making the whole thing result to true."
+
+[option1]
+v = "option1"
+s = "Dwight Schrute has betrayed you."
+
+[option2]
+v = "option2"
+s = "Get thee to a dumb-ery."
+
+[option3]
+v = "option3"
+s = "Right... pillock that you are."
+
+[outro]
+v = "outro"
+s = "
+Be grateful I didn’t ask you to NAND transform the quote.
+"

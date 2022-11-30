@@ -1,0 +1,78 @@
+[root]
+type = "N"
+
+[pretitle]
+v = "random"
+
+[title]
+t = "Hand in Handyman"
+v = "title"
+s = "
+“Hand in Handyman”.
+"
+
+[intro]
+v = ""
+
+[question]
+t = "A handyman finds a fossil in his back yard. [#2341#]Upon consulting an archaeologist, he finds out that it’s also a “handyman”. [#6069#]What species of hominid did he dig up?"
+v = "question"
+s = "
+A handyman finds a fossil in his back yard. [#2341#]Upon consulting an archaeologist, he finds out that it’s also a “handyman”. [#6069#]What species of hominid did he dig up?
+"
+
+[options]
+t = [
+  "a handy [i]Homo habilis[/i]",
+  "a handy [i]Homo erectus[/i]",
+  "a handy [i]Homo neanderthalensis[/i]",
+  "a handy [i]Homo floresiensis[/i]"
+]
+v = "options"
+s = "a handy [i]Homo habilis[/i],[#1263#]
+a handy [i]Homo erectus[/i],[#2494#]
+a handy [i]Homo neanderthalensis[/i],[#4333#]
+or a handy [i]Homo floresiensis[/i]?"
+i = 0
+
+[used_lifesaver]
+v = "random"
+
+[reveal]
+v = "random"
+
+[reveal_crickets]
+v = "random"
+
+[reveal_jinx]
+v = "random"
+
+[reveal_split]
+v = "random"
+
+[reveal_correct]
+v = "random"
+
+[option0]
+v = "option0"
+s = "Homo habilis is the first species of hominid known to have used stone tools, hence earning the nickname “the handyman”."
+
+[option1]
+v = "option1"
+s = "
+[b]Candy:[/b] [i][about to burst out laughing][/i] ...I can’t. I can’t both keep a “Teen” rating[#3916#]and make a joke about “a handy [i]Homo erectus”.[/i][#7693#]
+[i](Candy bursts out laughing)[/i]
+[b]Miles:[/b] Candy, please.
+"
+
+[option2]
+v = "option2"
+s = "Are you perchance related to one? I mean, I think you’re related more closely."
+
+[option3]
+v = "option3"
+s = "No, that’s the one nicknamed “the Hobbit”."
+
+[outro]
+v = "outro"
+s = "If I had a dollar for every time I was called a tool, I'd be broke because I'm absolutely amazing."

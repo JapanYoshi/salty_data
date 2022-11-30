@@ -1,0 +1,89 @@
+[root]
+type = "N"
+
+[pretitle]
+v = "random"
+
+[title]
+t = "Sing Thing"
+v = "title"
+s = "“Sing Thing”."
+
+[intro]
+v = "intro"
+s = "
+[i](door opens)[/i]
+[b]Daisy:[/b] Hey, Candy![#1021#]
+[b]Candy:[/b] Is this another false announcement to say that my nonexistent black cat is terminally ill, and I should go to the hospital 20 minutes away?[#7644#]
+[b]Daisy:[/b] No! I just put together the song list for the after-show karaoke session.[#11768#]
+[b]Candy:[/b] Oh, cool! Let me see it...[#13809#]
+[i](leafing through papers)[/i] Let’s see...[#15859#]
+Oh, um, I think you made a mistake here, Daisy.[#18791#]
+[b]Daisy:[/b] I did?
+[b]Candy:[/b] Yeah, there’s a song here that none of us requested.
+"
+
+[question]
+t = "Throughout this episode, which of the following songs did [b]none[/b] of the hosts say they were going to sing at karaoke?"
+v = "question"
+s = "Throughout this episode, which of the following songs did none of us say we’re going to sing at karaoke?"
+
+[options]
+t = [
+"[i]Fly Me To the Moon[/i]",
+"[i]We are Never Ever Getting Back Together[/i]",
+"[i]Get Low[/i]",
+"[i]In the End[/i]"
+]
+v = "options"
+s = "
+Fly Me To the Moon,We are Never Ever Getting Back Together, Get Low, or In the End?
+"
+i = 2
+
+[used_lifesaver]
+v = "random"
+
+[reveal]
+v = "random"
+
+[reveal_crickets]
+v = "random"
+
+[reveal_jinx]
+v = "random"
+
+[reveal_split]
+v = "random"
+
+[reveal_correct]
+v = "random"
+
+[option0]
+v = "option0"
+s = "[b]Miles:[/b] I’m singing that.[#1066#]
+[b]Daisy:[/b] As you do,[#2564#]every,[#3607#]single,[#5090#]time."
+
+[option1]
+v = "option1"
+s = "[b]Candy:[/b] What can I say? Taylor Swift is my guilty pleasure that my bandmates don’t ever let me live up."
+
+[option2]
+v = "option2"
+s = "[b]Candy:[/b] I said I’ll be singing [i]Never Ever[/i] in Question 7,[#2806#]
+Daisy said she wants to sing [i]In The End[/i] in Question 2,[#5580#]
+and Miles said he’ll do [i]Fly Me to the Moon[/i] in Question 1.[#8838#]
+[i]Get Low[/i] was the premise to Question 5, but I didn’t say I’ll be singing it."
+
+[option3]
+v = "option3"
+s = "[b]Daisy:[/b] [i][singing][/i] I tried so hard and got so far!
+[b]Candy:[/b] [i][talking over Daisy][/i] Let’s keep that for later, okay?!"
+
+[outro]
+v = "outro"
+s = "
+[b]Daisy:[/b] Actually, that one’s for me. I [i]should[/i] do that song![#2857#]
+[b]Candy:[/b] No. Please don’t. Please let crunk stay dead.
+[b]Daisy:[/b] cRuNk AiN’t DeAd!!
+"

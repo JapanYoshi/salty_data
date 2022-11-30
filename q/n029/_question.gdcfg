@@ -1,0 +1,76 @@
+[root]
+type = "N"
+
+[pretitle]
+v = "_pretitle_miles"
+
+[title]
+t = "I’m in Awe at the Size of This Thermometer"
+v = "title"
+s = "“I’m in Awe at the Size of This Thermometer”."
+
+[intro]
+v = "intro"
+s = "Aw, I can’t do a Scottish accent. Oh well."
+
+[question]
+t = "Academically speaking, which one of these is an [b]absolute[/b] unit?"
+v = "question"
+s = "Academically speaking, which one of these is an absolute unit?"
+
+[options]
+t = [
+"degrees Celsius",
+"degrees Fahrenheit",
+"degrees Rankine",
+"degrees Réaumur"
+]
+v = "options"
+s = "
+Degrees Celsius, degrees Fahrenheit, degrees Rankine, or degrees Réaumur?
+"
+i = 2
+
+[used_lifesaver]
+v = "_used_lifesaver_miles"
+
+[reveal]
+v = "_reveal_miles"
+
+[reveal_crickets]
+v = "_reveal_crickets_miles"
+
+[reveal_jinx]
+v = "_reveal_jinx_miles"
+
+[reveal_split]
+v = "_reveal_split_miles"
+
+[reveal_correct]
+v = "_reveal_correct_miles"
+
+[option0]
+v = "option0"
+s = "Celsius goes below 0 on a winter day, so no."
+
+[option1]
+v = "option1"
+s = "On a particularly cold day in Tallahassee, Florida in 1899, the temperature went below 0 degrees Fahrenheit.[#6339#]
+So it’s not an absolute unit."
+
+[option2]
+v = "option2"
+s = "0 Rankine is absolute zero, the coldest temperature physically possible.[#4099#]
+The difference between Rankine and Kelvin is that a change of 1 Rankine is 1 degree Fahrenheit, not Celsius."
+
+[option3]
+v = "option3"
+s = "Réaumur is like Celsius, but the boiling point of water is 80 instead of 100.[#4793#]
+Did you just pick this because you’ve never heard of it?"
+
+[outro]
+v = "outro"
+s = "
+I guess the moral is... stay positive?[#3729#]
+...I can’t do it like Candy does. She left the wisecrack empty on this cue card.
+"

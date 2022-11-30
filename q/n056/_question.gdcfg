@@ -1,0 +1,86 @@
+[root]
+type = "N"
+
+[pretitle]
+v = "random"
+
+[title]
+t = "I’ve Been Diagnosed with Heebie-Geebies"
+v = "title"
+s = "“I’ve Been Diagnosed with Heebie-Geebies”."
+
+[intro]
+v = "intro"
+s = "
+Everyone always talks about the common fears, but no-one ever sheds lights on the rarer ones.[#4251#]
+It’s always “Spiders are scary!” or “I can’t stand heights!”, and not[#8434#]
+[i]“Ducks are terrifying and they are always watching me.”[/i][#11586#]
+[#12292#]
+Anyway,
+"
+
+[question]
+v = "question"
+t = "If you took your friend with [b]tokophobia[/b] to the bookstore, which of the following books would give them a good scare?"
+s = "If you took your friend with [i]tokophobia[/i] to the bookstore, which of the following books would give them a good scare?"
+
+[options]
+t = [
+"[i]A Brief History of Time[/i]",
+"[i]Fear of Flying[/i]",
+"[i]Failing Forward[/i]",
+"[i]What to Expect when You’re Expecting[/i]",
+]
+v = "options"
+s = "
+[i]A Brief History of Time[/i],[#1500#]
+[i]Fear of Flying[/i],[#2709#]
+[i]Failing Forward[/i],[#3877#]
+or [i]What to Expect when You’re Expecting[/i]?
+"
+i = 3
+
+[used_lifesaver]
+v = "random"
+
+[reveal]
+v = "random"
+
+[reveal_crickets]
+v = "random"
+
+[reveal_jinx]
+v = "random"
+
+[reveal_split]
+v = "random"
+
+[reveal_correct]
+v = "random"
+
+[option0]
+v = "option0"
+s = "The fear of time is called chronophobia.[#2336#]
+I guess it kinda sounds like “tokophobia”. Not close enough for me to give you points, though."
+
+[option1]
+v = "option1"
+s = "
+Do you really think I would make the answer [i]that[/i] obvious? I’m offended.
+"
+
+[option2]
+v = "option2"
+s = "The fear of failure is called atelophobia, and clearly you don’t have it."
+
+[option3]
+v = "option3"
+s = "
+Tokophobia is the fear of pregnancy and childbirth,[#2729#]and so the thought of expecting will probably scare your friend.
+"
+
+[outro]
+v = "outro"
+s = "
+Just a bit of advice: maybe don’t give that book to your tokophobic friend for their birthday. Unless they’re a fan of horror novels.
+"

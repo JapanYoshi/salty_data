@@ -1,0 +1,81 @@
+[root]
+type = "N"
+
+[pretitle]
+v = "random"
+
+[title]
+t = "Like, Do You Not Like, [i]Like-[/i]Like Me?"
+v = "title"
+s = "[i][Valley Girl impression][/i] “Like, Do You Not Like, [i]Like-[/i]Like Me?”."
+
+[intro]
+v = "intro"
+s = "Daisy says that the keys to imitating a Valley Girl accent are the rising intonation,[#4358#]the vocal fry at the end of the sentence, and the word “like”,[#7360#]like, it’s used like “frickin’” or “bloody” or whatever, depending on where you’re from.[#11523#]So, like..."
+
+[question]
+t = "Which of these sentences uses “like” as a [b]preposition?[/b]"
+v = "question"
+s = "
+[i][Valley Girl impression][/i] Which of these sentences uses “like” as a preposition?[#3840#]
+[i][normally][/i] Take it away, Daisy.
+"
+
+[options]
+t = [
+"My roommate was fuming, like a kettle or something.",
+"And he said, “I don’t like how you’re looking at me.”",
+"So I was like, “What are you even talking about?”",
+"And he got like so mad and stormed out of the living room!"
+]
+v = "options"
+s = "
+[b]Daisy:[/b][i][Valley Girl impression][/i] My roommate was fuming, like a kettle or something.[#3045#]
+And he said, “I don’t like how you’re looking at me.”[#6076#]
+So I was like, “What are you even talking about?”[#9722#]
+[b]Candy:[/b] Or,
+[b]Daisy:[/b][i][Valley Girl impression][/i] And he got like so mad and stormed out of the living room! Like, [i]what?![/i]
+"
+i = 0
+
+[used_lifesaver]
+v = "random"
+
+[reveal]
+v = "random"
+
+[reveal_crickets]
+v = "random"
+
+[reveal_jinx]
+v = "random"
+
+[reveal_split]
+v = "random"
+
+[reveal_correct]
+v = "random"
+
+[option0]
+v = "option0"
+s = "[b]Candy:[/b] A preposition is something that relates a noun to another word, like “a kettle” to the way my roommate was fuming."
+
+[option1]
+v = "option1"
+s = "[b]Candy:[/b] Really? Really?! Do you really not know what a verb is?!"
+
+[option2]
+v = "option2"
+s = "[b]Daisy:[/b] I’m, like, sooo disappointed."
+
+[option3]
+v = "option3"
+s = "[b]Daisy:[/b] You, like, totally wrong."
+
+[outro]
+v = "outro"
+s = "[b]Candy:[/b] Here’s another example of this way of using the word “like”:[#2592#]
+Daisy, why do you always talk like a Valley Girl?[#4639#]
+[b]Daisy:[/b] I don’t talk like a Valley Girl![#6790#]
+[b]Miles:[/b] What does “Valley Girl” mean?[#8494#]
+[b]Candy and Daisy:[/b]	You wouldn’t get it."

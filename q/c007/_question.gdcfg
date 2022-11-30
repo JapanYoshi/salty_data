@@ -1,0 +1,93 @@
+[root]
+type = "C"
+
+[pretitle]
+v = "random"
+
+[title]
+t = "There’s a Pattern Here"
+v = "title"
+s = "
+“There’s a Pattern Here”.
+"
+
+[intro]
+v = "intro"
+s = "So I’ve had a brief part time stint as a proofreader of Laffy Taffy jokes, and[#4116#]
+that is something I have vowed to never do again.[#6982#]
+But I have way more Laffy Taffy that the rest of the writing staff is making me read. Here’s one."
+
+[setup]
+t = "Why does Wally wear white and red stripes?"
+v = "setup"
+s = "
+“Why does Wally wear white and red stripes?[#3212#]
+"
+
+[punchline]
+t = "So he wouldn’t be spotted!"
+v = "punchline"
+s = "
+So he wouldn’t be spotted!”
+"
+
+[post_punchline]
+v = "post_punchline"
+s = "[i](sigh)[/i]"
+
+[question]
+t = "By that logic, which of these books would be the hardest?"
+v = "question"
+s = "By that logic, which of these books would be the hardest?"
+
+[options]
+t = [
+"Where’s Cheetah?",
+"Where’s Okapi?",
+"Where’s Fallow Deer?",
+"Where’s Snowy Owl?",
+]
+v = "options"
+s = "
+Where’s Cheetah?, Where’s Okapi?, Where’s Fallow Deer?, or Where’s Snowy Owl?
+"
+i = 1
+
+[used_lifesaver]
+v = "random"
+
+[reveal]
+v = "random"
+
+[reveal_crickets]
+v = "random"
+
+[reveal_jinx]
+v = "random"
+
+[reveal_split]
+v = "random"
+
+[reveal_correct]
+v = "random"
+
+[option0]
+v = "random"
+s = ""
+
+[option1]
+v = "option1"
+s = "Okapis have stripes on their legs, unlike cheetahs, fallow deers, and snowy owls, which all have spots."
+
+[option2]
+v = "random"
+s = ""
+
+[option3]
+v = "random"
+s = ""
+
+[outro]
+v = "outro"
+s = "[i]Where’s Wally?[/i] is the wildest historical fiction book.[#3015#]
+Can you remember a time when you could gather around in [i]those[/i] numbers without worrying about catching a deadly disease?"

@@ -1,0 +1,84 @@
+[root]
+type = "N"
+
+[pretitle]
+v = "random"
+
+[title]
+t = "The Last Thing You’d Want in Your Trivia Game Trivia"
+v = "title"
+s = "[i][Burger King Foot Lettuce guy impression][/i]
+“The Last Thing You’d Want in Your Trivia Game Trivia”."
+
+[intro]
+v = "intro"
+s = "We all know that “Burger King Foot Lettuce” scandal, right?[#2512#]
+That time in 2012 when a 4channer uploaded a picture of himself standing on two bins of lettuce,[#7628#]
+4chan found out it was in Mayfield Heights, Ohio,[#10412#]
+and then some sh**ty YouTube channel made a sh**ty Top 15 video
+[i][doing the impression][/i] with a weird voice-over.[#15436#]
+[i][normally][/i] Keep that image in mind as I ask you this:"
+
+[question]
+t = "Since they’re not in the feet, which of these bones on that guy’s body would have been the [b]farthest[/b] from the tub of Burger King Foot Lettuce?"
+v = "question"
+s = "
+[i][doing the impression][/i] Since they’re not in the feet,[#1735#]
+[i][doing the impression][/i] which of these bones on that guy’s body would have been the [i]farthest[/i][#5247#]
+[i][doing the impression][/i] from the tub of Burger King Foot Lettuce?
+"
+
+[options]
+t = [
+"his tali",
+"his patellas",
+"his calcanei",
+"his phalanges",
+]
+v = "options"
+s = "
+[i][doing the impression[/i] His tali, his patellas, his calcanei, or his phalanges?
+"
+i = 1
+
+[used_lifesaver]
+v = "random"
+
+[reveal]
+v = "random"
+
+[reveal_crickets]
+v = "random"
+
+[reveal_jinx]
+v = "random"
+
+[reveal_split]
+v = "random"
+
+[reveal_correct]
+v = "random"
+
+[option0]
+v = "option0"
+s = "No, the talus is the anklebone.[#1716#]
+Fun fact: the game of jacks originally used sheep tali![#4761#]
+Just saying, since you sound like you don’t know Jacks."
+
+[option1]
+v = "option1"
+s = "The cuboid, the calcaneus, and the phalanges are all bones in a foot.[#3894#]
+The patella is a kneecap."
+
+[option2]
+v = "option2"
+s = "Ouch, it’s gonna take some time for you to... “heel” from that."
+
+[option3]
+v = "option3"
+s = "Yes, phalanges are fingers.[#2111#]
+Phalanges are also toes, though, so you’ve been stomped out."
+
+[outro]
+v = "outro"
+s = "And also, patellas are what I’m gonna break if I keep seeing Burger King Foot Lettuce memes."

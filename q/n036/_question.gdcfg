@@ -1,0 +1,82 @@
+[root]
+type = "N"
+
+[pretitle]
+v = "random"
+
+[title]
+t = "Of Course I Take That Personals"
+v = "title"
+s = "“Of Course I Take That Personals”!"
+
+[intro]
+v = "intro"
+s = "I’m gonna read a fictional personals ad from Craigslist. Tell me who could have written it."
+
+[question]
+t = "“Seeking new boyfriend. [#1701#]Must not be a Jonas Brother, [#3557#]a Scottish DJ, [#4902#]or someone with the same first name as me (I’ve had enough of them).”"
+v = "question"
+s = "
+“Seeking new boyfriend.[#1701#]
+Must not be a Jonas Brother, a Scottish DJ,[#4902#]
+or someone with the same first name as me.[#7413#]
+I’ve had enough of them.”[#8961#]
+Whose personals ad could this be?
+"
+
+[options]
+t = [
+"Dakota Fanning",
+"Hilary Duff",
+"Taylor Swift",
+"Selena Gomez"
+]
+v = "options"
+s = "
+Dakota Fanning, Hilary Duff, Taylor Swift, or Selena Gomez?
+"
+i = 2
+
+[used_lifesaver]
+v = "random"
+
+[reveal]
+v = "random"
+
+[reveal_crickets]
+v = "random"
+
+[reveal_jinx]
+v = "random"
+
+[reveal_split]
+v = "random"
+
+[reveal_correct]
+v = "random"
+
+[option0]
+v = "option0"
+s = "Your scores are going South Dakota."
+
+[option1]
+v = "option1"
+s = "Lizzie McGwire you doing this to me?!"
+
+[option2]
+v = "option2"
+s = "Taylor Swift has, at certain points, dated Joe Jonas, Calvin Harris, and Taylor Lautner."
+
+[option3]
+v = "option3"
+s = "Dude, this was supposed to be the throwaway option. I dare you to find a man named Selena.[#7000#]
+You really think there would be a “Mr. Selena”? Why would you pick this?!"
+
+[outro]
+v = "outro"
+s = "
+And if any of her exes try to capitalize on the fact that they used to date her, she sues them for being an unlicensed re-Taylor.[#6500#]
+[i](crowd boo SFX)[/i]
+Oh come on, Daisy! I was proud of that joke![#12000#]
+I’m gonna sing [i]We Are Never Ever Getting Back Together[/i] anyway. You can’t break me.
+"

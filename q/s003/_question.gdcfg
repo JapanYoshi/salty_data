@@ -1,0 +1,102 @@
+[root]
+type = "S"
+has_both = false
+
+[pretitle]
+v = "random"
+
+[title]
+t = "Gazing Into the Sky(rim)"
+v = "title"
+s = "“Gazing Into the Sky Rim”."
+
+[sort_segue]
+v = "sort_segue"
+s = "And it’s a grandiose Sorta Kinda!"
+
+[sort_category]
+v = "sort_category_titles"
+s = "I’m gonna give you 7 titles."
+
+[sort_explain]
+v = "sort_explain"
+s = "For each of them, I need you to tell me if it’s..."
+
+[sort_a]
+t = "a famous photograph taken from space"
+v = "sort_a"
+s = "the title of a famous photograph taken from space, or..."
+
+[sort_b]   
+t = "a book you can get in Skyrim"
+v = "sort_b"
+s = "the title of a book you can obtain in the Skyrim series. If it’s a..."
+
+[sort_a_short]
+t = "space photo"
+v = "sort_a_short"
+s = "space photo,"
+
+[sort_press_left]
+v = "_sort_press_left"
+
+[sort_b_short]
+t = "Skyrim book"
+v = "sort_b_short"
+s = "Skyrim book,"
+
+[sort_press_right]
+v = "_sort_press_right"
+
+[sort_lifesaver]
+v = "_sort_lifesaver"
+
+[sort_no_lifesaver]
+v = "_sort_no_lifesaver"
+
+[sort_options]
+t = [
+    "Hanging Gardens",
+    "Darkest Darkness",
+    "The Blue Marble",
+    "Mystic Mountain",
+    "Pillars of Creation",
+    "Breathing Water",
+    "Magic from the Sky"
+]
+s = [
+    "Hanging Gardens!",
+    "Darkest Darkness!",
+    "The Blue Marble!",
+    "Mystic Mountain!",
+    "Pillars of Creation!",
+    "Breathing Water!",
+    "Magic from the Sky!"
+]
+a = [1, 1, 0, 0, 0, 1, 1]
+
+[sort_perfect]
+v = "sort_perfect"
+s = "You rocket!"
+
+[sort_good]
+v = "sort_good"
+s = "Just a bit of a blemish was dragon you back."
+
+[sort_ok]
+v = "sort_ok"
+s = "Seems like you spaced out there."
+
+[sort_bad]
+v = "sort_bad"
+s = "Did Bethesda program you, perchance?"
+
+[outro]
+v = "outro"
+s = "
+The best thing about Skyrim is that you can turn it into literally anything with enough mods.[#4800#]
+In fact, this game is actually an extremely modified version of Skyrim! Enjoy.
+"
+
+[skip]
+v = "random"

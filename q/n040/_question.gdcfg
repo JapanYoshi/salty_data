@@ -1,0 +1,71 @@
+[root]
+type = "N"
+
+[pretitle]
+v = "random"
+
+[title]
+t = "Whiskey on the Hard Place"
+v = "title"
+s = "“Whiskey on the Hard Place”."
+
+[intro]
+v = ""
+s = ""
+
+[question]
+t = "If Hard Rock Café started selling a repeat pass based on how long the mountaineer Aron Ralston was caught “between a rock and a hard place”, [#8084#]how long will the pass last before it expires?"
+v = "question"
+s = "If Hard Rock Café started selling a repeat pass based on how long the mountaineer Aron Ralston was caught “between a rock and a hard place”,[#8084#]how long will the pass last before it loses its right arm—I mean, expires?"
+
+[options]
+t = [
+"2 days of fancy dining",
+"4 days of pricey food",
+"6 days of rock music",
+"8 days of cocktails"
+]
+v = "options"
+s = "
+2 days of fancy dining, 4 days of pricey food, 6 days of rock music, or 8 days of cocktails?
+"
+i = 2
+
+[used_lifesaver]
+v = "random"
+
+[reveal]
+v = "random"
+
+[reveal_crickets]
+v = "random"
+
+[reveal_jinx]
+v = "random"
+
+[reveal_split]
+v = "random"
+
+[reveal_correct]
+v = "random"
+
+[option0]
+v = "random"
+s = ""
+
+[option1]
+v = "option1"
+s = "Haha, I wish I had a free pass for their pricey food."
+
+
+[option2]
+v = "option2"
+s = "Aron Ralston famously had his right arm stuck under a boulder for 6 whole days, until he amputated it himself."
+
+[option3]
+v = "option3"
+s = "Over a week and I’d be f**king dead from drinking that much."
+
+[outro]
+v = "outro"
+s = "Inconveniently, the expiration date on the pass is approximate and chiseled on day 3."

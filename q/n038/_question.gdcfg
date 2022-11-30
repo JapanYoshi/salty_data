@@ -1,0 +1,73 @@
+[root]
+type = "N"
+
+[pretitle]
+v = "random"
+
+[title]
+t = "Dastardly Deeds Discounted Dramatically"
+v = "title" 
+s = "“Dastardly Deeds Discounted Dramatically”."
+
+[intro]
+v = ""
+
+[question]
+t = "If you made a version of [i]JoJo’s Bizarre Adventure[/i] where the main character is a female rocker who covered [i]Dirty Deeds Done Dirt Cheap[/i] by AC/DC, what would the title be?"
+v = "question"
+s = "If you made a version of [i]JoJo’s Bizarre Adventure[/i] where the main character is[#3098#]
+a female rocker who covered [i]Dirty Deeds Done Dirt Cheap[/i] by AC/DC, what would the title be?"
+
+[options]
+t = [
+"JiJo’s Bizarre Adventure",
+"JoJe’s Bizarre Adventure",
+"JaJa’s Bizarre Adventure",
+"JoJo’s Bizarre Adventure"
+]
+v = "options"
+s = "
+JiJo’s Bizarre Adventure, JoJe’s Bizarre Adventure, JaJa’s Bizarre Adventure, or JoJo’s Bizarre Adventure?
+"
+i = 1
+
+[used_lifesaver]
+v = "random"
+
+[reveal]
+v = "random"
+
+[reveal_crickets]
+v = "random"
+
+[reveal_jinx]
+v = "random"
+
+[reveal_split]
+v = "random"
+
+[reveal_correct]
+v = "random"
+
+[option0]
+v = "random"
+
+[option1]
+v = "option1"
+s = "Joan Jett and the Blackhearts, known for their rendition of [i]I Love Rock ’N’ Roll,[/i][#4259#]
+also made a well-known cover of [i]Dirty Deeds.[/i]"
+
+[option2]
+v = "option2"
+s = "In this case, it’s not a German “Ja, ja” but more of a Spanish “jaja”."
+
+[option3]
+v = "option3"
+s = "I don’t think Joe Jonas would be interested."
+
+[outro]
+v = "outro"
+s = "
+But try listening to her originals too.[#2103#]
+Maybe I’ll publish some footage of myself singing her version of [i]Dirty Deeds,[/i] though.
+"

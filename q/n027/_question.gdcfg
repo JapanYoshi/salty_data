@@ -1,0 +1,76 @@
+[root]
+type = "N"
+
+[pretitle]
+v = "pretitle"
+s = "The next question’s called:"
+
+[title]
+t = "She’s Just Not My Typography"
+v = "title"
+s = "“She’s Just Not My Typography”."
+
+[intro]
+v = ""
+
+[question]
+t = "Which of these tabloid headlines objectifies [b]tittles?[/b]"
+v = "question"
+s = "Which of these tabloid headlines objectifies tittles?"
+
+[options]
+t = [
+"Top 12 Letters with Bodacious Curves!",
+"“e” and “h” Open Wide!",
+"“f” and “i” Scandal—Are They Dating?",
+"Are Those Firm, Round Dots Real?"
+]
+v = "options"
+s = "
+“Top 12 Letters with Bodacious Curves!”,[#2122#]
+“‘e’ and ‘h’ Open Wide!”,[#3867#]
+“‘f’ and ‘i’ Scandal—Are They Dating?”, or[#6668#]
+“Are Those Firm, Round Dots Real?”.
+"
+i = 3
+
+[used_lifesaver]
+v = "_used_lifesaver_miles"
+
+[reveal]
+v = "_reveal_miles"
+
+[reveal_crickets]
+v = "_reveal_crickets_miles"
+
+[reveal_jinx]
+v = "_reveal_jinx_miles"
+
+[reveal_split]
+v = "_reveal_split_miles"
+
+[reveal_correct]
+v = "_reveal_correct_miles"
+
+[option0]
+v = "option0"
+s = "Curves are sexy, but not always right."
+
+[option1]
+v = "option1"
+s = "That would be an aperture."
+
+[option2]
+v = "option2"
+s = "What you’re thinking about is a ligature."
+
+[option3]
+v = "option3"
+s = "A tittle is a dot on the lowercase I and J, or any similar single dot mark."
+
+[outro]
+v = "outro"
+s = "
+I’m sure that article would titillate their audience.[#3823#]
+[i][muttering to himself][/i] Man, the stuff you can get away with on TV these days...
+"

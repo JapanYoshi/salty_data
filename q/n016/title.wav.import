@@ -1,0 +1,23 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/title.wav-c4595f1a630c2ae0b855e545e8a2eb1a.sample"
+
+[deps]
+
+source_file="res://q/n016/title.wav"
+dest_files=[ "res://.import/title.wav-c4595f1a630c2ae0b855e545e8a2eb1a.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=1
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=1

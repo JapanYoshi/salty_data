@@ -1,0 +1,106 @@
+[root]
+type = "C"
+
+[pretitle]
+v = "random"
+
+[title]
+t = "Water You Doing?"
+v = "title"
+s = "
+“Water You Doing?”.
+"
+
+[intro]
+v = "intro"
+s = "
+I’m feeling nostalgic for my old days at the Laffy Taffy factory.[#3360#]You know, maybe I’ll check out one of the jokes now. For old time’s sake.
+"
+
+[setup]
+t = "What did one ocean say to the other?"
+v = "setup"
+s = "
+“What did one ocean say to the other?[#2151#]
+"
+
+[punchline]
+t = "Nothing—they just waved!"
+v = "punchline"
+s = "
+Nothing; they just waved!”
+"
+
+[post_punchline]
+v = "post_punchline"
+s = "
+Okay, I swear I’ve seen this one on a wrapper before. Don’t tell me they’re recycling jokes now?[#4950#]
+Shame on you, Laffy Taffy. 
+"
+
+[question]
+t = "Suppose one light source is greeting another. [#2593#]Which of these is the [b]longest[/b] possible wave they could give?"
+v = "question"
+s = "Suppose one light source is greeting another.[#2593#]Which of these is the [i]longest[/i] possible wave they could give?"
+
+[options]
+t = [
+"a microwave",
+"an infrared wave",
+"an ultraviolet wave",
+"a radio wave",
+]
+v = "options"
+s = "
+A microwave, an infrared wave, an ultraviolet wave, or a radio wave?
+"
+i = 3
+
+[used_lifesaver]
+v = "random"
+
+[reveal]
+v = "random"
+
+[reveal_crickets]
+v = "random"
+
+[reveal_jinx]
+v = "random"
+
+[reveal_split]
+v = "random"
+
+[reveal_correct]
+v = "random"
+
+[option0]
+v = "option0"
+s = "
+Mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm...[#9300#]
+Nope.
+"
+
+[option1]
+v = "option1"
+s = "
+You should have infra-read this more carefully.
+"
+
+[option2]
+v = "option2"
+s = "
+Ultraviolet waves are actually the [i]shortest[/i] type of wave here, so, congrats on being the most wrong you possibly could.
+"
+
+[option3]
+v = "option3"
+s = "
+Radio waves have the longest wavelength, being about as long as some buildings!
+"
+
+[outro]
+v = "outro"
+s = "
+It’s gonna be awkward when the second light source only gives a short gamma wave back. Friendship ruined.
+"

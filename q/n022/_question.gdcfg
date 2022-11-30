@@ -1,0 +1,80 @@
+[root]
+type = "N"
+
+[pretitle]
+v = "random"
+
+[title]
+t = "The World is a Stage and the Play is Badly Managed"
+v = "title"
+s = "“The World is a Stage and the Play is Badly Managed”."
+
+[intro]
+v = "intro"
+s = "So the Four Horsemen of the Apocalypse appear in the 1990 novel [i]Good Omens[/i] by Terry Pratchett and Neil Gaiman,[#5824#]
+but they ride motorbikes now, and one of them retired a long time ago."
+
+[question]
+t = "Which of these current events could [b]most likely[/b] push the retired Horseman back into duty?"
+v = "question"
+s = "Which of these current events could [i]most likely[/i] push the retired Horseman back into duty?"
+
+[options]
+t = [
+"widespread food shortages in China",
+"Russia’s invasion of Ukraine",
+"the death of Queen Elizabeth II",
+"the COVID-19 outbreak"
+]
+v = "options"
+s = "
+Widespread food shortages in China,[#1965#]
+Russia’s invasion of Ukraine,[#3597#]
+the death of Queen Elizabeth the Second,[#5457#]
+or the COVID-19 outbreak?
+"
+i = 3
+
+[used_lifesaver]
+v = "random"
+
+[reveal]
+v = "random"
+
+[reveal_crickets]
+v = "random"
+
+[reveal_jinx]
+v = "random"
+
+[reveal_split]
+v = "random"
+
+[reveal_correct]
+v = "random"
+
+[option0]
+v = "option0"
+s = "That is some serious stuff![#1813#]
+But it's not the first time a bunch of people died because of mismanagement by a self-proclaimed communist leadership,[#7107#]
+[i]Stalin.[/i]"
+
+[option1]
+v = "option1"
+s = "Much like war itself, this answer is worth [i][breaking into song][/i] absolutely nothing! Say it again, y’all!"
+
+[option2]
+v = "option2"
+s = "No, not even the Horsemen of the Apocalypse want to have anything to do with the English Royal Family."
+
+[option3]
+v = "option3"
+s = "In the book, Pestilence retired after penicillin was invented,[#3606#]
+and passed the torch onto a new Horseman named Pollution."
+
+[outro]
+v = "outro"
+s = "Man, that Pollution fella must be having a real great career[#2843#]
+with all the climate crisis going on.[#4732#]
+[i](beat)[/i][#6392#]
+[i][ironically chipper][/i]I fear for my future!"

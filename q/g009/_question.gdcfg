@@ -1,0 +1,79 @@
+[root]
+type = "G"
+
+[pretitle]
+v = "random"
+
+[title]
+t = "DIVERSITY WIN—The Barber is a Goblin Drag Queen"
+v = "title"
+s = "
+“Diversity Win! The Barber is a Goblin Drag Queen!”
+"
+
+[gib_tute0]
+v = "random"
+
+[gib_tute1]
+v = "random"
+
+[gib_tute2]
+v = "random"
+
+[gib_tute3]
+v = "random"
+
+[gib_tute4]
+v = "random"
+
+[gib_genre]
+v = "_gib_genre_phrase"
+t = "phrase"
+s = "With what [i]phrase[/i] does this rhyme?"
+
+[question]
+t = "Shaver goblin can sashay!"
+v = "question"
+s = "“Shaver goblin can sashay!”"
+
+[answer]
+t = "Brave Sir Robin ran away."
+r = "^BRAVE SIR ROB[IY]N RAN A ?WAY[.!]?$"
+
+[clue0]
+v = "clue0"
+t = "It’s a song about a knight..."
+s = "It’s a song about a knight..."
+
+[clue1]
+v = "clue1"
+t = "...famous for his “evasive strategies”."
+s = "Famous for his... [i](clears throat)[/i] evasive strategies."
+
+[clue2]
+v = "clue2"
+t = "The valiant knight “fluttered” away."
+s = "The valiant knight... “fluttered”... away."
+
+; always generic wrong answer. might override later if guest host happens
+[gib_wrong]
+v = "random"
+
+[reveal]
+v = "reveal"
+s = "Oh, come on, did you “bravely run away” from this question?"
+
+[outro]
+v = "outro"
+s = "“Brave Sir Robin ran away”.[#2357#]
+Well, that makes another Robin that flew away, alongside Robin in the British version of “Jingle Bells, Batman Smells”.[#7852#]
+Though, I mean, we all know the definitive version of it is:[#11573#]
+[i][singing][/i] Jingle bells, Batman smells, Robin laid a—[#13877#]
+[b]gun.[/b][#14674#]
+[i][singing][/i] Shot a tree and made it pee in nineteen eighty-one!"
+
+[buzz_in]
+v = "random"
+
+[skip]
+v = "random"

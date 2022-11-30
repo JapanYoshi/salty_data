@@ -1,0 +1,76 @@
+[root]
+type = "N"
+
+[pretitle]
+v = "random"
+
+[title]
+t = "Beware the Ides of—​Screw It, Beware the Whole Year!"
+v = "title"
+s = "“Beware the Ides of—​Screw It, Beware the Whole Year!”."
+
+[intro]
+v = ""
+
+[question]
+t = "Suppose you’re an Ancient Roman citizen from Julius Caesar’s time, who traveled in time to the year 2020 Common Era, [#6273#]only to be trapped indoors because of the pandemic. [#8657#]How would you complain?"
+v = "question"
+s = "
+Suppose you’re an Ancient Roman citizen from Julius Caesar’s time, who traveled in time to the year 2020 Common Era, [#6273#]only to be trapped indoors because of the pandemic. [#8657#]How would you complain?
+"
+
+[options]
+t = [
+  "I hate the year AUC [b]2173[/b]!",
+  "I never should have traveled to AUC [b]2473[/b]!",
+  "There aren’t even any gladiators in AUC [b]2773[/b]!",
+  "AUC [b]3003[/b] is so boring!"
+]
+v = "options"
+s = "
+“I hate the year AUC 2173!”,[#2868#]
+“I never should have traveled to AUC 2473!”,[#5991#]
+“There aren’t even any gladiators in AUC 2773!”,[#9491#]
+or “AUC 3003 is so boring!”?
+"
+i = 2
+
+[used_lifesaver]
+v = "random"
+
+[reveal]
+v = "random"
+
+[reveal_crickets]
+v = "random"
+
+[reveal_jinx]
+v = "random"
+
+[reveal_split]
+v = "random"
+
+[reveal_correct]
+v = "random"
+
+[option0]
+v = "option0"
+s = "Just for that answer, you’re sentenced to damnation to the beasts."
+
+[option1]
+v = "option1"
+s = "At least you took a stab at it.[#2000#]You’re still 36 short of a full 37, though."
+
+[option2]
+v = "option2"
+s = "The years were numbered since 753 BCE, the supposed founding of Rome.[#5020#]
+So add 753 to 2020, and you get AUC 2773."
+
+[option3]
+v = "random"
+
+[outro]
+v = "outro"
+s = "And by the way, there indeed are gladiator shows in AUC 2773.[#4152#]
+It’s called college football,[#5859#]
+and the only catch is that the impoverished fighters only die of brain damage decades down the line."

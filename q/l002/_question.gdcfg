@@ -1,0 +1,120 @@
+[root]
+type = "L"
+
+[like_intro]
+v = "random"
+
+[like_tute0]
+v = "random"
+
+[like_tute1]
+v = "random"
+
+[like_tute2]
+v = "random"
+
+[like_tute3]
+v = "random"
+
+[like_title]
+v = "random"
+
+[title]
+t = "Bomb These Blondie Zombies with a Bigbang"
+v = "title"
+s = "
+“Bomb These Blondie Zombies with a Bigbang”.
+"
+
+[like_options]
+v = "random"
+
+[options]
+v = "options"
+o = [
+    "blond hair",
+    "hit K-pop track",
+    "zombie movie"
+]
+s = "
+blond hair, a hit K-pop track, and a zombie movie.
+"
+
+[like_ready]
+v = "random"
+
+[section0]
+v = "section0"
+t = "could be platinum"
+s = "“Could be platinum”."
+o = [
+    "blond hair", "hit K-pop track", "zombie movie", "dental fillings"
+]
+
+[answer0]
+a = [1, 1, 0, 1]
+v = "answer0"
+s = "
+Platinum records are a thing in South Korea too.
+"
+
+[section1]
+v = "section1"
+t = "most are made in Europe"
+s = "“Most are made in Europe”."
+o = [
+    "blond hair", "hit K-pop track", "zombie movie", "Catholics"
+]
+
+[answer1]
+a = [1, 0, 0, 0]
+v = "answer1"
+s = "
+South America has the most Catholics.
+"
+
+[section2]
+v = "section2"
+t = "opened on the iTunes app"
+s = "“Opened on the iTunes app”."
+o = [
+    "blond hair", "hit K-pop track", "zombie movie", "audiobooks"
+]
+
+[answer2]
+a = [0, 1, 1, 0]
+v = "answer2"
+s = "Audiobooks are on iBooks."
+
+[section3]
+v = "section3"
+t = "related to [i]Cockneys Vs. Zombies[/i] (2013)"
+s = "“Related to [i]Cockneys Vs. Zombies”.[/i]"
+o = [
+    "blond hair", "hit K-pop track", "zombie movie", "rated “rotten” on Rotten Tomatoes"
+]
+
+[answer3]
+a = [1, 0, 1, 0]
+v = "answer3"
+s = "Wow, it got a 76 on Rotten Tomatoes?"
+
+[section4]
+v = "section4"
+t = "something Arnold Schwarzeneggar has"
+s = "“Something Arnold Schwarzeneggar has”."
+o = [
+    "blond hair", "hit K-pop track", "zombie movie", "a programming language"
+]
+
+[answer4]
+a = [0, 0, 1, 1]
+v = "answer4"
+s = "ArnoldC is a language made entirely of his one-liners."
+
+[like_outro]
+v = "like_outro"
+s = "Alright, that was entertaining! Let’s see how that affected your final standings!"
+
+[skip]
+v = "random"

@@ -1,0 +1,70 @@
+[root]
+type = "N"
+
+[pretitle]
+v = "random"
+
+[title]
+t = "Orange Down to My Drawers / OJ All on My Shoes"
+v = "title"
+s = "“Orange Down to My Drawers, OJ All on My Shoes”."
+
+[intro]
+v = ""
+s = ""
+
+[question]
+t = "Compared to 2019 when Lizzo’s song [i]Juice[/i] came out, how much orange juice per capita did Americans consume 15 years prior?"
+v = "question"
+s = "Compared to 2019 when Lizzo’s song [i]Juice[/i] came out,[#3198#]how much orange juice per capita did Americans consume 15 years prior?"
+
+[options]
+t = [
+"3× as much",
+"2× as much",
+"half as much",
+"about the same"
+]
+v = "options"
+s = "
+Three times as much, twice as much, half as much, or about the same?
+"
+i = 1
+
+[used_lifesaver]
+v = "random"
+
+[reveal]
+v = "random"
+
+[reveal_crickets]
+v = "random"
+
+[reveal_jinx]
+v = "random"
+
+[reveal_split]
+v = "random"
+
+[reveal_correct]
+v = "random"
+
+[option0]
+v = "option0"
+s = "3 times as much orange juice? That’s straight-up pulp fiction."
+
+[option1]
+v = "option1"
+s = "In the year 2019, each US citizen drank 2.36 gallons of orange juice on average.[#5284#]Compare that to 2004 when they drank 4.77 gallons, which is a bit over twice that amount.[#10284#]That’s about 9 and 18 liters respectively, by the way."
+
+[option2]
+v = "random"
+s = ""
+
+[option3]
+v = "random"
+s = ""
+
+[outro]
+v = "outro"
+s = "Meanwhile, the number of “big booty and proud of it” songs per capita increased dramatically."

@@ -1,0 +1,79 @@
+[root]
+type = "N"
+
+[pretitle]
+v = "random"
+
+[title]
+t = "Black(adder) Holes"
+v = "title"
+s = "“Black(adder) Holes”."
+
+[intro]
+v = "intro"
+s = "[b]Candy:[/b] Suppose Doctor Who was able to use his TARDIS to travel back in time to visit one of the Blackadders from the sit-com [i]Blackadder[/i] starring Rowan Atkinson.
+[b]Daisy:[/b] Um, actually, Candy, they’re only ever called The Doctor, okay, Candy? Not “Doctor Who”. You’re making a fool of yourself.
+[b]Candy:[/b] I think you have me mistaken for someone who cares about that. But anyway,"
+
+[question]
+v = "question"
+t = "Suppose The Doctor from [i]Doctor Who[/i] was able to use his TARDIS to travel back in time to visit one of the Blackadders. [#6532#]Based on the premises of each season, which of the folowing is [b]not[/b] a way that he might help him?"
+s = "Suppose The Doctor from [i]Doctor Who[/i]—Happy, Daisy?—[#2919#]was able to use his TARDIS to travel back in time to visit one of the Blackadders.[#6532#]Based on the premises of each season, which of the folowing is [i]not[/i] a way that he might help him?"
+
+[options]
+t = [
+"overthrowing Julius Caesar in Ancient Rome",
+"testifying that he’s not a witch in the Middle Ages",
+"fighting the Duke of Wellington in the Regency era",
+"rescuing him from a German prison in WWI"
+]
+v = "options"
+s = "
+Overthrowing Julius Caesar in Ancient Rome,[#2275#]
+testifying that he’s not a witch in the Middle Ages,[#4842#]
+fighting the Duke of Wellington in the Regency era,[#7410#]
+or rescuing him from a German prison in World War One?
+"
+i = 0
+
+[used_lifesaver]
+v = "random"
+
+[reveal]
+v = "random"
+
+[reveal_crickets]
+v = "random"
+
+[reveal_jinx]
+v = "random"
+
+[reveal_split]
+v = "random"
+
+[reveal_correct]
+v = "random"
+
+[option0]
+v = "option0"
+s = "The earliest series of [i]Blackadder[/i] was set in 1485, way after the days of the Roman Republic."
+
+[option1]
+v = "option1"
+s = "Acrophobia is the fear of heights, so topics like airplanes, skyscrapers, and drone photography are a no-go."
+
+[option2]
+v = "option2"
+s = "
+[b]Candy:[/b] This answer is more cursed than the Scottish Play.[##]
+[b]Daisy:[/b] You mean MacBeth?[##]
+[b]Candy:[/b] ...If this show gets cancelled, it’s gonna be your fault for cursing it.
+"
+
+[option3]
+v = "option3"
+s = "This answer is more disappointing than Colin Baker."
+
+[outro]
+v = "outro"
+s = "So come on, TV producers![#1718#]Get off your keisters and give us an episode of [i]Bluey[/i] with the cast of [i]The Office![/i][#5508#]Wattpad just isn’t tickling my fancy anymore."

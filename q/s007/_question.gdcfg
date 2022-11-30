@@ -1,0 +1,102 @@
+[root]
+type = "S"
+has_both = false
+
+[pretitle]
+v = "random"
+
+[title]
+t = "Godzilla vs. Shaka Zulu"
+v = "title"
+s = "“Godzilla vs. Shaka Zulu”."
+
+[sort_segue]
+v = "_sort_segue"
+s = ""
+
+[sort_category]
+v = "sort_category_names"
+s = "I’m gonna give you 7 names."
+
+[sort_explain]
+v = "sort_explain"
+s = "For each of them, I need you to tell me if it’s..."
+
+[sort_a]
+t = "the name of an African warlord"
+v = "sort_a"
+s = "the name of an African warlord, or:,"
+
+[sort_b]   
+t = "the name of a monster from the [i]Godzilla[/i] franchise"
+v = "sort_b"
+s = "the name of a gigantic monster from the Godzilla franchise. If it’s..."
+
+[sort_a_short]
+t = "African warlord"
+v = "sort_a_short"
+s = "an African warlord,"
+
+[sort_press_left]
+v = "_sort_press_left"
+s = ""
+
+[sort_b_short]
+t = "[i]Godzilla[/i] kaiju"
+v = "sort_b_short"
+s = "a [i]Godzilla[/i] kaiju,"
+
+[sort_press_right]
+v = "_sort_press_right"
+s = ""
+
+[sort_lifesaver]
+v = "_sort_lifesaver"
+
+[sort_no_lifesaver]
+v = "_sort_no_lifesaver"
+
+[sort_options]
+t = [
+"Ghidorah",
+"Jabbateh",
+"Souleymane",
+"Garuda",
+"Chingunji",
+"Baragon",
+"Mechagodzilla",
+]
+s = [
+"Ghidorah!",
+"Jabbateh!",
+"Souleymane!",
+"Garuda!",
+"Chingunji!",
+"Baragon!",
+"Mechagodzilla!",
+]
+a = [1, 0, 0, 1, 0, 1, 1]
+
+[sort_perfect]
+v = "sort_perfect"
+s = "You crushed it like they were the buildings of downtown Tokyo!"
+
+[sort_good]
+v = "sort_good"
+s = "Much better than Godzilla ’98, but just passable like Godzilla 2014."
+
+[sort_ok]
+v = "sort_ok"
+s = "You got conquered by this question."
+
+[sort_bad]
+v = "sort_bad"
+s = "This performance has been reported to the Hague for being a crime against humanity."
+
+[outro]
+v = "outro"
+s = "I wonder if Godzilla could appear in Beirut,[#2017#]
+then go back into the ocean because she thinks she already wrecked the whole place."
+
+[skip]
+v = "random"

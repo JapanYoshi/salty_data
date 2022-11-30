@@ -1,0 +1,75 @@
+[root]
+type = "N"
+
+[pretitle]
+v = "random"
+
+[title]
+t = "Don’t Cellar Self Short"
+v = "title"
+s = "“Don’t Cellar Self Short”."
+
+[intro]
+v = ""
+
+[question]
+t = "Suppose my producer, Miles, got tired of my whining. [#2893#]Considering what two drinks are mixed to make a [b]wine cooler,[/b] what would he dump on my head to cool my whining?"
+v = "question"
+s = "
+Suppose my producer, Miles, got tired of my whining.[#2893#]
+Considering what two drinks are mixed to make a [b]wine cooler,[/b] what would he dump on my head to cool my whining?
+"
+
+[options]
+t = [
+"wine and sparkling water",
+"wine and ice tea",
+"wine and beer",
+"wine and fruit juice"
+]
+v = "options"
+s = "
+Wine and sparkling water,[#1303#]
+wine and ice tea,[#2445#]
+wine and beer,[#3391#]
+or wine and fruit juice?
+"
+i = 3
+
+[used_lifesaver]
+v = "random"
+
+[reveal]
+v = "random"
+
+[reveal_crickets]
+v = "random"
+
+[reveal_jinx]
+v = "random"
+
+[reveal_split]
+v = "random"
+
+[reveal_correct]
+v = "random"
+
+[option0]
+v = "option0"
+s = "I believe that’s called “gas station champagne”."
+
+[option1]
+v = "random"
+
+[option2]
+v = "option2"
+s = "Beer before liquor, never been sicker. Beer WITH liquor? It might kill you quicker."
+
+[option3]
+v = "option3"
+s = "A wine cooler is a mixture of wine and fruit juice, though sugar or soda can be used as well."
+
+[outro]
+v = "outro"
+s = "And because I inherited my mom’s weak Japanese liver, just a wine cooler or two is enough to get me vomiting.[#6303#]
+I know, because that’s exactly how I found out I have low alcohol tolerance."

@@ -1,0 +1,90 @@
+[root]
+type = "C"
+
+[pretitle]
+v = "random"
+
+[title]
+t = "Tasteless Citrus"
+v = "title"
+s = "
+“Tasteless Citrus”.
+"
+
+[intro]
+v = "intro"
+s = "I used to be the person who chooses and edits the jokes that came on Laffy Taffy wrappers.[#4081#]You can only polish a turd so much.[#6064#]But since the premise of this question type requires me to read these jokes, I’ll make you suffer with me."
+
+[setup]
+t = "What are sailors’ favorite fruits?"
+v = "setup"
+s = "
+“What are sailors’ favorite fruits?[#2573#]
+"
+
+[punchline]
+t = "Naval oranges!"
+v = "punchline"
+s = "
+Naval oranges!”
+"
+
+[post_punchline]
+v = "post_punchline"
+s = "Okay, I got something."
+
+[question]
+t = "Speaking of the Navy and fruits, what’s the unappetizing name that they call the fruit punch powder they have on Navy ships, similar to Tang or Kool-Aid?"
+v = "question"
+s = "Speaking of the Navy and fruits, what’s the unappetizing name that they call the fruit punch powder they have on Navy ships, similar to Tang or Kool-Aid?"
+
+[options]
+t = [
+"battery acid",
+"orange detergent",
+"driveway water",
+"bug juice",
+]
+v = "options"
+s = "
+Battery acid, orange detergent, driveway water, or bug juice?
+"
+i = 3
+
+[used_lifesaver]
+v = "random"
+
+[reveal]
+v = "random"
+
+[reveal_crickets]
+v = "random"
+
+[reveal_jinx]
+v = "random"
+
+[reveal_split]
+v = "random"
+
+[reveal_correct]
+v = "random"
+
+[option0]
+v = "option0"
+s = "Wow, that answer is shockingly bad."
+
+[option1]
+v = "option1"
+s = "Ugh, your answer stinks like day-old sweat."
+
+[option2]
+v = "option2"
+s = "A delicate blend of emulsified lawn grass, car tire scrapings, and a slight kick of cigarette butts."
+
+[option3]
+v = "option3"
+s = "Calvin would love the name. Bug juice is what they call the Navy version of Tang."
+
+[outro]
+v = "outro"
+s = "I [i]think[/i] I made the rest of the options up, as far as I know,[#3185#]but I think they might be real names for cocktails somewhere in the world."

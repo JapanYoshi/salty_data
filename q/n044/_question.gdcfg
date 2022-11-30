@@ -1,0 +1,69 @@
+[root]
+type = "N"
+
+[pretitle]
+v = "random"
+
+[title]
+t = "The United States of Movies"
+v = "title"
+s = "“The United States of Movies”."
+
+[intro]
+v = ""
+s = ""
+
+[question]
+v = "question"
+t = "Suppose movies in the United States premiered in the state that has a matching nickname. [#4364#](e.g. Montana, the Treasure State, would get dibs on Treasure Planet) [#8925#]Which of these Julia Roberts films would be premiered farthest north?"
+s = "Suppose movies in the United States premiered in the state that has a matching nickname.[#4364#]Like Montana, the Treasure State, would get dibs on Treasure Planet, that kind of stuff.[#8517#]So which of these Julia Roberts films would be premiered farthest north?"
+
+[options]
+v = "options"
+t = [
+"[i][b]Ocean[/b]’s Eleven[/i]",
+"[i]The [b]Pelican[/b] Brief[/i]",
+"[i]Fireflies in the [b]Garden[/b][/i]",
+"[i]Steel [b]Magnolia[/b]s[/i]"
+]
+s = "
+[i]Ocean’s Eleven, The Pelican Brief, Fireflies in the Garden,[/i] or [i]Steel Magnolias?[/i]"
+i = 0
+
+[used_lifesaver]
+v = "random"
+
+[reveal]
+v = "random"
+
+[reveal_crickets]
+v = "random"
+
+[reveal_jinx]
+v = "random"
+
+[reveal_split]
+v = "random"
+
+[reveal_correct]
+v = "random"
+
+[option0]
+v = "option0"
+s = "Rhode Island is “The Ocean State”. It is the farthest north of this bunch."
+
+[option1]
+v = "option1"
+s = "Louisiana is “The Pelican State”. Looks like you got your eyes pecked out on this one."
+
+[option2]
+v = "option2"
+s = "New Jersey is “The Garden State”.[#2000#]If you think I'm going to stoop to making fun of New Jersey here, just wait till the next question!"
+
+[option3]
+v = "option3"
+s = "I have a snappy three-word remark to this answer:[#2586#]More like [i]Miss-[/i]issippi! Eh? Eehh?[#6551#](awkward silence)"
+
+[outro]
+v = "outro"
+s = "Poor people in the Show-Me State, who have to watch all these stupid movies.[#3952#]They must be in deep, deep Missouri."

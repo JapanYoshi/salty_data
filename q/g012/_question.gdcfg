@@ -1,0 +1,76 @@
+[root]
+type = "G"
+
+[pretitle]
+v = "random"
+
+[title]
+t = "Liam is Such a Bee when He’s Angry"
+v = "title"
+s = "
+“Liam is Such a Bee when He’s Angry”.
+"
+
+[gib_tute0]
+v = "random"
+
+[gib_tute1]
+v = "random"
+
+[gib_tute2]
+v = "random"
+
+[gib_tute3]
+v = "random"
+
+[gib_tute4]
+v = "random"
+
+[gib_genre]
+v = "_gib_genre_title"
+t = "title"
+s = "With what [i]title[/i] does this rhyme?"
+
+[question]
+t = "Liam may sting girl of dumb Paul."
+v = "question"
+s = "“Liam may sting girl of dumb Paul.”"
+
+[answer]
+t = "[i]The Amazing World of Gumball[/i]"
+r = "^THE AMAZING WORLD OF GUM ?BALL$"
+
+[clue0]
+v = "clue0"
+t = "It’s an animated sit-com..."
+s = "It’s an animated sit-com..."
+
+[clue1]
+v = "clue1"
+t = "...about an animated cat and his friends..."
+s = "...about an animated cat and his friends..."
+
+[clue2]
+v = "clue2"
+t = "...and the wonderful place that the [i]sweetly[/i] named cat lives in."
+s = "...and the wonderful place that the [i]sweetly[/i] named cat lives in."
+
+; always generic wrong answer. might override later if guest host happens
+[gib_wrong]
+v = "random"
+
+[reveal]
+v = "reveal"
+s = "Maybe if you “chewed” on the question for a moment, the answer could have “popped” into your head.[#4735#]Y’know, like a gumball."
+
+[outro]
+v = "outro"
+s = "You might expect me to know everything about [i]The Amazing World of Gumball,[/i][#3376#]
+since I named myself “Candy Barre” and all.[#5288#]
+But here’s the thing... I don’t."
+
+[buzz_in]
+v = "random"
+
+[skip]
+v = "random"

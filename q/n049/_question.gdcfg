@@ -1,0 +1,73 @@
+[root]
+type = "N"
+
+[pretitle]
+v = "random"
+
+[title]
+t = "My Acerbic Wit is Wasted on These Idiots Online"
+v = "title"
+s = "“My Acerbic Wit is Watsed on These Idiots Online”."
+
+[intro]
+v = "intro"
+s = "I’ve been unfortunate enough to be subjected to online discourse.[#3822#]Twitter is full of people on Dunning–Kruger Hill."
+
+[question]
+v = "question"
+t = "US states-wise, which of the following is a good way of telling someone how big of an “L” they took?"
+s = "US states-wise, which of the following is a good way of telling someone how big of an “L” they took?"
+
+[options]
+t = [
+"“The L you took goes from Minneapolis to St. Paul.”",
+"“The L you took goes from Phoenix to Fredonia.”",
+"“The L you took goes from Mayfield to Columbus.”",
+"“The L you took goes from Shreveport to New Orleans.”"
+]
+v = "options"
+s = "
+“The L you took goes from Minneapolis to St. Paul.”,[#2909#]
+“The L you took goes from Phoenix to Fredonia.”,[#5500#]
+“The L you took goes from Mayfield to Columbus.”,[#8112#]
+or “The L you took goes from Shreveport to New Orleans.”?
+"
+i = 3
+
+[used_lifesaver]
+v = "random"
+
+[reveal]
+v = "random"
+
+[reveal_crickets]
+v = "random"
+
+[reveal_jinx]
+v = "random"
+
+[reveal_split]
+v = "random"
+
+[reveal_correct]
+v = "random"
+
+[option0]
+v = "random"
+s = ""
+
+[option1]
+v = "option1"
+s = "Not even the Grand Canyon can hold the massive L you just took."
+
+[option2]
+v = "option2"
+s = "What does Ohio have to do with anything? [i][hushed][/i] Besides secretly trying to take over everything."
+
+[option3]
+v = "option3"
+s = "Yep, both of those cities are in Louisiana. Shreveport’s in the northwest,[#3886#]and New Orleans is in the southeast of the giant fricking L that is Louisiana."
+
+[outro]
+v = "outro"
+s = "Another good line about Louisiana is: “This ain’t Louisiana, man, I ain’t buyin’ it.”"

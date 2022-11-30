@@ -1,0 +1,97 @@
+[root]
+type = "C"
+
+[pretitle]
+v = "random"
+
+[title]
+t = "Shoe Fly, Don’t Dubya Me"
+v = "title"
+s = "
+“Shoe Fly, Don’t Dubya Me”.
+"
+
+[intro]
+v = "intro"
+s = "The Laffy Taffy seems to be rubbing off on me too much. Well, here’s another lame-ass joke."
+
+[setup]
+t = "What did the foot do after he had a bad day?"
+v = "setup"
+s = "
+“What did the foot do after he had a bad day?[#3443#]
+"
+
+[punchline]
+t = "He socked it up!"
+v = "punchline"
+s = "
+He socked it up!”
+"
+
+[post_punchline]
+v = "post_punchline"
+s = "Please help me. I’m in agony. But anyway,"
+
+[question]
+t = "According to Footwear Industries of America, how would my Women’s Size 9 foot “sock it up”?"
+v = "question"
+s = "According to Footwear Industries of America,[#2696#]how would my Women’s Size 9 foot “sock it up”?"
+
+[options]
+t = [
+    "like a Size 7½ man",
+    "like a Size 8 man",
+    "like a Size 8½ man",
+    "like a Size 9 man",
+]
+v = "options"
+s = "
+Like a Size 7½ man,[#1868#]
+like a Size 8 man,[#3294#]
+like a Size 8½ man,[#4931#]
+or like a Size 9 man?"
+i = 1
+
+[used_lifesaver]
+v = "random"
+
+[reveal]
+v = "random"
+
+[reveal_crickets]
+v = "random"
+
+[reveal_jinx]
+v = "random"
+
+[reveal_split]
+v = "random"
+
+[reveal_correct]
+v = "random"
+
+[option0]
+v = "random"
+s = ""
+
+[option1]
+v = "option1"
+s = "According to Footwear Industries of America,[#2431#]women’s sizes are men’s sizes plus 1, so a men’s 8 would be a women’s 9."
+
+[option2]
+v = "option2"
+s = "That answer was half-assed."
+
+[option3]
+v = "option3"
+s = "You must be new to the world of American measurements.[#2567#]
+We f**k things up on pursose.[#4781#]
+And we never even use our own units to measure anything;[#7987#]
+we use washing machines and football fields."
+
+[outro]
+v = "outro"
+s = "But a size difference of one means only one third of an inch, or a “barleycorn”.[#5542#]
+And some manufacturers insist on a one-and-a-half inch difference between men and women.[#9821#]
+And meanwhile, Mondopoint is just like “26 is 26!”"

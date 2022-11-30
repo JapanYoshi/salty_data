@@ -1,0 +1,89 @@
+[root]
+type = "T"
+
+[pretitle]
+v = "random"
+
+[title]
+t = "Everybody Scream (the Exact Same Scream)!"
+v = "title"
+s = "“Everybody Scream (the Exact Same Scream)!”."
+
+[thou_segue]
+v = "random"
+
+[thou_tute0]
+v = "random"
+
+[thou_tute1]
+v = "random"
+
+[thou_tute2]
+v = "random"
+
+[thou_intro]
+v = "thou_intro"
+s = "Ready? Start the clock!"
+
+[question]
+t = "Which of the [#4020#]following [#9675#]scre[#24259#]ams is [b]not[/b] a famous stock [#28856#]sound effect?"
+v = "question"
+s = "
+Which of the—
+[i](scream sound effect)[/i][#1461#]
+...Jesus, that spooked me. Okay.[#4020#]
+Which of the following—
+[i](scream sound effect)[/i][#5590#]
+Oh, come on! Let me read the question! Okay, starting over.[#9675#]
+Which of the following screa—
+[i](scream sound effect)[/i][#11851#]
+Really? Daisy, stop messing around back there with your soundboard![#15199#]
+[i](scream sound effect spam)[/i]
+Oh, for Pete’s sake! Cut it out, will you?[#20760#]
+[i](inhales exasperatedly)[/i] ...Okay. Let’s try again.[#23238#]
+Which of the following screams is not a famous stock—
+[i](scream sound effect spam)[/i][#26699#]
+Oh for the love of everything holy—stock sound effect?
+"
+
+[options]
+t = [
+  "Howie",
+  "Goofy",
+  "Jerry",
+  "Wilhelm"
+]
+v = "options"
+s = "
+Howie, Goofy, Jerry, or Wilhelm?
+"
+i = 2
+
+[reveal_correct]
+v = "random"
+
+[option0]
+v = "random"
+
+[option1]
+v = "option1"
+s = "Bet you feel goofy now."
+
+[option2]
+v = "option2"
+s = "The Howie Scream, the Goofy Holler, and the Wilhelm Scream are all sound effects that appear in a ton of stuff."
+
+[option3]
+v = "option3"
+s = "Oh come on, everybody knows the Wilhelm Scream."
+
+[outro]
+v = "outro"
+s = "
+And the Jerry Scream is what I make when I stub my toe while watching Seinfeld.[#3688#]
+[i](shrill, reverberating scream sound effect)[/i][#8245#]
+[i][sarcastically][/i] Thanks, Daisy.
+"
+
+[skip]
+v = "random"

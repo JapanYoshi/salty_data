@@ -1,0 +1,75 @@
+[root]
+type = "G"
+
+[pretitle]
+v = "random"
+
+[title]
+t = "Iron Man Rages Over StarCraft"
+v = "title"
+s = "
+“Iron Man Rages Over StarCraft”.
+"
+
+[gib_tute0]
+v = "random"
+
+[gib_tute1]
+v = "random"
+
+[gib_tute2]
+v = "random"
+
+[gib_tute3]
+v = "random"
+
+[gib_tute4]
+v = "random"
+
+[gib_genre]
+v = "gib_genre_name"
+t = "proper name"
+s = "With what [i]proper name[/i] does this rhyme?"
+
+[question]
+t = "Stark struck her, Zerg!"
+v = "question"
+s = "“Stark struck her, Zerg!”"
+
+[answer]
+t = "Mark Zuckerberg"
+r = "^MAR[CK] ZU[CK]{1,2}ERB[EU]RG[.!]?$"
+
+[clue0]
+v = "clue0"
+t = "It’s a really rich tech guy..."
+s = "It’s a really rich tech guy..."
+
+[clue1]
+v = "clue1"
+t = "...who created [i]the[/i] Social Network."
+s = "It’s the guy who created [i]the[/i] Social Network."
+
+[clue2]
+v = "clue2"
+t = "It’s The Zucc."
+s = "C’mon, you’ve heard of The Zucc, haven’t you?"
+
+; always generic wrong answer. might override later if guest host happens
+[gib_wrong]
+v = "random"
+
+[reveal]
+v = "reveal"
+s = "I feel like the only reason I can think of for your failure is that[#3631#]you were confused between him and Jesse Eisenberg, the guy from [i]The Social Network[/i] movie."
+
+[outro]
+v = "outro"
+s = "Of course, the only correct pronunciation of “Mark Zuckerberg”[#3037#]
+is yelled at full volume into Siri after two hours of wondering what his name is."
+
+[buzz_in]
+v = "random"
+
+[skip]
+v = "random"

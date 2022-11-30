@@ -1,0 +1,92 @@
+[root]
+type = "C"
+
+[pretitle]
+v = "random"
+
+[title]
+t = "Sweet Treats are Made of These"
+v = "title"
+s = "
+[i][singing][/i] “Sweet Treats are Made of These”.
+"
+
+[intro]
+v = "intro"
+s = "I can’t believe the writers still insist on me doing these.[#3272#]Now I have a... [i](straining)[/i] whole box full of...[#6924#][i](thud)[/i] Hah... Laffy Taffy.[#9430#][#10428#]They really want to make it clear to me that they’re committing to this choice, whether I like it or not,[#15015#]which, for the record, I don’t."
+
+[setup]
+t = "Why are mushrooms invited to parties?"
+v = "setup"
+s = "
+“Why are mushrooms invited to parties?”[#3357#]
+[i][sarcastically][/i] Oh, gee! I wonder what it could be![#6449#]
+Not like I haven’t heard this punch line from every half-white two-bit dad[#10428#]at a barbecue since the age of six![#13507#]
+"
+
+[punchline]
+t = "They’re fungi’s!"
+v = "punchline"
+s = "
+[i][exasperatedly][/i] “They’re fungi’s.”
+"
+
+[post_punchline]
+v = "post_punchline"
+s = "[i](sigh of broken resolve)[/i] Okay."
+
+[question]
+t = "What kind of mushroom is [i]actually[/i] at a lot of “parties”? The illegal EDM rave kind, to be specific?"
+v = "question"
+s = "What kind of mushroom is actually at a lot of “parties”? The illegal EDM rave kind, to be specific?"
+
+[options]
+t = [
+    "[i]Psilocybe cubensis[/i]",
+    "[i]Agricus bisporis[/i]",
+    "[i]Amanita muscaria[/i]",
+    "[i]Tuber melanosporum[/i]"
+]
+v = "options"
+s = "
+[i]Psilocybe cubensis[/i], [i]Agricus bisporis[/i],[#4100#][i]Amanita muscaria[/i], or [i]Tuber melanosporum[/i]?[#8772#]I can’t do this.
+"
+i = 0
+
+[used_lifesaver]
+v = "random"
+
+[reveal]
+v = "random"
+
+[reveal_crickets]
+v = "random"
+
+[reveal_jinx]
+v = "random"
+
+[reveal_split]
+v = "random"
+
+[reveal_correct]
+v = "random"
+
+[option0]
+v = "option0"
+s = "Psilocybes are hallucinogenic. They’re also known as “magic mushrooms”."
+
+[option1]
+v = "option1"
+s = "Sure, Portobello mushrooms are tasty, but they’re nothing to hold a party over."
+
+[option2]
+v = "option2"
+s = "I think you have a sick, twisted, macabre idea of what a party is.[#4461#]Or you just didn’t know that it’s the poisonous mushroom that they designed the mushroom from Super Mario after."
+
+[option3]
+v = "option3"
+s = "Wow, you sniffed out the black truffle! You pig."
+
+[outro]
+v = "outro"
+s = "For the record, I am not telling you that you should take magic mushrooms in any capacity.[#5321#]I’m, at best, implying that some people do.[#8527#]Just to make it clear, so that the legal division doesn’t lose their collective heads over this question."

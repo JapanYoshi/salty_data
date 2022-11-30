@@ -1,0 +1,93 @@
+[root]
+type = "T"
+
+[pretitle]
+v = "_pretitle_miles"
+
+[title]
+t = "An Island by Any Other Name"
+v = "title"
+s = "“An Island by Any Other Name”."
+
+[thou_segue]
+v = "thou_segue"
+s = "Whoa, this is huge! It’s the Thousand-Question Question!"
+
+[thou_tute0]
+v = "thou_tute0"
+s = "A Thousand-Question Question is worth a thousand normal questions."
+
+[thou_tute1]
+v = "thou_tute1"
+s = "But the value gets lower and lower the longer you wait, and only the first person to answer gets the prize."
+
+[thou_tute2]
+v = "thou_tute2"
+s = "Oh, and you can’t answer until the options appear on the screen."
+
+[thou_intro]
+v = "thou_tute3"
+s = "Start your engines, because the time starts... now."
+
+[question]
+t = "In what island in Wales is Llanfairpwllgwyngyll­gogerychwyrndrobwll­llantysiliogogogoch?"
+v = "question"
+s = "
+In what island in Wales is—[#2173#]
+[i](Miles struggles with pronouncing the word)[/i][#4208#]
+What the hell is this word?[#5320#]
+[i](door slams open)[/i]
+[b]Candy:[/b] What year is it?![#6456#]
+[b]Miles:[/b] Candy! Good to see that you’re up and running again. Now what did I tell you about caffeine-fueled all-nighters?[#11239#]
+[b]Candy:[/b] That I’m young enough to tank them.[#12613#]
+[b]Miles:[/b] That’s not—Never mind, do you know how to pronounce this?[#15746#]
+[b]Candy:[/b] Oh, that? It’s Llanfairpwllgwyngyll­gogerychwyrndrobwll­llantysiliogogogoch.[#19632#]
+[b]Miles:[/b] Clan-vyre-what?[#21054#]
+[i](Candy says it syllable by syllable, Miles clumsily trying to repeat it.)[/i][#26136#]
+[b]Miles:[/b] Screw this, read this question for me.[#27929#]
+[b]Candy:[/b] I mean, that’s what I’m hired to do, anyway. Gimme the cue card. There. Okay. Ahem.[#33357#]
+In what island in Wales is Llanfairpwllgwyngyll­gogerychwyrndrobwll­llantysiliogogogoch?
+"
+
+[options]
+t = [
+  "Anglesey",
+  "Skomer",
+  "Cardigan",
+  "St. Catherine’s"
+]
+v = "options"
+s = "
+Anglesey, Skomer, Cardigan, or St. Catherine’s?
+"
+i = 0
+
+[reveal_correct]
+v = "random"
+
+[option0]
+v = "option0"
+s = "The Isle of Anglesey is in the northwest of Wales, and it’s home to Llanfair PG, as the locals call it."
+
+[option1]
+v = "option1"
+s = "I’ll tell the puffins there you said hi."
+
+[option2]
+v = "option2"
+s = "Warmer... Warmer...! No, you’re cold! You need a cardigan![#4086#][i](audience boo SFX)[/i] What?!"
+
+[option3]
+v = "random"
+s = ""
+
+[outro]
+v = "outro"
+s = "
+[b]Candy:[/b] Also, make sure you don’t travel to Llanfairpwllgwyngyll­gogerychwyrndrobwll­llantysiliogogogoch,[#4029#]
+if you have recently gotten pneumonoultramicroscopic­silicovolcanoconiosis.[#7456#]
+[b]Miles:[/b] How does she do that...?
+"
+
+[skip]
+v = "_skip_miles"
