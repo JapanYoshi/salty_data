@@ -5,7 +5,7 @@ The version of Godot Engine used to export the data files must be 3.5, not 4.
 
 ## The anatomy of a question data file
 
-Question data is exported as a `.pck` file.
+Question data is exported as a `.zip` file.
 The contents that Salty Trivia will actually need are as follows, assuming that the question ID is `n001`:
 
 ```
