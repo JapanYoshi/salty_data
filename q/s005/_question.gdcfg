@@ -24,7 +24,7 @@ Well, guess I have to go get that. [i](door opens)[/i][#18909#]
 [title]
 t = "Birds vs. Bees"
 v = "title"
-s = "Birds vs. Bees”."
+s = "“Birds vs. Bees”."
 
 [sort_segue]
 v = "sort_segue"
@@ -49,7 +49,7 @@ v = "sort_b"
 s = "[i]not[/i] a type of bee,"
 
 [sort_ab]
-v = "sort_ab"
+v = "sort_ab_"
 s = "or both! By which I mean neither of them. Hm. If it’s:"
 
 [sort_a_short]

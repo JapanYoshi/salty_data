@@ -134,8 +134,8 @@ o = [
 a = [0, 0, 1, 1]
 v = "answer4"
 s = "
-[b]Candy:[/b] Not that I recommend eating crayons. Not unless you wanna end up like Daisy.[##]
-[b]Daisy:[/b] Hey, I only eat the ones without adjectives in their name.
+[b]Candy:[/b] Not that I recommend eating crayons. Not unless you wanna end up like Daisy.[#3763#]
+[b]Daisy:[/b] [i][scandalized][/i] Hey! I only eat the ones without adjectives in their name!
 "
 
 [like_outro]

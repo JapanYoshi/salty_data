@@ -29,9 +29,6 @@ s = "
 Let’s hope you can ace these “finals”.
 "
 
-[rush_ready]
-v = "_rush_ready"
-
 [section0]
 q = "one of the last 3 songs in a musical"
 o = [

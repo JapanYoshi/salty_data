@@ -29,11 +29,8 @@ s = "
 Which world-hoppers are [i]not from[/i] the wonderful place in question?
 "
 
-[rush_ready]
-v = "_rush_ready"
-
 [section0]
-q = "Narnia (The Chronicles of)"
+q = "Narnia [i](The Chronicles of)[/i]"
 o = [
 "Peter Pevensie",
 "Peter’s father",
@@ -45,7 +42,7 @@ o = [
 a = [1,0,1,1,1,0]
 
 [section1]
-q = "Neverland (Peter Pan)"
+q = "Neverland [i](Peter Pan)[/i]"
 o = [
 "Peter Pan",
 "Tinkerbell",
@@ -57,7 +54,7 @@ o = [
 a = [1,0,1,0,1,0]
 
 [section2]
-q = "Oz (The Wizard of)"
+q = "Oz [i](The Wizard of)[/i]"
 o = [
 "Dorothy Gale",
 "Toto",
@@ -69,7 +66,7 @@ o = [
 a = [1,1,0,0,0,1]
 
 [section3]
-q = "The Grid (Tron)"
+q = "The Grid [i](Tron)[/i]"
 o = [
 "Kevin Flynn",
 "Sam Flynn",
@@ -81,7 +78,7 @@ o = [
 a = [1,1,0,1,0,1]
 
 [section4]
-q = "real life (Enchanted)"
+q = "real life [i](Enchanted)[/i]"
 o = [
 "Giselle",
 "Robert Phillip",
@@ -93,7 +90,7 @@ o = [
 a = [1,0,1,1,0,1]
 
 [section5]
-q = "real life (Space Jam)"
+q = "real life [i](Space Jam)[/i]"
 o = [
 "Michael Jordan",
 "Charles Barkley",

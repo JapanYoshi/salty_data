@@ -3,7 +3,8 @@ type = "S"
 has_both = false
 
 [pretitle]
-v = "random"
+v = "pretitle"
+s = "This next one goes by the name:"
 
 [title]
 t = "The World Accordion to Al"
@@ -60,18 +61,18 @@ s = "All clear? Here we go."
 
 [sort_options]
 t = [
-"Party in the U.S.A. – Miley Cyrus (2009)",
 "Party Rock Anthem – LMFAO (2011)",
 "Happy – Pharrell Williams (2013)",
+"Party in the U.S.A. – Miley Cyrus (2009)",
 "Gangnam Style – PSY (2012)",
 "Born This Way – Lady Gaga (2011)",
 "Poker Face – Lady Gaga (2008)",
 "Bad Romance – Lady Gaga (2009)",
 ]
 s = [
-"Party in the U.S.A. by Miley Cyrus.",
 "Party Rock Anthem by LMFAO.",
 "Happy by Pharrell Williams.",
+"Party in the U.S.A. by Miley Cyrus.",
 "Gangnam Style by PSY.",
 "Born This Way by Lady Gaga.",
 "Poker Face by... also Lady Gaga.",
@@ -98,12 +99,15 @@ s = "[i][in Annoying Orange impression][/i] Hey! Hey! Score! Hey, score! KNIFE!"
 [outro]
 v = "outro"
 s = "
-[b]Candy:[/b] Phew, we made it through this question intact. Onto the—[##]
-[i](accordion rendition of the Jaws theme)[/i][##]
-[b]Candy:[/b] Oh no. Duck and cover! Save yourselves![##]
-[b]Daisy:[/b] [i][in crazed tone][/i] Caaandyyy![##]
+[b]Candy:[/b] Phew, we made it through this question intact.[#2329#]
+Onto the—
+[i](accordion rendition of the Jaws theme)[/i][#3417#]
+[b]Candy:[/b] Oh no.[#4965#]
+Duck and cover! Save yourselves![#6968#]
+[b]Daisy:[/b] [i][in crazed tone][/i] Caaandyyy![#8702#]
 [b]Candy:[/b] Run for your life!
 "
 
 [skip]
-v = "random"
+v = "skip"
+s = "Alright then, let’s go."

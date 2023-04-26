@@ -14,31 +14,31 @@ s = "
 [preintro]
 v = "preintro"
 s = "
-[b]Candy:[/b] So we have Ozzy here again.[##]
+[b]Candy:[/b] So we have Ozzy here again.[#1441#]
 [b]Ozzy:[/b] And I’m not happy about it, either.
 "
 
 [intro]
 v = "intro"
 s = "
-[b]Candy:[/b] How’s it going?[##]
-[b]Ozzy:[/b] Eh, you young kids are always being so high and peppy. What the heck is there to be happy about in this world, anyway?[##]
-[b]Daisy:[/b] Video games![##]
-[b]Candy:[/b] Can’t argue with that. She has a point.[##]
-[b]Ozzy:[/b] [i](grumble)[/i] Video games... You think playing random garbage on your phone and wasting your life savings makes you happy?! Why, back when I was your age—[##]
-[b]Candy:[/b] Ugh, you’re always like this, Ozzy. You always talk about things from the times when Space Invaders ran on coal or something. How about I quiz you this time? About something contemporary that you know?[##]
-[b]Ozzy:[/b] What? Contemporary?![##]
-[b]Candy:[/b] Yeah! Come on, you got to know the name of a video game or two that released in the last decade or two.[##]
-[b]Ozzy:[/b] Hmm... Well, there [i]is[/i] one video game that I remember hearing about.
+[b]Candy:[/b] How’s it going?[#833#]
+[b]Ozzy:[/b] Eugh, you young kids are always being so high and peppy.[#4815#]What the heck is there to be happy about in this world, anyway?[#8307#]
+[b]Daisy:[/b] Video games![#9471#]
+[b]Candy:[/b] Can’t argue with that. She has a point.[#11318#]
+[b]Ozzy:[/b] [i](grumble)[/i] Video games...[#14752#]You think playing random garbage on your phone and wasting your life savings makes you happy?![#19494#]Why, back when I was your age, we had dirt![#22244#]
+[b]Candy:[/b] Ugh, you’re always like this, Ozzy. You always talk about things from the times when Space Invaders ran on coal or something.[#29213#]How about I quiz you this time? About something contemporary that you know?[#32661#]
+[b]Ozzy:[/b] Contemporary?![#34494#]
+[b]Candy:[/b] Yeah! Come on, you got to know the name of a video game or two that released in the last decade or two.[#39251#]
+[b]Ozzy:[/b] Hmm...[#41200#]Well, there [i]is[/i] one video game that I remember hearing about.
 "
 
 [question]
-t = "Open-world exploration game... [##]Go from world to world... [##]Learn about where you are... [##]Slammed for being unfinished and buggy... [##]“Worst game of the year”... [##]What is Ozzy talking about?"
+t = "Open-world exploration game... [#2475#]Go from world to world... [#6581#]Learn about where you are... [#12597#]Slammed for being unfinished and buggy... [#18012#]“Worst game of the year”... [#20415#]What is Ozzy talking about?"
 v = "question"
 s = "
-[b]Ozzy:[/b] It’s an open-world exploration game. You would go from world to world and keep exploring them as you found new information and learned about where you were. Everyone was talking about this game![##]
-[b]Candy:[/b] Oh yeah, then it came out and it was trashed for being unfinished and buggy?[##]
-[b]Ozzy:[/b] Fair dinkum. Some called it the WORST game of the year. Now what the heck was that game called?!
+[b]Ozzy:[/b] It was an open-world exploration game.[#2475#]You would go from world to world and keep exploring them as you found new information and learned about where you were.[#8498#]Everybody was talking about this game![#11030#]
+[b]Candy:[/b] Oh yeah, then it came out and it was trashed for being unfinished and buggy?[#14879#]
+[b]Ozzy:[/b] Yeah, that sounds about right. Some even called it the [i]worst[/i] game for the year it came out in.[#20415#]Now what the heck was that game called?!
 "
 
 [options]
@@ -73,14 +73,14 @@ v = "random"
 [option0]
 v = "option0"
 s = "
-[b]Candy:[/b] Let sleeping dogs lie... and hack away your score.
-[b]Ozzy:[/b] I’m gonna pretend I understand that reference.
+[b]Candy:[/b] Let sleeping dogs lie... and hack away your score.[#2957#]
+[b]Ozzy:[/b] I’m just going to pretend I understood that reference.
 "
 
 [option1]
 v = "option1"
 s = "
-[b]Ozzy:[/b] Don’t you dare make a “primal–caveman” joke!
+[b]Ozzy:[/b] Don’t you dare make a “primal–caveman” joke![#3376#]
 [b]Candy:[/b] I wasn’t gonna! Geez.
 "
 
@@ -93,14 +93,14 @@ s = "
 [option3]
 v = "option3"
 s = "
-[b]Candy:[/b] Yep, you’re thinking of No Man’s Sky, aren’t you?
+[b]Candy:[/b] Yep, you’re thinking of No Man’s Sky, aren’t you?[#2325#]
 [b]Ozzy:[/b] Hmm, yes, that does sound familiar.
 "
 
 [outro]
 v = "outro"
 s = "
-[b]Candy:[/b] How did you hear about No Man’s Sky, anyway?[##]
-[b]Ozzy:[/b] You kidding me? You couldn’t go two seconds without a poster for the blasted thing showing up on a building![##]
+[b]Candy:[/b] How did you hear about No Man’s Sky, anyway?[#2415#]
+[b]Ozzy:[/b] You kidding me?[#3658#]You couldn’t go two seconds without a poster for the blasted thing showing up on a building![#8719#]
 [b]Candy:[/b] Something tells me that you’re talking about wanted posters.
 "

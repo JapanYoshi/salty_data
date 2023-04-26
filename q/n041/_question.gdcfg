@@ -51,19 +51,19 @@ v = "random"
 
 [option0]
 v = "option0"
-s = "A peninsula is a landmass that juts out into the ocean, but isn’t an island."
+s = "A peninsula is a landmass that juts out into the ocean, but isn’t quite an island."
 
 [option1]
 v = "option1"
-s = "No, that would mean she’s exploded into lots of little Billie Isles."
+s = "No, that would mean she’s exploded into a bunch of little Billie Isles."
 
 [option2]
 v = "option2"
-s = "An estuary isn’t even a landmass; it’s a body of water![##]Mostly made of the brackish tears of Billie Eilish fans."
+s = "An estuary isn’t even a landmass; it’s a body of water![#3898#]Mostly made of the brackish tears of Billie Eilish fans."
 
 [option3]
 v = "option3"
-s = "[b]Candy:[/b] [i](sigh)[/i] Daisy, please?[##]
+s = "[b]Candy:[/b] [i](sigh)[/i] Daisy, please?[#1739#]
 [b]Daisy:[/b] Nope, too easy."
 
 [outro]

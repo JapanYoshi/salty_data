@@ -15,7 +15,7 @@ s = "Viral marketing does work, doesn’t it?[#2596#]
 I still have that slogan stuck in my head ever since YouTube comments made it into a meme. Well,"
 
 [question]
-t = "Finish the middle of this meme: [#1887#]“Posture? Bad. [#3421#]_______? _______. [#4920#]Diagnosis? [b]Lumbago.[/b]"
+t = "Finish the middle of this meme: [#1887#]“Posture? Bad. [#3421#]_______? _______. [#4920#]Diagnosis? [b]Lumbago.[/b]”"
 v = "question"
 s = "
 Finish the middle of this meme:[#1887#]

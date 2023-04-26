@@ -15,30 +15,33 @@ s = "
 v = "preintro"
 s = "
 [i](door opens)[/i]
-[b]Ozzy:[/b] Who you calling a broken record, brat?[##]
-[b]Candy:[/b] I wasn’t calling [i]anyone[/i] a broken record, Ozzy.[##]
-[i](beat)[/i]
+[b]Ozzy:[/b] Who you calling a broken record, brat?[#2588#]
+[b]Candy:[/b] I wasn’t calling [i]anyone[/i] a broken record, Ozzy.[#4785#]
+[#5914#]
 [b]Ozzy:[/b] Oh.
 "
 
 [intro]
 v = "intro"
 s = "
-[b]Candy:[/b] Anyway, Daisy found a bunch of old records and wanted some help with identifying what they’re of.[##]
-[b]Ozzy:[/b] Records, huh? How hard could that be?[##]
-[b]Daisy:[/b] There are some that not even Shazam can recognize.[##]
-[b]Candy:[/b] Like this one. Here, have this earbud.[##]
-[b]Ozzy:[/b] Hmm... Oh, I recognize this fella![##]
-[b]Candy:[/b] You do? That’s great! Can you tell me who it is?
+[b]Candy:[/b] Anyway, Daisy found a bunch of old records and wanted some help with identifying what they’re of.[#4156#]
+[b]Ozzy:[/b] Records, huh? How hard could that be?[#6883#]
+[b]Daisy:[/b] There are some that not even Shazam can recognize.[#9927#]
+[b]Candy:[/b] Like this one. Here, have this earbud.[#12032#]
+[b]Ozzy:[/b] Okay... Hmm...[#14136#]
+[#16677#]
+Oh, I recognize this fella![#18981#]
+[b]Candy:[/b] You do? That’s great! Can you tell me who it is?[#21648#]
+[b]Ozzy:[/b] I can tell you this much...
 "
 
 [question]
-t = "Clarinetist... [##]Led popular swing big-band... [##]“The King of Swing”... [##]Kickstarted the Swing Era and made Jazz a respected genre... [##]Whom is Ozzy talking about?"
+t = "Clarinetist... [#2541#]Led popular swing big-band... [#6312#]“The King of Swing”... [#8975#]Kickstarted the Swing Era [#10441#]and made Jazz a respected genre... [#23571#]Whom is Ozzy talking about?"
 v = "question"
 s = "
-[b]Ozzy:[/b] This guy was an accomplished clarinetist, who led one of the most popular swing big-bands in the United States. He’s known as the King of Swing, and he’s been credited for kickstarting the Swing Era and making jazz a genre respected by people of all races.[##]
-[b]Candy:[/b] Weird to imagine a time when people saw jazz as uncultured, maybe like how rap is today.[##]
-[b]Ozzy:[/b] Truth be told, Candy, I was one of them too. But that’s behind me. Now who the heck am I talking about?
+[b]Ozzy:[/b] This guy was an accomplished clarinetist,[#2541#]and he led one of the most popular swing big-bands in the United States.[#6312#]Known as the King of Swing, and he’s been credited for kickstarting the Swing Era [#10441#]and making jazz a genre respected by people of all races.[#14245#]
+[b]Candy:[/b] Weird to imagine a time when people saw jazz as uncultured, maybe like how rap is today.[#18830#]
+[b]Ozzy:[/b] Yeah, well, I was one of them people too, kiddo. That was forever ago, though.[#23571#]Now who the heck am I talking about?
 "
 
 [options]
@@ -75,36 +78,37 @@ v = "random"
 [option0]
 v = "option0"
 s = "
-[b]Candy:[/b] Really? Satchmo did this?[##]
-[b]Ozzy:[/b] No he didn’t![##]
+[b]Candy:[/b] Really? Satchmo did this?[#1279#]
+[b]Ozzy:[/b] Of course he did not![#2835#]
 [b]Candy:[/b] Yeah, I figured. Not enough scat or trumpet.
 "
 
 [option1]
 v = "option1"
 s = "
-[b]Candy:[/b] Come on, even I know that it’s not Scott Joplin, the King of Ragtime.[##]
-[b]Ozzy:[/b] Nah yeah, this is swing, not ragtime.
+[b]Candy:[/b] Come on, even I know that it’s not Scott Joplin, the King of Ragtime.[#3927#]
+[b]Ozzy:[/b] ’Course it isn’t! This is swing, not ragtime!
 "
 
 [option2]
 v = "option2"
 s = "
-[b]Candy:[/b] I think I recognize him. Benny Goodman, right?[##]
-[b]Ozzy:[/b] Dinkum! The band leader of Benny Goodman and His Orchestra. I’d wager every single one of you has heard their rendition of “Sing, Sing, Sing (With a Swing)”.
+[b]Candy:[/b] I think I recognize him. Benny Goodman, right?[#2439#]
+[b]Ozzy:[/b] Of course it is! Benny Goodman, band leader of Benny Goodman and His Orchestra.[#8017#]
+I’d wager every single one of you has heard their rendition of “Sing, Sing, Sing (With a Swing)”.
 "
 
 [option3]
 v = "option3"
 s = "
-[b]Candy:[/b] (inhales) Honestly? I can’t really tell those two apart.[##]
+[b]Candy:[/b] Honestly? I can’t really tell those two apart.[#2684#]
 [b]Ozzy:[/b] You ankle-biters these days.
 "
 
 [outro]
 v = "outro"
 s = "
-[b]Ozzy:[/b] This takes me back to the good old days.[##]
-[b]Candy:[/b] You had good days?[##]
+[b]Ozzy:[/b] Kid, this takes me back to the good old days.[#3183#]
+[b]Candy:[/b] You had good days?[#5167#]
 [b]Ozzy:[/b] Not anymore with you uncultured drongos around.
 "

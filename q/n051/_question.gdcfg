@@ -11,14 +11,14 @@ s = "“Black(adder) Holes”."
 
 [intro]
 v = "intro"
-s = "[b]Candy:[/b] Suppose Doctor Who was able to use his TARDIS to travel back in time to visit one of the Blackadders from the sit-com [i]Blackadder[/i] starring Rowan Atkinson.
-[b]Daisy:[/b] Um, actually, Candy, they’re only ever called The Doctor, okay, Candy? Not “Doctor Who”. You’re making a fool of yourself.
+s = "[b]Candy:[/b] Suppose Doctor Who was able to use his TARDIS[#2146#]to travel back in time to visit one of the Blackadders from the sit-com [i]Blackadder[/i] starring Rowan Atkinson.[#6844#]
+[b]Daisy:[/b] Um, actually, Candy, they’re only ever called The Doctor, okay, Candy?[#11565#]Not “Doctor Who”. You’re making a fool of yourself.[#14995#]
 [b]Candy:[/b] I think you have me mistaken for someone who cares about that. But anyway,"
 
 [question]
 v = "question"
-t = "Suppose The Doctor from [i]Doctor Who[/i] was able to use his TARDIS to travel back in time to visit one of the Blackadders. [#6532#]Based on the premises of each season, which of the folowing is [b]not[/b] a way that he might help him?"
-s = "Suppose The Doctor from [i]Doctor Who[/i]—Happy, Daisy?—[#2919#]was able to use his TARDIS to travel back in time to visit one of the Blackadders.[#6532#]Based on the premises of each season, which of the folowing is [i]not[/i] a way that he might help him?"
+t = "Suppose The Doctor from [i]Doctor Who[/i] was able to use his TARDIS to travel back in time to visit one of the Blackadders. [#6532#]Based on the premises of each season, which of the following is [b]not[/b] a way that he might help him?"
+s = "Suppose The Doctor from [i]Doctor Who[/i]—Happy, Daisy?—[#2919#]was able to use his TARDIS to travel back in time to visit one of the Blackadders.[#6532#]Based on the premises of each season, which of the following is [i]not[/i] a way that he might help him?"
 
 [options]
 t = [
@@ -60,13 +60,13 @@ s = "The earliest series of [i]Blackadder[/i] was set in 1485, way after the day
 
 [option1]
 v = "option1"
-s = "Acrophobia is the fear of heights, so topics like airplanes, skyscrapers, and drone photography are a no-go."
+s = "I ought to have you drawn and quartered, but I’ll have to settle for putting your score on the Rack instead."
 
 [option2]
 v = "option2"
 s = "
-[b]Candy:[/b] This answer is more cursed than the Scottish Play.[##]
-[b]Daisy:[/b] You mean MacBeth?[##]
+[b]Candy:[/b] This answer is more cursed than the Scottish Play.[#2461#]
+[b]Daisy:[/b] You mean MacBeth?[#3914#]
 [b]Candy:[/b] ...If this show gets cancelled, it’s gonna be your fault for cursing it.
 "
 
