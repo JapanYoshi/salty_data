@@ -1,0 +1,23 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/explanation.wav-8d1287e405de07b3c2e12eb0a29db52e.sample"
+
+[deps]
+
+source_file="res://q/r004/explanation.wav"
+dest_files=[ "res://.import/explanation.wav-8d1287e405de07b3c2e12eb0a29db52e.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=1
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=1

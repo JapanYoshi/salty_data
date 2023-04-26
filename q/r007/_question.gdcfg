@@ -1,0 +1,101 @@
+[root]
+type = "R"
+
+[rush_intro]
+v = "random"
+
+[rush_tute0]
+v = "random"
+
+[rush_tute1]
+v = "random"
+
+[rush_tute2]
+v = "random"
+
+[rush_tute3]
+v = "random"
+
+[title]
+t = "I Love the Way You Like"
+v = "title"
+s = "“I Love the Way You Like”."
+
+[explanation]
+v = "explanation"
+s = "What do the lyrics approve of?"
+
+[section0]
+q = "[i]My Favorite Things[/i] (The Sound of Music)"
+o = [
+"crisp apple strudels",
+"handwritten letters",
+"wild geese",
+"brown paper packages",
+"snowflakes",
+"fields of red poppies",
+]
+a = [1,0,1,1,1,0]
+
+[section1]
+q = "[i]That’s What I Like[/i] – Bruno Mars"
+o = [
+"ruby-studded Rolex",
+"gold jewelry",
+"parasols in cocktails",
+"shopping sprees in Paris",
+"strawberry champagne",
+"silk sheets",
+]
+a = [0,1,0,1,1,1]
+
+[section2]
+q = "[i]That’s the Way (I Like It)[/i] – KC and the Sunshine Band"
+o = [
+"When you get your high heels on",
+"When you take me by the hand",
+"When you give me all your love",
+"When you call me on the phone",
+"When I get to be in your arms",
+"When you walk into my room",
+]
+a = [0,1,1,0,1,0]
+
+[section3]
+q = "[i]I Like It[/i] – Cardi B, Bad Bunny, J Balvin"
+o = [
+"Balenciagas that look like socks",
+"Twitter feuds",
+"million dollar deals",
+"going to the jeweler",
+"cars with open tops",
+"whiskey on the rocks",
+]
+a = [1,0,1,1,0,0]
+
+[section4]
+q = "[i]I Like To[/i] – Men At Work"
+o = [
+"to look at pictures in a book",
+"to get lunch at a pub",
+"to eat a bowl of mac ’n’ cheese",
+"to pull the plug in the tub",
+"to write a simple joke",
+"to watch TV on mute with the stereo on",
+]
+a = [1,0,0,1,0,1]
+
+[section5]
+q = "[i]Me Gusta[/i] – Anitta ft. Cardi B & Myke Towers"
+o = [
+"every thrust I feel in my soul",
+"every time you look at me that way",
+"vodka, no chaser",
+"all the dirty things you need every day",
+"girls that kiss on girls",
+"bending over on the counter",
+]
+a = [0,1,0,1,1,0]
+
+[skip]
+v = "_rush_skip"

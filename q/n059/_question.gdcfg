@@ -1,0 +1,78 @@
+[root]
+type = "N"
+
+[pretitle]
+v = "random"
+
+[title]
+t = "Just Checking In"
+v = "title"
+s = "“Just Checking In”."
+
+[intro]
+v = "intro"
+s = "
+[b]Daisy:[/b] Hey, what’s up, Candy?[#1174#]
+[b]Candy:[/b] What’s up? More like what [i]isn’t[/i] up, amirite?
+"
+
+[question]
+t = "What isn’t “Up”?"
+v = "question"
+s = "So, what [i]isn’t[/i] “Up”, anyway?"
+
+[options]
+t = [
+"a Shania Twain song",
+"a type of quark",
+"a defunct airline",
+"a horror movie",
+]
+v = "options"
+s = "
+A Shania Twain song, a type of quark, a defunct airline, or a horror movie?
+"
+i = 3
+
+[used_lifesaver]
+v = "random"
+
+[reveal]
+v = "random"
+
+[reveal_crickets]
+v = "random"
+
+[reveal_jinx]
+v = "random"
+
+[reveal_split]
+v = "random"
+
+[reveal_correct]
+v = "random"
+
+[option0]
+v = "option0"
+s = "[b]Candy:[/b] That answer. “It’s ’bout as bad as it could be”.[#2556#]
+[b]Daisy:[/b] On the other hand, “there’s no way but up from here”[#4905#]
+[b]Candy:[/b] In theory."
+
+[option1]
+v = "option1"
+s = "Yep, there’s a quark called “down”, which isn’t “up”.[#3395#]
+There’s also one called “up”, so you’re also wrong."
+
+[option2]
+v = "option2"
+s = "No, Up was the low-cost spin-off of El Al,[#3083#]
+the Israeli airline whose planes have anti-missile protections![#6767#]
+So that they won’t get shot down like your score."
+
+[option3]
+v = "option3"
+s = "“Up” is the name of a Shania Twain song, a quark, and an airline.[#3991#]But the 2001 remake of the Dutch 1983 horror film [i]De Lift[/i] was called [i]Down.[/i]"
+
+[outro]
+v = "outro"
+s = "It has an evil murderous elevator, which at least makes more sense than the premise to Trivia Murder Party 2."

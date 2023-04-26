@@ -1,0 +1,97 @@
+[root]
+type = "T"
+
+[pretitle]
+v = "pretitle"
+s = "[b]Candy:[/b] This next one is—[i](phone ringing)[/i][#1523#]
+[b]Candy:[/b] Oh crap, I gotta get this real quick.[#3913#]
+[i][calling out][/i] Hey Daisy, do this question for me![#5604#]
+[b]Daisy:[/b] Oh wow! I can do that?[#7339#]
+[b]Candy:[/b] Yeah, it’s called—"
+
+[title]
+t = ""
+v = "title"
+s = "“Silence is Golden”"
+
+[thou_segue]
+v = "thou_segue"
+s = "And it’s a Thousand-er. Be right back! [i](door slams)[/i][#1824#]
+[b]Daisy:[/b] Heck yeah!"
+
+[thou_tute0]
+v = "thou_tute0"
+s = "It’s a Thousand-Question Question![#2140#]One of these is worth a thousand times those boring normal ones."
+
+[thou_tute1]
+v = "thou_tute1"
+s = "But as the time runs out, so does the money,[#2675#]and only the first person to answer right gets the jackpot."
+
+[thou_tute2]
+v = "thou_tute2"
+s = "Also, you can’t answer until the options appear on the screen, so[#3794#]no jumping the gun, ’kay?"
+
+[thou_intro]
+v = "thou_intro"
+s = "On your mark, get set, here’s the question!"
+
+[question]
+t = "[##]Which of these characters cannot speak at all?"
+v = "question"
+s = "[#719#]
+[b]Daisy:[/b] Wh—[#1769#][#2308#]
+What the heck does this say?! It’s in cursive![#5779#]
+Who even writes in cursive anyway? It’s the 21st century! I mean—[#9808#]
+I mean, it’s pretty and all, but...[#12844#]What the heck does this say?![#14707#]
+[i](door opens and shuts)[/i]
+[b]Candy:[/b] Phew, crisis averted.[#17298#]
+[b]Daisy:[/b] Great timing, Candy, what the heck is this?[#19700#][#20799#]
+[b]Candy:[/b] [i][confused][/i] The cue card.
+[b]Daisy:[/b] No, what it says![#23351#]
+[b]Candy:[/b] Heh, you can’t read cursive? Skill issue.[#25749#]
+[b]Daisy:[/b] Shut up and read it![#26463#]
+[b]Candy:[/b] My pleasure. Which of these characters cannot speak at all?
+"
+
+[options]
+t = [
+  "Garfield",
+  "Q*bert",
+  "Link",
+  "Groot",
+]
+v = "options"
+s = "
+Garfield, Q*bert, Link, or Groot?
+"
+i = 0
+
+[reveal_correct]
+v = "random"
+
+[option0]
+v = "option0"
+s = "Garfield just makes thought bubbles. All the rest of them make use of their pie hole."
+
+[option1]
+v = "option1"
+s = "Oh, you’ve [i](Q*bert SFX)[/i]-ed up."
+
+[option2]
+v = "option2"
+s = "You have to set your standards HIYAAHH!"
+
+[option3]
+v = "option3"
+s = "I am Groot. You are dumb."
+
+[outro]
+v = "outro"
+s = "
+[b]Candy:[/b] At least, for other purposes than shoving lasagna into.[#2618#]
+[b]Daisy:[/b] That was a weak reference, Candy.
+"
+
+[skip]
+v = "skip"
+s = "Your loss."

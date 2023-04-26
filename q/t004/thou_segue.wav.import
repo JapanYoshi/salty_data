@@ -1,0 +1,23 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/thou_segue.wav-04dc2310ed08ae6c8cbd53e5009f0013.sample"
+
+[deps]
+
+source_file="res://q/t004/thou_segue.wav"
+dest_files=[ "res://.import/thou_segue.wav-04dc2310ed08ae6c8cbd53e5009f0013.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=1
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=1

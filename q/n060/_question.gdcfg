@@ -1,0 +1,88 @@
+[root]
+type = "N"
+
+[pretitle]
+v = "random"
+
+[title]
+t = "I Need My Fix"
+v = "title"
+s = "“I Need My Fix”."
+
+[intro]
+v = "intro"
+s = "
+[b]Candy:[/b] [i][contepmtuously] Daisy[/i] tells me I drink too much coffee.[#3417#]
+[b]Daisy:[/b] You do! No human should drink that much coff—[#6187#]
+and you’re drinking another one! What the heck is wrong with you?![#9854#]
+[b]Candy:[/b] Get off my back, Daisy. It’s just how my body works.[#12510#]
+[b]Daisy:[/b] It’s a miracle it still works at all!
+"
+
+[question]
+t = "Considering Candy hasn’t died yet, what is the largest dose of caffeine you could expect her to take?"
+v = "question"
+s = "Considering Candy hasn’t died yet, what’s the largest dose of caffeine that I can expect she takes?"
+
+[options]
+t = [
+"2 mg / d",
+"20 mg / d",
+"200 mg / d",
+"2 g / d",
+]
+v = "options"
+s = "
+Two milligrams of caffeine per day,[#1774#]
+twenty milligrams of caffeine per day,[#3758#]
+two hundred milligrams of caffeine a day,[#6053#]
+or two grams of caffeine a day?
+"
+i = 2
+
+[used_lifesaver]
+v = "random"
+
+[reveal]
+v = "random"
+
+[reveal_crickets]
+v = "random"
+
+[reveal_jinx]
+v = "random"
+
+[reveal_split]
+v = "random"
+
+[reveal_correct]
+v = "random"
+
+[option0]
+v = "random"
+s = ""
+
+[option1]
+v = "random"
+s = ""
+
+[option2]
+v = "option2"
+s = "[b]Candy:[/b] The human body starts being addicted to caffeine, as well as experiencing some adverse side effects,[#5183#]at a couple hundred milligrams."
+
+[option3]
+v = "option3"
+s = "[b]Daisy:[/b] No! Are you trying to kill her?!"
+
+[outro]
+v = "outro"
+s = "[b]Candy:[/b] For the record, I drink coffee because I like the taste.[#2842#]
+[b]Daisy:[/b] You’re drinking Cuban espresso, Candy![#6051#]
+Nobody drinks Cuban espresso for the taste![#9434#]
+To be honest, I’m surprised you’re not more coffee than blood.[#12823#]
+Like, if a vampire bit you, [i]he’d[/i] have jitters in his vampire coffin-bed.[#18347#]
+[b]Candy:[/b] That makes me wonder, um...[#20389#]
+What if I turned into a vampire? Would I thirst for coffee or blood?[#24843#]
+[b]Daisy:[/b] I dunno... Probably both.[#27219#]
+[b]Candy:[/b] Yeah, lemme just, um...[#29018#]
+[b]Daisy:[/b] [i](slapping pencil out of Candy’s hand)[/i] Put the pencil down, Candy!"

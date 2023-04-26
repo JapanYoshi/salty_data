@@ -1,0 +1,106 @@
+[root]
+type = "T"
+
+[pretitle]
+v = "random"
+
+[title]
+t = "Stay B9 or Else I’ll Drop C4 on You"
+v = "title"
+s = "“Stay B9 or Else I’ll Drop C4 on You”."
+
+[thou_segue]
+v = "thou_segue"
+s = "And this one here is a little thing that I like to call—[#2632#][i][shouting][/i]the Thousand-Question Question!"
+
+[thou_tute0]
+v = "random"
+s = ""
+
+[thou_tute1]
+v = "random"
+s = ""
+
+[thou_tute2]
+v = "random"
+s = ""
+
+[thou_intro]
+v = "thou_intro"
+s = "Alright, listen closely, ’cause here we go."
+
+[question]
+t = "Let’s say the Beatles [#27419#]sailed onto your opponent’s [i]Battleship[/i] board on their iconic yellow vessel. [#30821#]How many shots are necessary to sink them?"
+v = "question"
+s = "
+Let’s say the Beatles, the band who released such songs as[#2521#]
+[i]I Saw Her Standing There,[/i][#3864#]
+[i]Please Please Me,[/i][#4882#]
+[i]Love Me Do,[/i][#5791#]
+[i]Twist and Shout,[/i][#6695#]
+[i]Please Mr. Postman,[/i][#7939#]
+[i]A Hard Day’s Night,[/i][#8938#]
+[i]Can’t Buy Me Love,[/i][#9910#]
+[i]Eight Days a Week,[/i][#10777#]
+[i]Help!,[/i][#11316#]
+[i]Yesterday,[/i][#11969#]
+[i]Ticket to Ride,[/i][#12748#]
+[i]Drive My Car,[/i][#13636#]
+[i]Eleanor Rigby,[/i][#14504#]
+[i]Strawberry Fields Forever,[/i][#15633#]
+[i]Penny Lane,[/i][#16276#]
+[i]Sgt. Pepper’s Lonely Hearts Club Band,[/i][#18063#]
+[i]With a Little Help from My Friends,[/i][#19391#]
+[i]Lucy in the Sky with Diamonds,[/i][#20671#]
+[i]When I’m Sixty-Four,[/i][#21643#]
+[i]Ob-La-Di, Ob-La-Da,[/i][#22715#]
+[i]Happiness Is a Warm Gun,[/i][#23886#]
+[i]All You Need is Love,[/i][#24821#]
+[i]Golden Slumbers,[/i][#25652#]
+[i]Hey Jude,[/i][#26347#]
+and [i]Let It Be,[/i][#27419#]
+sailed onto your opponent’s [i]Battleship[/i] board on their iconic yellow vessel.[#30821#]
+How many shots are necessary to sink them?
+"
+
+[options]
+t = [
+  "2 shots",
+  "3 shots",
+  "4 shots",
+  "5 shots",
+]
+v = "options"
+s = "
+Two shots, three shots, four shots, or five shots?
+"
+i = 1
+
+[reveal_correct]
+v = "random"
+
+[option0]
+v = "option0"
+s = "The only [i]Battleship[/i] that’s two tiles long is the Destroyer.[#3077#]It’s destroying your score as we speak."
+
+[option1]
+v = "option1"
+s = "In [i]Battleship,[/i] you sink an opponent’s ship by attacking every space the ship is on.[#4308#]A Cruiser or a Submarine—whether or not it’s a [i]Yellow Submarine[/i]—[#7868#]takes up three spaces, so you’ll need three cannon fires."
+
+[option2]
+v = "option2"
+s = "The Battleship from [i]Battleship[/i] is four tiles long.[#2868#]And the Beatles aren’t all about this battle thingy."
+
+[option3]
+v = "option3"
+s = "The Carrier from is the longest ship at five tiles long.[#2812#]And your career is over."
+
+[outro]
+v = "outro"
+s = "
+And when you sink your opponent’s [i]Yellow Submarine,[/i] that kid will throw a tantrum and call you a Blue Meanie.
+"
+
+[skip]
+v = "random"
+s = ""

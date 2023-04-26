@@ -1,0 +1,101 @@
+[root]
+type = "R"
+
+[rush_intro]
+v = "random"
+
+[rush_tute0]
+v = "random"
+
+[rush_tute1]
+v = "random"
+
+[rush_tute2]
+v = "random"
+
+[rush_tute3]
+v = "random"
+
+[title]
+t = "A.K.A."
+v = "title"
+s = "“Also Known As...”"
+
+[explanation]
+v = "explanation"
+s = "Our names are masks we don in life. Let’s see how well you know them."
+
+[section0]
+q = "the type of sandwich they sell at Subway"
+o = [
+"hero",
+"gyro",
+"hoagie",
+"submarine sandwich",
+"grinder",
+"big man",
+]
+a = [1,0,1,1,1,0]
+
+[section1]
+q = "intersection where you drive in circles"
+o = [
+"piazza",
+"roundabout",
+"rotary",
+"right-around",
+"traffic circle",
+"whirly bird",
+]
+a = [0,1,1,0,1,0]
+
+[section2]
+q = "Australian bird that “laughs”"
+o = [
+"bujumbura",
+"kookaburra",
+"barramundi",
+"bastard bird",
+"laughing jackass",
+"cackling jerk",
+]
+a = [0,1,0,0,1,0]
+
+[section3]
+q = "tiny bug-like crustacean that rolls up into a ball"
+o = [
+"roly poly",
+"armor ball",
+"pill bug",
+"curl bug",
+"pellet crawler",
+"potato bug",
+]
+a = [1,0,1,0,0,1]
+
+[section4]
+q = "Prince, at various times in his career"
+o = [
+"Jamie Starr",
+"Tora Tora",
+"His Royal Badness",
+"Camille",
+"Alexander Nevermind",
+"[i][insert “Love Symbol” here][/i]",
+]
+a = [1,1,1,1,1,1]
+
+[section5]
+q = "the # symbol"
+o = [
+"ellipsis",
+"octothorpe",
+"obelus",
+"number sign",
+"pound",
+"tic-tac-toe",
+]
+a = [0,1,0,1,1,1]
+
+[skip]
+v = "_rush_skip"

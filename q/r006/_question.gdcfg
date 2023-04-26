@@ -1,0 +1,101 @@
+[root]
+type = "R"
+
+[rush_intro]
+v = "random"
+
+[rush_tute0]
+v = "random"
+
+[rush_tute1]
+v = "random"
+
+[rush_tute2]
+v = "random"
+
+[rush_tute3]
+v = "random"
+
+[title]
+t = "On the Dot"
+v = "title"
+s = "“On the Dot”."
+
+[explanation]
+v = "explanation"
+s = "Choose the right options that start with a “dot”."
+
+[section0]
+q = "image file extensions"
+o = [
+".webp",
+".opus",
+".png",
+".epub",
+".dat",
+".raw",
+]
+a = [1,0,1,0,0,1]
+
+[section1]
+q = "audio file extensions"
+o = [
+".mus",
+".oga",
+".wav",
+".pcm",
+".docx",
+".ppt",
+]
+a = [0,1,1,1,0,0]
+
+[section2]
+q = "top-level domains (at the end of a Web address)"
+o = [
+".com",
+".org",
+".int",
+".elf",
+".fun",
+".jam",
+]
+a = [1,1,1,0,1,0]
+
+[section3]
+q = "entries in [i]Project .hack[/i] series"
+o = [
+".hack//GRID",
+".hack//ZERO",
+".hack//Critical",
+".hack//Roots",
+".hack//CELL",
+".hack//Quantum",
+]
+a = [0,1,0,1,1,1]
+
+[section4]
+q = "[i]fictional[/i] people named Dot"
+o = [
+".Warner",
+".C",
+".Bailey",
+".Pixis",
+".Lemon",
+".Wilkinson",
+]
+a = [1,1,0,1,0,0]
+
+[section5]
+q = "valid Scrabble words starting with DOT"
+o = [
+".ING",
+".IFUL",
+".TEREL",
+".ARD",
+".IABLE",
+".H",
+]
+a = [1,0,1,1,0,1]
+
+[skip]
+v = "_rush_skip"

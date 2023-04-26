@@ -1,0 +1,101 @@
+[root]
+type = "R"
+
+[rush_intro]
+v = "random"
+
+[rush_tute0]
+v = "random"
+
+[rush_tute1]
+v = "random"
+
+[rush_tute2]
+v = "random"
+
+[rush_tute3]
+v = "random"
+
+[title]
+t = "Trust Our PR Department"
+v = "title"
+s = "“Trust Our PR Department”."
+
+[explanation]
+v = "explanation"
+s = "Only choose the real ad slogans, and don’t be fooled by imitators."
+
+[section0]
+q = "McDonald’s"
+o = [
+"Ha Ha Ha, McDonald’s",
+"It’s a Little Bit Fancy",
+"Still Pretty Good",
+"Beefy!",
+"Put a Smile On",
+"The Taste the World Knows",
+]
+a = [1,1,0,0,1,0]
+
+[section1]
+q = "Nintendo"
+o = [
+"Now You’re Playing With Power",
+"...Super Power!",
+"...Portable Power!",
+"...Foldable Power!",
+"Touching is Good",
+"Would U Like to Play?",
+]
+a = [1,1,1,0,1,0]
+
+[section2]
+q = "Apple, Inc."
+o = [
+"There’s an App for That",
+"Dumb? Not with an iPhone.",
+"It Just Works",
+"More Than All-In-One",
+"iThink, Therefore iMac",
+"iTunes: The Best Windows App Ever",
+]
+a = [1,0,1,0,1,1]
+
+[section3]
+q = "Netflix"
+o = [
+"Fall In Love",
+"One Story Away",
+"See What’s Next",
+"Netflix & Chill",
+"Stories Can’t Wait",
+"Watch. Period.",
+]
+a = [0,1,1,0,1,0]
+
+[section4]
+q = "Discord"
+o = [
+"Skype, but Better",
+"Your Place to Talk",
+"Get to Know Yourself",
+"Chat for Gamers",
+"Imagine a Place",
+"Have You Gotten Nitro Yet?",
+]
+a = [0,1,0,1,1,0]
+
+[section5]
+q = "Facebook"
+o = [
+"It’s Quick and Easy",
+"A New Way to Make Friends",
+"Unavoidable",
+"Never Forget a Birthday Again",
+"It’s Free and It Always Will Be",
+"Connect to Anyone in Six Degrees",
+]
+a = [1,0,0,0,1,0]
+
+[skip]
+v = "_rush_skip"

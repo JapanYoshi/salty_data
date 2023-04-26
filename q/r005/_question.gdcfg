@@ -1,0 +1,101 @@
+[root]
+type = "R"
+
+[rush_intro]
+v = "random"
+
+[rush_tute0]
+v = "random"
+
+[rush_tute1]
+v = "random"
+
+[rush_tute2]
+v = "random"
+
+[rush_tute3]
+v = "random"
+
+[title]
+t = "Sequelitis"
+v = "title"
+s = "“Sequelitis”."
+
+[explanation]
+v = "explanation"
+s = "How many sequels do these series have?"
+
+[section0]
+q = "only 1 release, no sequels"
+o = [
+"Disney's Aladdin (Animated)",
+"The Penguins of Madagascar (movie)",
+"Super Mario RPG",
+"Happy Feet",
+"Wii Play",
+"Wii Music",
+]
+a = [0,1,1,0,0,1]
+
+[section1]
+q = "2 releases in total"
+o = [
+"The Lion King (animated)",
+"Beauty and the Beast (animated)",
+"Portal",
+"Kid Icarus",
+"Wii Sports",
+"Wii Party",
+]
+a = [0,0,1,0,0,1]
+
+[section2]
+q = "3 releases in total"
+o = [
+"The Santa Clause",
+"Trivia Murder Party",
+"The Lord of the Rings (not counting The Hobbit)",
+"Toy Story",
+"Austin Powers",
+"Paul Blart: Mall Cop",
+]
+a = [1,0,1,0,1,0]
+
+[section3]
+q = "4 or 5 releases in total"
+o = [
+"Indiana Jones",
+"Pirates of the Caribbean",
+"Toy Story",
+"Madagascar",
+"The Hobbit",
+"The Matrix",
+]
+a = [1,0,1,0,0,1]
+
+[section4]
+q = "6 or more releases"
+o = [
+"Big Hero 6",
+"Harry Potter (novels)",
+"Rhythm Heaven",
+"American Ninja",
+"Rocky",
+"The Karate Kid",
+]
+a = [0,1,0,0,1,0]
+
+[section5]
+q = "8 or more releases"
+o = [
+"Alvin and the Chipmunks",
+"Drift",
+"Camp Blood",
+"Birdemic",
+"Sharknado",
+"The Mummy",
+]
+a = [0,1,1,0,1,0]
+
+[skip]
+v = "_rush_skip"

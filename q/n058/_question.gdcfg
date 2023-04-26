@@ -1,0 +1,86 @@
+[root]
+type = "N"
+
+[pretitle]
+v = "random"
+
+[title]
+t = "Spamaghetti"
+v = "title"
+s = "“Spamaghetti”."
+
+[intro]
+v = "intro"
+s = "[b]Candy:[/b] Suppose you’re making spaghetti for—
+[i](phone ringtone)[/i][#2273#]
+[b]Candy:[/b] Ugh, alright, whose phone is that?[#4685#]
+[b]Daisy:[/b] I got it![#5546#]
+[i](phone stops)[/i]
+[b]Daisy:[/b] [i][in English accent][/i] ’Ello, this is Biancaneve Schwarzkopf speakin’.[#8102#]
+[b]Candy:[/b] What the—
+[b]Daisy:[/b] No, sorry, I’m a woman in a hospital gown married to a floating businessman.[#12904#]
+You should ask two male Playboy bunnies and a single mother with two daughters instead. G’bye![#17698#]
+[b]Candy:[/b] [i][dumbfounded][/i] Whet the hell was that all about, Daisy?[#20071#]
+[b]Daisy:[/b] Oh, that’s how I answer every phone call.[#22592#]
+Just wanna make sure it isn’t some kind of scam call.[#25783#]
+[b]Candy:[/b] And was it?[#26661#]
+[b]Daisy:[/b] Eh, I dunno. I was too busy stringing random emojis together."
+
+[question]
+t = "Which of the following is [b]not[/b] a real emoji?"
+v = "question"
+s = "Which of those people I mentioned is [i]not[/i] a real emoji?"
+
+[options]
+t = [
+"woman in a hospital gown",
+"floating businessman",
+"two male Playboy bunnies",
+"a mother and two daughters",
+]
+v = "options"
+s = "
+Woman in a hospital gown, floating businessman, two male Playboy bunnies, or a mother and her two daughters?
+"
+i = 0
+
+[used_lifesaver]
+v = "random"
+
+[reveal]
+v = "random"
+
+[reveal_crickets]
+v = "random"
+
+[reveal_jinx]
+v = "random"
+
+[reveal_split]
+v = "random"
+
+[reveal_correct]
+v = "random"
+
+[option0]
+v = "option0"
+s = "[b]Candy:[/b] Just looking at the list of emoji on my phone, there’s one called “man in business suit levitating”,[#5059#]
+there’s one called “woman with bunny ears”, which you can modify into a male version,[#8781#]
+and there’s a compound one you can get by combining a woman emoji and two girl emojis.[#13239#]
+There’s an emoji of a doctor, but not a person in a hospital gown."
+
+[option1]
+v = "random"
+
+[option2]
+v = "random"
+
+[option3]
+v = "random"
+
+[outro]
+v = "outro"
+s = "[b]Candy:[/b] Fortunately, I never get scam calls myself, since I never give out my phone number.[#4236#]
+[b]Daisy:[/b] More like [i]un[/i]fortunately. Not like they’d target cell phones, anyway.[#8473#]
+And if they do, it’s just a bunch of random emojis that don’t mean anything![#12134#]
+[b]Candy:[/b] Daisy, don’t quit your day job. Or do; I’m not your boss."
