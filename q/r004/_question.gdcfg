@@ -1,0 +1,101 @@
+[root]
+type = "R"
+
+[rush_intro]
+v = "random"
+
+[rush_tute0]
+v = "random"
+
+[rush_tute1]
+v = "random"
+
+[rush_tute2]
+v = "random"
+
+[rush_tute3]
+v = "random"
+
+[title]
+t = "Packed"
+v = "title"
+s = "“Packed”."
+
+[explanation]
+v = "explanation"
+s = "Which of these options are in these “packs”?"
+
+[section0]
+q = "members of the Rat Pack"
+o = [
+"Frank Sinatra",
+"Emilio Estevez",
+"Jack Paar",
+"Dean Martin",
+"Sammy Davis Jr.",
+"Leslie Howard",
+]
+a = [1,0,0,1,1,0]
+
+[section1]
+q = "in Childish Gambino’s EP [i]Summer Pack[/i]"
+o = [
+"Summertime Sadness",
+"Summertime Magic",
+"In the Summertime",
+"Feels Like Summer",
+"Summer Madness",
+"Summer",
+]
+a = [0,1,0,1,0,0]
+
+[section2]
+q = "games in [i]The Best of Microsoft Entertainment Pack[/i]"
+o = [
+"Checkers",
+"Tetris",
+"TriPeaks",
+"Video Poker",
+"SkiFree",
+"Go Fish",
+]
+a = [0,1,1,0,1,0]
+
+[section3]
+q = "in a pack of Rider–Waite–Smith tarot cards"
+o = [
+"The Tower",
+"The World",
+"The High Priest",
+"Page of Swords",
+"Jack of Cups",
+"The Angel",
+]
+a = [1,1,0,1,0,0]
+
+[section4]
+q = "in a pack of gray wolves"
+o = [
+"lone wolf",
+"alpha",
+"sigma",
+"gatherer",
+"pup",
+"teen wolf",
+]
+a = [1,1,0,0,1,0]
+
+[section5]
+q = "in [i]The Jackbox Party Pack 4[/i]"
+o = [
+"Fibbage 3",
+"Tee K.O.",
+"Monster Seeking Monster",
+"Survive the Internet",
+"Split the Room",
+"Everybody Help Grandma",
+]
+a = [1,0,1,1,0,0]
+
+[skip]
+v = "_rush_skip"
