@@ -1,0 +1,143 @@
+[root]
+type = "L"
+
+[like_intro]
+v = "random"
+
+[like_tute0]
+v = "random"
+
+[like_tute1]
+v = "random"
+
+[like_tute2]
+v = "random"
+
+[like_tute3]
+v = "random"
+
+[like_title]
+v = "random"
+
+[title]
+t = "Me Time"
+v = "title"
+s = "“Me Time”."
+
+[like_options]
+v = "random"
+
+[options]
+v = "options"
+o = [
+    "a tub of ice cream",
+    "1 mo. Netflix Basic",
+    "Kyle",
+]
+s = "
+A tub of ice cream, a month of Netflix Basic, and [i]my worthless ex Kyle![/i]
+"
+
+[like_ready]
+v = "like_ready"
+s = "Because if I’m not over him yet, I might as well tell him to go f**k himself as extravagantly as I can!"
+
+[section0]
+v = "section0"
+t = "Candy spent $10 or less on it"
+s = "I spent ten dollars or less on it."
+o = [
+    "a tub of ice cream",
+    "1 mo. Netflix Basic",
+    "Kyle",
+    "Candy’s high heels"
+]
+
+[answer0]
+a = [1, 1, 0, 0]
+v = "answer0"
+s = "
+A Basic Netflix subscription costs $9.99 a month,[#3406#]
+unlike Kyle, on whom I wasted my hard-earned money!
+"
+
+[section1]
+v = "section1"
+t = "can be purchased at a 7-Eleven"
+s = "Can be purchased at a 7-Eleven."
+o = [
+    "a tub of ice cream",
+    "1 mo. Netflix Basic",
+    "Kyle",
+    "jewelry"
+]
+
+[answer1]
+a = [1, 1, 0, 0]
+v = "answer1"
+s = "
+7-Eleven sells Netflix gift cards, but they can’t sell you a personality, [i]Kyle![/i]
+"
+
+[section2]
+v = "section2"
+t = "is keto"
+s = "Is keto."
+o = [
+    "a tub of ice cream",
+    "1 mo. Netflix Basic",
+    "Kyle",
+    "longaniza"
+]
+
+[answer2]
+a = [0, 0, 1, 1]
+v = "answer2"
+s = "
+You never made or bought me good food anyway, Kyle,[#2220#]
+you unavailable kitchen rag! I don’t need you!
+"
+
+[section3]
+v = "section3"
+t = "mainly enjoyed online"
+s = "Mainly enjoyed online."
+o = [
+    "a tub of ice cream",
+    "1 mo. Netflix Basic",
+    "Kyle",
+    "rock, paper, scissors"
+]
+
+[answer3]
+a = [0, 1, 0, 0]
+v = "answer3"
+s = "
+Nobody is going to enjoy your company online or offline, Kyle, you bucket of compost!
+"
+
+[section4]
+v = "section4"
+t = "has let Candy down in the past 15 minutes"
+s = "Has let me down in the past fifteen minutes."
+o = [
+    "a tub of ice cream",
+    "1 mo. Netflix Basic",
+    "Kyle",
+    "a Laffy Taffy joke"
+]
+
+[answer4]
+a = [0, 0, 1, 1]
+v = "answer4"
+s = "
+I can’t believe I saw anything whatsoever in an adrenaline-poisoned,[#3767#]
+emotionally-impaired fire hazard like you!
+"
+
+[like_outro]
+v = "like_outro"
+s = "[i](sigh)[/i] Well, now that that’s over with, let’s convert your likes to scores."
+
+[skip]
+v = "random"
