@@ -1,0 +1,111 @@
+[root]
+type = "B"
+
+[pretitle]
+v = "random"
+
+[title]
+t = "Y’Know, the Guy with the Face"
+v = "title"
+s = "
+“Y’Know, the Guy with the Face”.
+"
+
+[preintro]
+v = "preintro"
+s = "
+We tend to put a lot of time into research, but not all of that time is productive.[#4035#]
+Here’s a question type we made up to recycle the brainstorming that we couldn’t turn into a real question.
+"
+
+[intro]
+v = "intro"
+s = "
+I’m gonna show you three directions that the question could have taken,[#2893#]
+and you have to tell me where they all came from.
+"
+
+[cards]
+t = [
+  "stock photo memes", "Distracted Boyfriend",
+  "famous people from Hungary", "Ernő Rubik",
+  "electrical engineering", "microwaves"
+]
+delay = [
+  0, 791, 2214,
+  3618, 4461, 6258,
+  7512, 8336, 9815
+]
+v = "cards"
+s = "
+Blank, stock photo memes, Distracted Boyfriend.[#3618#]
+Blank, famous people from Hungary, Ernő Rubik.[#7512#]
+Blank, electrical engineering, microwaves.
+"
+
+[question]
+t = "Which of these best completes this web?"
+v = "question"
+s = "
+Which of these best completes this web?
+"
+
+[options]
+t = [
+"Hide-the-Pain Harold",
+"Left Exit 12 Off Ramp",
+"Guess I’ll Die",
+"Why Can’t I Hold All These Limes?",
+]
+v = "options"
+s = "
+Hide-the-Pain Harold,[#1345#]
+Left Exit 12 Off Ramp,[#3329#]
+Guess I’ll Die,[#4359#]
+or Why Can’t I Hold All These Limes?
+"
+i = 0
+
+[used_lifesaver]
+v = "random"
+
+[reveal]
+v = "random"
+
+[reveal_crickets]
+v = "random"
+
+[reveal_jinx]
+v = "random"
+
+[reveal_split]
+v = "random"
+
+[reveal_correct]
+v = "random"
+
+[option0]
+v = "option0"
+s = "
+Hide the Pain Harold is a stock photography meme depicting an old man in front of a computer[#4743#]
+looking into the camera with a strained smile.[#7120#]
+His real identity is András Arató,[#9746#]
+a retired electrical engineer from Hungary, which is also the motherland of Ernő Rubik,[#14239#]
+the architecture professor who invented the Rubik’s Cube.
+"
+
+[option1]
+v = "random"
+
+[option2]
+v = "random"
+
+[option3]
+v = "random"
+
+[outro]
+v = "outro"
+s = "
+He says that his smile got so stinted because the photoshoot had been going for so long that his face had gotten tired.[#5307#]
+It’s a good thing you can’t see [i]my[/i] face right now.
+"

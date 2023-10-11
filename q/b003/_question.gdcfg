@@ -1,0 +1,127 @@
+[root]
+type = "B"
+
+[pretitle]
+v = "random"
+
+[title]
+t = "You Come Into My House Music"
+v = "title"
+s = "
+“You Come Into My House Music”—
+"
+
+[preintro]
+v = "preintro"
+s = "
+Music gets the creative juices flowing sometimes.[#2468#]
+Unfortunately, when we overdo it, we have to relegate it to one of these.
+"
+
+[intro]
+v = "intro"
+s = "
+We were brainstorming a question about an electronic dance music DJ,[#3684#]
+but we went off into like a million different directions.[#6654#]
+Here’s three of them so you can guess whom we were researching.
+"
+
+[cards]
+t = [
+  "sheet ghost costume", "Medjed",
+  "BAC Mono", "[i]Top Gear[/i]",
+  "Disney copyright lawsuits", "Mickey Mouse",
+]
+delay = [
+  0, 655, 1996,
+  3002, 3625, 4822,
+  5940, 6659, 8128
+]
+v = "cards"
+s = "
+Blank, sheet ghost costume, Medjed.[#3002#]
+Blank, BAC Mono, [i]Top Gear.[/i][#5940#]
+Blank, Disney copyright lawsuits, Mickey Mouse.
+"
+
+[question]
+t = "Which one of these producers is the missing link?"
+v = "question"
+s = "
+Which one of these producers is the missing link?
+"
+
+[options]
+t = [
+  "Skrillex",
+  "Martin Garrix",
+  "David Guetta",
+  "deadmau5"
+]
+v = "options"
+s = "
+Skrillex, Martin Garrix, David Guetta, or deadmau5?
+"
+i = 3
+
+[used_lifesaver]
+v = "random"
+
+[reveal]
+v = "random"
+
+[reveal_crickets]
+v = "random"
+
+[reveal_jinx]
+v = "random"
+
+[reveal_split]
+v = "random"
+
+[reveal_correct]
+v = "random"
+
+[option0]
+v = "option0"
+s = "
+This answer is as much of a mistake as Skrillex’s haircuts, from the side shave to the man bun.
+"
+
+[option1]
+v = "option1"
+s = "
+Yeah, nuh uh. This answer is as plain wrong as Martin Garrix’s music is plain.
+"
+
+[option2]
+v = "option2"
+s = "
+More like David Get a life.
+"
+
+[option3]
+v = "option3"
+s = "
+Joel Zimmerman, a.k.a. deadmau5, wore a table sheet ghost costume in the music video[#4630#]
+for arguably his most famous song [i]Ghosts N Stuff,[/i][#7780#]
+like the minor deity Medjed from Ancient Egyptian religion,[#11070#]
+who is depicted as having a white, dome-shaped body with two legs poking out of it, like a sheet ghost costume.[#16682#]
+deadmau5 is also a motorsport enthusiast, who has a BAC Mono,[#20385#]
+a custom-made single-seater supercar that has been reviewed in an episode of [i]Top Gear.[/i][#25004#]
+deadmau5 also performs with a massive mouse head helmet with two massive ears,[#29328#]
+which almost got him into legal trouble with Disney, who saw a Hidden Mickey in it,[#33032#]
+though fortunately for everyone, they seem to have settled. 
+"
+
+[outro]
+v = "outro"
+s = "
+Other possible threads could have been[#1678#]
+“deadmau5, [i]DJ Hero 2,[/i] Daft Punk”,[#4208#]
+“deadmau5, famous Canadians, Mike Myers”,[#6692#]
+“deadmau5, famous people named Joel, RoomieOfficial”,[#9943#]
+“deadmau5, Minecraft, Notch”,[#11885#]
+which forms a nice closed loop with the addition of[#14392#]
+“famous people exposed for having yikesy views about trans people on Twitter”. 
+"

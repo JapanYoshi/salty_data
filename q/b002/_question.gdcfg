@@ -1,0 +1,125 @@
+[root]
+type = "B"
+
+[pretitle]
+v = "random"
+
+[title]
+t = "Curiosity and Morbid Cat Idioms"
+v = "title"
+s = "
+“Curiosity and Morbid Cat Idioms”.
+"
+
+[preintro]
+v = "preintro"
+s = "
+They say that a cat has nine lives, but also that curiosity killed the cat.[#4236#]Well, we curious cats in the writing room have been exploring our curiosity a bit too much while writing too many death-themed questions,[#10683#]so that we just had to do another one of these.
+"
+
+[intro]
+v = "intro"
+s = "
+Yep, it’s a Big Brain Storming![#1609#]It’s what we do when one of our mind mapping exercises gets way out of hand,[#5394#]with too many branches and not enough comedic potential.[#8505#]I’m gonna give you three of those branches, and you have to tell me what the common origin is.
+"
+
+[cards]
+t = [
+  "Raiden from [i]Metal Gear Solid[/i]", "Hideo Kojima",
+  "[i]Black Butler[/i]", "tag team serial killers",
+  "Dan Bull", "nerdcore rappers"
+]
+delay = [
+  0, 761, 2495,
+  3687, 4521, 5699,
+  7499, 8241, 9220
+]
+v = "cards"
+s = "
+Blank, Raiden from [i]Metal Gear Solid[/i], Hideo Kojima.[#3687#]
+Blank, [i]Black Butler,[/i] tag team serial killers.[#7499#]
+Blank, Dan Bull, nerdcore rappers.
+"
+
+[question]
+t = "Which one of these names best completes this web?"
+v = "question"
+s = "
+Which one of these names best completes this web?
+"
+
+[options]
+t = [
+  "Sherlock Holmes",
+  "Mei Ling",
+  "Jack the Ripper",
+  "Mr. Anderson"
+]
+v = "options"
+s = "
+Sherlock Holmes, Mei Ling, Jack the Ripper, or Mr. Anderson?
+"
+i = 2
+
+[used_lifesaver]
+v = "random"
+
+[reveal]
+v = "random"
+
+[reveal_crickets]
+v = "random"
+
+[reveal_jinx]
+v = "random"
+
+[reveal_split]
+v = "random"
+
+[reveal_correct]
+v = "random"
+
+[option0]
+v = "option0"
+s = "
+Yes, Sherlock Holmes did appear in [i]Epic Rap Battles of History,[/i][#3030#]
+but he was portwrayed by Zach Sherwin, who also played Wayne Gretsky and Albert Einstein.[#8309#]
+Which nicely segues to my insult: [i][sarcastically][/i] Great one, genius.
+"
+
+[option1]
+v = "option1"
+s = "
+Well, there’s a Mei Ling in [i]Metal Gear Solid,[/i][#2605#]
+but the housemaid in [i]Black Butler[/i] is called Mey-Rin, not Mei Ling.
+"
+
+[option2]
+v = "option2"
+s = "
+The character Raiden from [i]Metal Gear Solid[/i] is also known as “Jack the Ripper”.[#3679#]
+The manga and anime Black Butler, set in Victorian England,[#6731#]
+had an arc where Jack the Ripper is hunted down and revealed as a tag team between Madam Red[#11392#]
+and her grim reaper-slash-butler Grell Sutcliffe.[#14444#]
+And Jack the Ripper, portrayed by Dan Bull,[#16838#]
+faced off against Hannibal Lecter, portrayed by EpicLloyd,[#19554#]
+in an episode of Epic Rap Battles of History.[#21595#]
+So the common thread here is Jack the Ripper.
+"
+
+[option3]
+v = "option3"
+s = "
+Mister Anderson. You seem to be high on some peculiar pills.
+"
+
+[outro]
+v = "outro"
+s = "
+Another possible thread would have been[#1556#]
+“Jack the Ripper, the London Rippers—[#3954#]
+the defunct baseball team of London, Ontario, Canada, not London, UK—[#8333#]
+sports team names that didn’t age well”.[#10805#]
+That would have segued nicely into the Washington Commanders, known as the Redskins until twenty-tw—[#15372#]
+Really? 2020?
+"

@@ -1,0 +1,138 @@
+[root]
+type = "B"
+
+[pretitle]
+v = "random"
+
+[title]
+t = "Big Brain Storming"
+v = "title"
+s = "
+“Big Brain Storming”.
+"
+
+[preintro]
+v = "preintro"
+s = "
+Sometimes, when we’re doing research for these questions, we come up with a lot of potential links and references that stem from one original source.[#7109#]
+As you can imagine, this makes brainstorming questions difficult,[#10248#]because we have a bajillion different ideas being bounced around at once,[#13981#]
+over 90% of which we have to reject because 1) they’re related to phobias or Cookie Run for some reason,[#19869#]
+and 2) we can only use one or two per question.[#23131#]
+But this gave us an idea for a new question type.
+"
+
+[intro]
+v = "intro"
+s = "
+I’m going to show you some of the brainstorming threads that led out from the same original source.[#4216#]
+Tell me what goes in the blank.
+"
+
+[cards]
+t = [
+  "faked world records", "[i]Donkey Kong[/i]",
+  "rhythm game", "Metallica",
+  "CEO", "Coca-Cola"
+]
+delay = [
+  0, 621, 1790,
+  2754, 3472, 4357,
+  5298, 6003, 7095
+]
+v = "cards"
+s = "
+Blank, fake world records, [i]Donkey Kong.[/i][#2754#]
+Blank, rhythm game, Metallica.[#5298#]
+Blank, CEO, Coca-Cola.
+"
+
+[question]
+t = "Which video game company is the missing link?"
+v = "question"
+s = "
+Which video game company is the missing link?
+"
+
+[options]
+t = [
+  "Coleco",
+  "Activision",
+  "Atari",
+  "Nintendo"
+]
+v = "options"
+s = "
+Coleco, Activision, Atari, or Nintendo?
+"
+i = 1
+
+[used_lifesaver]
+v = "random"
+
+[reveal]
+v = "random"
+
+[reveal_crickets]
+v = "random"
+
+[reveal_jinx]
+v = "random"
+
+[reveal_split]
+v = "random"
+
+[reveal_correct]
+v = "random"
+
+[option0]
+v = "random"
+
+[option1]
+v = "option1"
+s = "
+Todd Rogers claimed to have the world record for [i]Dragster[/i] for the Atari 2600,[#4480#]
+but it has since been proven to be literally impossible,[#7773#]
+much like Billy Mitchell’s disqualified world record for [i]Donkey Kong.[/i][#11774#]
+[i]Dragster[/i] was one of the first video games to be developed by Activision,[#15458#]
+which is also known for the [i]Guitar Hero[/i] series, including [i]Guitar Hero: Metallica.[/i][#19630#]
+Bobby Kotick, Activision’s CEO, also served on the board of the Coca-Cola company.
+"
+
+[option2]
+v = "option2"
+s = "
+This answer’s so bad, it’s better off buried in a desert in New Mexico.
+"
+
+[option3]
+v = "option3"
+s = "
+Why would Nintendo fake a world record? They’d never do their dear players wrong.[#4718#]
+Except have crappy Nintendo Switch netcode.[#7677#]
+And copy-strike their video game music.[#10303#]
+And not re-release their old games.[#12841#]
+And change the Nintendo DS charge port for DS Lite,[#15315#]
+and again for DSi and again for DSi XL.[#18397#]
+And come up with loads of ridiculous peripherals for the Wii,[#20824#]
+only to use them for like 2 games each.[#23185#]
+And censor blood in Mortal Kombat.[#25673#]
+And botch the SNES CD deal with Sony and accidentally create their own competition.[#30650#]
+And give up Rare to be bought up by Microsoft.[#33432#]
+And release the Virtual Boy.[#35432#]
+And let the live-action Super Mario Bros. movie happen.[#38799#]
+And not localize Mother 1 or Mother 3.[#41532#]
+And lazily rerelease existing games for Mario anniversaries.[#45191#]
+And induce artificial scarcity on their old games and anniversary celebrations.[#49510#]
+And not allowing refunds for any Switch game for any reason.[#53242#]
+And absolutely ruin leakers’ lives.
+"
+
+[outro]
+v = "outro"
+s = "
+Other possible links could have been “Activision, Tony Hawk’s Pro Skater, [i]Superman”,[/i][#4758#]
+“Activision, Blizzard, [i]Overwatch 2”,[/i][#7345#]
+“Activision, [i]Skylanders,[/i] Amiibo”,[#9614#]
+“Activision, King, [i]Candy Crush Saga”,[/i][#11882#]
+and “Activision, like a different thing every month, scandals”.
+"

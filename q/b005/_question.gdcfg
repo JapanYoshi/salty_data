@@ -1,0 +1,119 @@
+[root]
+type = "B"
+
+[pretitle]
+v = "random"
+
+[title]
+t = "Music-Making Miracle Man"
+v = "title"
+s = "
+“Music-Making Miracle Man”.
+"
+
+[preintro]
+v = "preintro"
+s = "
+There are a couple of recurring topics that specific writers want to make a question about,[#3997#]
+but the rest of them veto for being too obscure.[#6508#]
+For me, it’s Tamagotchi lore, but another such topic is the answer to this...
+"
+
+[intro]
+v = "intro"
+s = "
+One of our interns has submitted a big mind map about a specific musician.[#4503#]
+Guess which one it is from these three association chains.
+"
+
+[cards]
+t = [
+"[i]Buck Rogers[/i]", "sci-fi fanworks",
+"Liam Gallagher", "Oasis",
+"Band Aid 20", "Sudan",
+]
+delay = [
+  0, 794, 1824,
+  3434, 4314, 5549,
+  6710, 7646, 8769
+]
+v = "cards"
+s = "
+Blank, [i]Buck Rogers[/i], sci-fi fanworks.[#3434#]
+Blank, Liam Gallagher, Oasis.[#6710#]
+Blank, Band Aid 20, Sudan.
+"
+
+[question]
+t = "Which musician were we doing research on?"
+v = "question"
+s = "
+Which musician were we doing research on?
+"
+
+[options]
+t = [
+"Grant Nicholas",
+"Noel Gallagher",
+"George Michael",
+"Mitch Allan",
+]
+v = "options"
+s = "
+Grant Nicholas, Noel Gallagher, George Michael, or Mitch Allan?
+"
+i = 0
+
+[used_lifesaver]
+v = "random"
+
+[reveal]
+v = "random"
+
+[reveal_crickets]
+v = "random"
+
+[reveal_jinx]
+v = "random"
+
+[reveal_split]
+v = "random"
+
+[reveal_correct]
+v = "random"
+
+[option0]
+v = "option0"
+s = "Grant Nicholas’ band Feeder had a hit song called [i]Buck Rogers[/i] named after the comic strip character.[#5263#]
+He also wrote a song for Liam Gallagher,[#7547#]
+the guy who sang [i]Wonderwall[/i] in the band Oasis, and the brother of the guy who wrote that song.[#11946#]
+He was also in Band Aid 20, a 20-year reimagining of the original 1984 group,[#16633#]
+covering [i]Do They Know It’s Christmsa?[/i] for famine relief in Sudan."
+
+[option1]
+v = "option1"
+s = "I hope you weren’t overly proud of this guess, since this will put your ego in check."
+
+[option2]
+v = "option2"
+s = "No, George Michael, the lead singer of Wham!,[#2537#]
+was in the 1984 original [i]Band Aid,[/i] not the 2004 revival [i]Band Aid 20.[/i]"
+
+[option3]
+v = "option3"
+s = "No, but the song [i]Buck Rogers[/i] was originally written for SR-71, of which Mitch Allan was the frontman.[#5981#]
+...Quoth the note card."
+
+[outro]
+v = "outro"
+s = "
+Other connections could have been “Grant Nicholas, [i]Nevermind,[/i] Kurt Cobain”,[#4219#]
+“Grant Nicholas, Gran Turismo, racing games”,[#7345#]
+“Grant Nicholas, [i]Feeling a Moment,[/i] FIFA”,[#10221#]
+“Grant Nicholas, Mark B and Blade, [i]The Unknown”,[/i][#13460#]
+“Grant Nicholas, Japan, earthquake and tsunami relief”,[#16511#]
+“Grant Nicholas, John Lilygreen, Eurovision”—[#19319#]
+Mind you, all this was compiled by one intern.[#22521#]
+How the hell did one person manage to find so much interesting information[#26227#]
+on someone almost nobody outside the UK has heard of?
+"

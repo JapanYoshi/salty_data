@@ -1,0 +1,108 @@
+[root]
+type = "B"
+
+[pretitle]
+v = "random"
+
+[title]
+t = "Low IQ Pressure System"
+v = "title"
+s = "
+“Low IQ Pressure System”.
+"
+
+[preintro]
+v = "preintro"
+s = "
+Knowledge is its own reward.[#2237#]
+The reward isn’t usually a good trivia question, which is why we recycle the scraps into...
+"
+
+[intro]
+v = "intro"
+s = "
+I’m gonna show you three association chains, and you’re gonna tell me what the origin is.
+"
+
+[cards]
+t = [
+"brother bands", "Oasis",
+"SNL parodies", "Donald Trump",
+"Isle of Man", "Mark Higgins",
+]
+delay = [
+  0, 780, 1756,
+  2921, 3724, 4920,
+  6274, 7045, 8006
+]
+v = "cards"
+s = "
+Blank, brother bands, Oasis.[#2921#]
+Blank, SNL parodies, Donald Trump.[#6274#]
+Blank, Isle of Man, Mark Higgins.
+"
+
+[question]
+t = "What band were we researching?"
+v = "question"
+s = "
+What band were we researching?
+"
+
+[options]
+t = [
+"Radiohead",
+"The Bee Gees",
+"Chumbawumba",
+"INXS",
+]
+v = "options"
+s = "
+Radiohead, The Bee Gees, Chumbawumba, or INXS?
+"
+i = 1
+
+[used_lifesaver]
+v = "random"
+
+[reveal]
+v = "random"
+
+[reveal_crickets]
+v = "random"
+
+[reveal_jinx]
+v = "random"
+
+[reveal_split]
+v = "random"
+
+[reveal_correct]
+v = "random"
+
+[option0]
+v = "option0"
+s = "You do it to yourself, and that’s what really hurts."
+
+[option1]
+v = "option1"
+s = "The Bee Gees are made up of Barry, Maurice, and Robin Gibb,[#3639#]
+three brothers from the Isle of Man.[#5418#]
+They were a frequent target of Saturday Night Live parodies[#8031#]
+where Jimmy Fallon and Justin Timberlake did impressions of Barry and Robin."
+
+[option2]
+v = "option2"
+s = "You got knocked down. Don’t bother getting back up again, because you’re only gonna embarrass yourself again."
+
+[option3]
+v = "option3"
+s = "The only thing in excess here is your stupidity."
+
+[outro]
+v = "outro"
+s = "
+Other connections could have been “Bee Gees — Saturday Night Fever — John Travolta”,[#4155#]
+“Bee Gees — Rock ’n’ Roll Hall of Fame — Cleveland, Ohio”,[#7586#]
+and “Bee Gees — falsetto singers — Tiny Tim”.
+"
