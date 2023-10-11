@@ -1,0 +1,92 @@
+[root]
+type = "N"
+
+[pretitle]
+v = "random"
+
+[title]
+t = "Hell is Other People’s Messages"
+v = "title"
+s = "
+“Hell is Other People’s Messages”.
+"
+
+[intro]
+v = "intro"
+s = "Oh, I got another message from that guy. Let’s see...[#3840#]
+It says “I’ll send your soul into Hell from whence you came.”[#7809#]
+Hah. Anyway,"
+
+[question]
+t = "Suppose Candy’s worst sin was being a heretic, while this guy’s worst sin was being violent against other people. [#6255#]According to Dante’s [i]Divine Comedy,[/i] how many circles of Hell deeper will this guy end up than Candy?"
+v = "question"
+s = "
+Let’s say that my worst sin was being a heretic,[#2661#]
+while this guy’s worst sin was being violent against other people.[#6255#]
+According to Dante’s [i]Divine Comedy,[/i][#8464#]
+how many circles of Hell deeper will this guy end 
+up than I?
+"
+
+[options]
+t = [
+"1 circle deeper",
+"2 circles deeper",
+"4 circles deeper",
+"7 circles deeper",
+]
+v = "options"
+s = "
+1 circle deeper, 2 circles deeper, 4 circles deeper, or 7 circles deeper?
+"
+i = 0
+
+[used_lifesaver]
+v = "random"
+
+[reveal]
+v = "random"
+
+[reveal_crickets]
+v = "random"
+
+[reveal_jinx]
+v = "random"
+
+[reveal_split]
+v = "random"
+
+[reveal_correct]
+v = "random"
+
+[option0]
+v = "option0"
+s = "
+The sixth circle of Hell is for heretics, while the seventh circle of Hell is for the violent.[#4757#]
+And most preschoolers can tell you that seven comes right after six.
+"
+
+[option1]
+v = "option1"
+s = "
+Hmm, I wonder which circle of Hell you’ll end up in for being so stupid.
+"
+
+[option2]
+v = "random"
+
+[option3]
+v = "option3"
+s = "
+[b]Candy:[/b] Seven circles?[#1423#]
+I think you’d have to dig deeper than the ninth and deepest circle of Hell for that![#5940#]
+Unless he’s somehow bad enough to go beneath Hell.[#8877#]
+[b]Daisy:[/b] That’s where they keep the people who make tea in the microwave!
+"
+
+[outro]
+v = "outro"
+s = "
+Remember, kids: being a violent murderer is only one layer of Hell worse than not believing in Jesus![#6180#]
+...And both of them are worse than my Uber Eats delivery guy taking his sweet time getting my lunch order to me!
+"

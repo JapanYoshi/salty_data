@@ -1,0 +1,94 @@
+[root]
+type = "N"
+
+[pretitle]
+v = "random"
+
+[title]
+t = "This Kind of Drama is a Bright on Society"
+v = "title"
+s = "“This Kind of Drama is a Bright on Society”."
+
+[errata]
+t = "Dear Salty Trivia staff:
+I loved your question on if Dr. Bright literally emitted light!
+Unfortunately, The List has been deleted from the SCP Wiki after they banned Admin Bright for misconduct.
+I don't know all the details, but this is why we can't have nice things.
+
+May God help us all,
+N.W."
+start = 8926
+end = 25200
+
+[intro]
+v = "intro"
+s = "We here at Salty Trivia are committed to staying factually accurate, which is why we have a complaints inbox.[#5539#]
+But this time, the tone’s a bit different. See if you can spot it.[#8926#]
+“Dear Salty Trivia staff: I loved your question on if Dr. Bright literally emitted light![#14007#]
+Unfortunately, The List has been deleted from the SCP Wiki after they banned Admin Bright for misconduct.[#19563#]
+I don’t know all the details, but this is why we can’t have nice things.[#22761#]
+May God help us all, — N.W.[#25200#]
+Goodness sake, man. I looked at the SCP Wiki, and sure enough, it’s gone.[#29408#]
+Worst of all, I can’t even find what Admin Bright even allegedly did![#33064#]
+Accountability is indeed important, but what about transparency on the part of the SCP Wiki, huh?
+"
+
+[question]
+t = "In order to be more transparent, suppose all the SCP Wiki admins moved in together to a building with a glass façade. [#5817#]Which of the following could they [b]not[/b] choose to cohabit?"
+v = "question"
+s = "In order to be more transparent,[#1285#]
+suppose all the SCP Wiki admins moved in together to a building with a glass façade.[#5817#]
+Which of the following could they [i]not[/i] choose to cohabit?"
+
+[options]
+t = [
+"Cloud Gate",
+"the Louvre Pyramid",
+"the Shard",
+"the Copenhagen Crystal",
+]
+v = "options"
+s = "
+Cloud Gate, the Louvre Pyramid, the Shard, or the Copenhagen Crystal?"
+i = 0
+
+[used_lifesaver]
+v = "random"
+
+[reveal]
+v = "random"
+
+[reveal_crickets]
+v = "random"
+
+[reveal_jinx]
+v = "random"
+
+[reveal_split]
+v = "random"
+
+[reveal_correct]
+v = "random"
+
+[option0]
+v = "option0"
+s = "Cloud Gate isn’t even a building. It’s the formal name of the big metallic blob nicknamed the Chicago Bean."
+
+[option1]
+v = "option1"
+s = "Speaking of museums, you’ve made a spectacle of yourself."
+
+[option2]
+v = "option2"
+s = "You’ve shattered your chances at success."
+
+[option3]
+v = "option3"
+s = "It’s clear as crystal that you get nothing. In fact, you lose money. Good day, sir."
+
+[outro]
+v = "outro"
+s = "
+[b]Daisy:[/b] Wait, if that’s the size of the bean, how big is the toast?![#5078#]
+[b]Candy:[/b] Daisy, why did you bring beans on toast for lunch today for the 57th day in a row?!
+"

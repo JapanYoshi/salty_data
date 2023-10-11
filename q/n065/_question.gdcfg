@@ -1,0 +1,89 @@
+[root]
+type = "N"
+
+[pretitle]
+v = "pretitle"
+s = "The question’s title is, as you know:"
+
+[title]
+t = "Thanks, Wrong Purple Lizard!"
+v = "title"
+s = "“Thanks, Wrong Purple Lizard!”"
+
+[intro]
+v = "intro"
+s = "
+[b]Miles:[/b] Alright, let’s skip the opening joke, since Candy already butchered it.[#2922#]
+[b]Candy:[/b] [i][indignantly][/i] Hey!
+"
+
+[question]
+t = "Imagine there was a mix-up between the [i]Spyro[/i] and [i]Barney[/i] worlds, and a bunch of children were frozen in ice. [#4983#]If Barney went on an adventure exactly the same as Spyro’s, how many [b]unique[/b] children would Barney need to save?"
+v = "question"
+s = "
+[b]Miles:[/b] Imagine there was a mix-up between the [i]Spyro[/i] and [i]Barney[/i] worlds,[#2824#]
+and a bunch of children were frozen in ice.[#4983#]
+If Barney went on an adventure exactly the same as Spyro’s,[#7856#]
+how many [i]unique[/i] children would Barney need to save?
+"
+
+[options]
+t = [
+"54 kids",
+"64 kids",
+"74 kids",
+"84 kids",
+]
+v = "options"
+s = "
+54 kids, 64 kids, 74 kids, or 84 kids?"
+i = 2
+
+[used_lifesaver]
+v = "_used_lifesaver_miles"
+
+[reveal]
+v = "_reveal_miles"
+
+[reveal_crickets]
+v = "_reveal_crickets_miles"
+
+[reveal_jinx]
+v = "_reveal_jinx_miles"
+
+[reveal_split]
+v = "_reveal_split_miles"
+
+[reveal_correct]
+v = "_reveal_correct_miles"
+
+[option0]
+v = "option0"
+s = "Some “friend to everyone” you are."
+
+[option1]
+v = "option1"
+s = "I don’t think that many kids actually watch [i]Barney[/i] anymore."
+
+[option2]
+v = "option2"
+s = "There are 80 dragon rescue missions in [i]Spyro the Dragon,[/i][#2987#]
+6 of which are repeats.[#4464#]
+So Barney would probably have to save 74 children."
+
+[option3]
+v = "option3"
+s = "
+Did you discover a glitch to save more kids than intended?
+"
+
+[outro]
+v = "outro"
+s = "
+[b]Miles:[/b] And that’s exactly what every kid needs when they’re frozen solid.[#3003#]
+A big purple dinosaur randomly entering their school.[#5665#]
+If they weren’t already frozen in terror, they’d cry loud enough to cause a noise complaint.[#9707#]
+[i](beat)[/i][#11232#]
+[b]Miles:[/b] Okay, question’s over, Candy. Come back.[#13391#]
+[b]Candy:[/b] Good. And by the way, don’t give me this kind of question ever again.
+"

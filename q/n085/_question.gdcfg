@@ -1,0 +1,91 @@
+[root]
+type = "N"
+
+[pretitle]
+v = "random"
+
+[title]
+t = "My Primordial Soup Has Too Much Thyme"
+v = "title"
+s = "
+“My Primordial Soup Has Too Much Thyme”.
+"
+
+[intro]
+v = ""
+
+[question]
+t = "Considering Carl Sagan’s famous quote, which of these is [b]most likely[/b] in the recipe for “apple pie à la Sagan”?"
+v = "question"
+s = "
+Considering Carl Sagan’s famous quote, which of these is [i]most likely[/i] in the recipe for “apple pie à la Sagan”?
+"
+
+[options]
+t = [
+"Step 1: First follow recipe for “the Universe”.",
+"Step 1: Define the word “apple”.",
+"Step 1: Separate hot molecules from cold.",
+"Step 1: Selectively breed deciduous trees for millennia.",
+]
+v = "options"
+s = "
+“Step 1: First follow recipe for ‘the Universe’.”,[#3267#]
+“Step 1: Define the word ‘apple’.”,[#5918#]
+“Step 1: Separate hot molecules from cold.”,[#8883#]
+or “Step 1: Selectively breed deciduous trees for millennia.”?
+"
+i = 0
+
+[used_lifesaver]
+v = "random"
+
+[reveal]
+v = "random"
+
+[reveal_crickets]
+v = "random"
+
+[reveal_jinx]
+v = "random"
+
+[reveal_split]
+v = "random"
+
+[reveal_correct]
+v = "random"
+
+[option0]
+v = "option0"
+s = "
+Carl Sagan, a famous physicist who created the show [i]Cosmos,[/i] famously said,[#4588#]
+“To make an apple pie from scratch, one must first invent the universe.”[#8508#]
+Because that apple wasn’t made from scratch. Nor was the soil it grew on.[#12239#]
+Nor was the planet that caused apples to evolve, and so on.
+"
+
+[option1]
+v = "option1"
+s = "
+Hmm, how do you define... “no”?
+"
+
+[option2]
+v = "option2"
+s = "
+Maxwell’s Demon is a thought experiment where a microscopic “demon”[#4048#]
+could separate hot molecules from cold ones,[#6405#]
+creating a temperature difference with apparently no energy input.[#10323#]
+And this relates to Carl Sagan in zero ways.
+"
+
+[option3]
+v = "option3"
+s = "Not in a millennium will you selectively breed the correct answer."
+
+[outro]
+v = "outro"
+s = "
+It’s such a good recipe that he was tempted to put it on the Voyager gold record,[#3685#]
+but it was beaten out by a rendition of All Star by Smash Mouth.
+"

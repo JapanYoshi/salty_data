@@ -1,0 +1,84 @@
+[root]
+type = "N"
+
+[pretitle]
+v = "random"
+
+[title]
+t = "Someone’s Halls are About to Get Decked"
+v = "title"
+s = "“Someone’s Halls are About to Get Decked”."
+
+[intro]
+v = "intro"
+s = "
+[b]Candy:[/b] You know the Christmas song [i]The Twelve Days of Christmas[/i], right?[#2588#]
+[b]Daisy:[/b] [i][singing][/i] FIIIIVE GOOOOOLD RIIIIIIINGS!
+[b]Candy:[/b] I wasn’t even singing it!
+"
+
+[question]
+t = "By the end of the song [i]The Twelve Days of Christmas,[/i] how many birds [b]in total[/b] would “my true love” would have “sent to me”? (Yes, including a new partridge every day.)"
+v = "question"
+s = "
+By the end of the song [i]The Twelve Days of Christmas,[/i] how many birds [i]in total[/i] would “my true love” would have “sent to me”?[#5330#]Yes, including a new partridge every day.
+"
+
+[options]
+t = [
+"46 lousy birds",
+"92 annoying birds",
+"184 unwieldy birds",
+"368 freaking birds",
+]
+v = "options"
+s = "
+46 lousy birds, 92 annoying birds,[#3111#]
+184 unwieldy birds, or 368 freaking birds?"
+i = 2
+
+[used_lifesaver]
+v = "random"
+
+[reveal]
+v = "random"
+
+[reveal_crickets]
+v = "random"
+
+[reveal_jinx]
+v = "random"
+
+[reveal_split]
+v = "random"
+
+[reveal_correct]
+v = "random"
+
+[option0]
+v = "option0"
+s = "46? You can’t even organize a decent Christmas choir with that few."
+
+[option1]
+v = "random"
+
+[option2]
+v = "option2"
+s = "
+[b]Candy:[/b] Seven swans a-swimming, six geese a-laying—[#2079#]
+[b]Daisy:[/b] [i][singing][/i] FIIIIIVE GOOOOOOLD RIIIIIIIIINGS![#5718#]
+Four calling birds, three French hens, two turtle doves, and a partridge in a pear tree![#11437#][#11773#]
+[b]Candy:[/b] [i](ahem)[/i] So you’ll be given 42 swans, 42 geese, skip over golden rings,[#16486#]
+36 calling birds, 30 French hens, 22 turtle doves, and 12 partridges,[#21024#]
+which totals 184 birds.
+"
+
+[option3]
+v = "option3"
+s = "[i][in NYC accent][/i] Uhh, is your true love from the frickin’ Bronx Zoo’s World of Birds?"
+
+[outro]
+v = "outro"
+s = "
+What the hell am I supposed to do with all these birds? I’m not made of birdseed!
+"

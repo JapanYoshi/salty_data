@@ -1,0 +1,88 @@
+[root]
+type = "N"
+
+[pretitle]
+v = "random"
+
+[title]
+t = "Too Brit to Quit"
+v = "title"
+s = "“Too Brit to Quit”."
+
+[intro]
+v = "intro"
+s = "I was listening to the Beatles and Queen for inspiration recently.[#3833#]
+I like it a lot more than Kyle’s repetitive trap playlist that passes as music these days. Anyway,"
+
+[question]
+t = "If you were introducing the members of the Beatles to the members of Queen, which of the following could you say?"
+v = "question"
+s = "
+If you were introducing the members of the Beatles to the members of Queen, which of the following could you say?
+"
+
+[options]
+t = [
+"John, meet John.",
+"Ringo, meet Ringo.",
+"George, meet George.",
+"Paul, meet Paul.",
+]
+v = "options"
+s = "
+“John, meet John.”, “Ringo, meet Ringo.”,[#2359#]
+“George, meet George.”, or “Paul, meet Paul.”?
+"
+i = 0
+
+[used_lifesaver]
+v = "random"
+
+[reveal]
+v = "random"
+
+[reveal_crickets]
+v = "random"
+
+[reveal_jinx]
+v = "random"
+
+[reveal_split]
+v = "random"
+
+[reveal_correct]
+v = "random"
+
+[option0]
+v = "option0"
+s = "
+The Beatles had John Lennon, while Queen had John Deacon, who was the bassist.
+"
+
+[option1]
+v = "option1"
+s = "
+Ringo Starr’s real name is Sir Richard Starkey.[#4000#]
+And Queen still has no Richards.
+"
+
+[option2]
+v = "option2"
+s = "
+I’m Curious George about why you chose that one.
+"
+
+[option3]
+v = "option3"
+s = "
+This answer is ap-Paul-ing.
+"
+
+[outro]
+v = "outro"
+s = "
+How British would that match-up be?[#2289#]
+I would be listening to that for one minute and find myself with a crumpet on one hand,[#6167#]
+cup of black tea in the other, pinky outstretched,[#9053#]
+half-heartedly hand-waving colonialist history in the name of the Crown.
+"

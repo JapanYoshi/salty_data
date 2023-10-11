@@ -1,0 +1,83 @@
+[root]
+type = "N"
+
+[pretitle]
+v = "random"
+
+[title]
+t = "You Can’t Rock Well Enough in Here"
+v = "title"
+s = "
+“You Can’t Rock Well Enough in Here”.
+"
+
+[intro]
+v = "intro"
+s = "For those who don’t know, [i]30 Rock[/i] is a sit-com about TV comedy writers.[#3678#]
+They tend to parody stuff, kind of like us."
+
+[question]
+t = "Suppose the characters from [i]30 Rock[/i] wrote a sketch based on Norman Rockwell’s famous painting that takes place in a government office. [#6922#]Which of these lines would they [b]most likely[/b] make someone say?"
+v = "question"
+s = "
+Suppose the characters from [i]30 Rock[/i] wrote a sketch[#2527#]
+based on Norman Rockwell’s famous painting that takes place in a government office.[#6922#]
+Which of these lines would they [i]most likely[/i] make someone say?
+"
+
+[options]
+t = [
+"“We have the right to marry, fight, and divorce like any straight couple!”",
+"“No, not even Al Capone can get away with tax evasion.”",
+"“I’m glad you went through the legal process unlike those on the border.”",
+"“I already got your name and address from police face recognition data, sir.”",
+]
+v = "options"
+s = "
+“We have the right to marry, fight, and divorce like any straight couple!”,[#3732#]
+“No, not even Al Capone can get away with tax evasion.”,[#6670#]
+“I’m glad you went through the legal process unlike those on the border.”,[#10058#]
+or “I already got your name and address from police face recognition data, sir.”?
+"
+i = 0
+
+[used_lifesaver]
+v = "random"
+
+[reveal]
+v = "random"
+
+[reveal_crickets]
+v = "random"
+
+[reveal_jinx]
+v = "random"
+
+[reveal_split]
+v = "random"
+
+[reveal_correct]
+v = "random"
+
+[option0]
+v = "option0"
+s = "
+One of Norman Rockwell’s most famous paintings is [i]Wedding License,[/i][#3822#]
+depicting a happy couple of newlyweds filing paperwork in front of a bored clerk.
+"
+
+[option1]
+v = "random"
+
+[option2]
+v = "random"
+
+[option3]
+v = "option3"
+s = "Yes, officer, that’s the guy who’s wrong!"
+
+[outro]
+v = "outro"
+s = "
+Marriage is overrated. It’s just sharing rent with extra societal expectations.
+"

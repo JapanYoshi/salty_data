@@ -1,0 +1,92 @@
+[root]
+type = "N"
+
+[pretitle]
+v = "random"
+
+[title]
+t = "On Rented Time"
+v = "title"
+s = "“On Rentend Time”."
+
+[intro]
+v = "intro"
+s = "I’ve been watching musicals as inspiration for some more operatic pieces for my band.[#4726#]
+Kyle doesn’t seem to like distorted guitar, though,[#6899#]
+so I have to practice without plugging my guitar to an amp.[#9977#]
+Anyway, speaking of musicals,"
+
+[question]
+t = "In the lyrics of the song [i]Seasons of Love[/i] from [i]Rent[/i],[#7102#] love is the recommended way to measure a year,[#9228#] but which is [b]not[/b] one of the other ways to measure a year?"
+v = "question"
+s = "
+In the lyrics of the song [i]Seasons of Love[/i] from [i]Rent[/i]—[#3206#]
+You know, the one that goes “525 thousand 600 minutes”—[#7102#]
+love is the recommended way to measure a year,[#9228#]
+but which is [i]not[/i] one of the other ways to measure a year?
+"
+
+[options]
+t = [
+"in strife",
+"in inches",
+"in cups of coffee",
+"in truths",
+]
+v = "options"
+s = "
+In strife, in inches, in cups of coffee, or in truths?
+"
+i = 3
+
+[used_lifesaver]
+v = "random"
+
+[reveal]
+v = "random"
+
+[reveal_crickets]
+v = "random"
+
+[reveal_jinx]
+v = "random"
+
+[reveal_split]
+v = "random"
+
+[reveal_correct]
+v = "random"
+
+[option0]
+v = "option0"
+s = "
+Your year just got longer.
+"
+
+[option1]
+v = "option1"
+s = "
+[b]Candy:[/b] No, that’s how you measure a friend with benefits, y’know what I’m sayin’?[#2722#]
+[b]Miles:[/b] Candy, please stop pushing the censors.[#4582#]
+[b]Daisy:[/b] Candy, please keep pushing the censors.
+"
+
+[option2]
+v = "option2"
+s = "
+[i][in NYC accent][/i] Ugh, I need more coffee to deal with all these schmucks in here.
+"
+
+[option3]
+v = "option3"
+s = "
+The song suggests you can measure a year in “strife”, “cups of coffee”, and “inches”,[#5160#]
+but “truths that she learned” is how to measure a life.
+"
+
+[outro]
+v = "outro"
+s = "
+Well, there’s another good excuse to play a trivia game![#2482#]
+You’re adding more value to your sad, boring life by learning more truths.
+"

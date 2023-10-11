@@ -1,0 +1,102 @@
+[root]
+type = "N"
+
+[pretitle]
+v = "random"
+
+[title]
+t = "The Happiest Sound of Them All"
+v = "title"
+s = "“The Happiest—”
+[i][interrupted by phone ring][/i][#2171#]
+I thought I had my phone on mute. One sec."
+
+[intro]
+v = "intro"
+s = "
+[b]Candy:[/b] Hey, honey! I’m a bit busy at the studio now, so—[#3513#]
+Wait, what?[#4495#][#5908#]
+Who’s Melinda?[#7262#][#8205#]
+So the time we spent together meant nothing? I was just a quick f**k for you?[#11914#]
+[b]Miles:[/b] Oh boy...[#12739#]
+[b]Candy:[/b] You know what? Fine then, I’m dumping you right back![#15173#]
+I knew you were suspicious since the first time we met![#17665#]
+Go f**k yourself and tell Melinda to make the most of that flaccid-ass c**k of yours that you think with![#23259#]
+And I’m changing all my passwords so your broke ass can pay for your own Netflix![#27048#]
+[i](angrily hangs up)[/i][#28009#]
+Slut chaser. Anyway,
+"
+
+[question]
+t = "What’s Candy’s ringtone? (I hope you were listening!)"
+v = "question"
+s = "
+What’s my ringtone?
+"
+
+[options]
+t = [
+"Blue Danube",
+"Blue Rondo à la Turk",
+"Rhapsody in Blue",
+"Blue (Da Ba Dee)",
+]
+v = "options"
+s = "
+[i]Blue Danube,[/i][#905#]
+[i]Blue Rondo à la Turk,[/i][#2399#]
+[i]Rhapsody in Blue,[/i][#3444#]
+or [i]Blue (Da Ba Dee)?[/i]
+"
+i = 2
+
+[used_lifesaver]
+v = "random"
+
+[reveal]
+v = "random"
+
+[reveal_crickets]
+v = "random"
+
+[reveal_jinx]
+v = "random"
+
+[reveal_split]
+v = "random"
+
+[reveal_correct]
+v = "random"
+
+[option0]
+v = "option0"
+s = "No, [i]you’re[/i] da noob."
+
+[option1]
+v = "option1"
+s = "
+[b]Candy:[/b] No! Did you hear a song in (2+2+2+3)/8 time? No you didn’t![#5153#]
+[b]Daisy:[/b] Candy, what the heck is that?![#6928#]
+[b]Candy:[/b] If you think [i]that’s[/i] cursed, try exploring math rock.
+"
+
+[option2]
+v = "option2"
+s = "
+What you just heard was a segment of [i]Rhapsody in Blue[/i] by George Gershwin,[#4000#]
+courtesy of the United States Marine Band.
+"
+
+[option3]
+v = "option3"
+s = "
+[i]Blue (Da Ba Dee)[/i]? We don’t have the license for that.[#2500#][#3000#]
+...So I had to change it from that.
+"
+
+[outro]
+v = "outro"
+s = "
+You would expect me to feel blue after a breakup, but you know what?[#3353#]
+I’m quite the opposite, like a burning red-orange right now.
+"

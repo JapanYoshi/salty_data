@@ -1,0 +1,86 @@
+[root]
+type = "N"
+
+[pretitle]
+v = "random"
+
+[title]
+t = "Cake So Good It’ll Melt Your Face-off"
+v = "title"
+s = "“Cake So Good It’ll Melt Your Face-off”."
+
+[intro]
+v = "intro"
+s = "
+I was looking at pictures of wedding cakes the other day while Kyle was busy watching NHL.[#4747#]
+Which got me thinking...
+"
+
+[question]
+t = "Suppose the Great British Bake-Off introduced a penalty when applying icing to a cake. [#4767#]If it’s similar to “icing” in ice hockey, which of the following would a baker be forbidden from doing?"
+v = "question"
+s = "
+Suppose the Great British Bake-Off introduced a penalty when applying icing to a cake.[#4767#]
+If it’s similar to “icing” in ice hockey, which of the following would a baker be forbidden from doing?
+"
+
+[options]
+t = [
+"applying icing to someone else’s cake",
+"squeezing icing from the other side of the kitchen",
+"handling the icing without gloves on",
+"throwing the bag of icing in the air",
+]
+v = "options"
+s = "
+Applying icing to someone else’s cake,[#2151#]
+squeezing icing from the other side of the kitchen,[#4851#]
+handling the icing without gloves on,[#7049#]
+or throwing the bag of icing in the air?
+"
+i = 1
+
+[used_lifesaver]
+v = "random"
+
+[reveal]
+v = "random"
+
+[reveal_crickets]
+v = "random"
+
+[reveal_jinx]
+v = "random"
+
+[reveal_split]
+v = "random"
+
+[reveal_correct]
+v = "random"
+
+[option0]
+v = "random"
+
+[option1]
+v = "option1"
+s = "
+In ice hockey, it’s against the rules to shoot at a goal from behind the center line.[#4461#]
+That penalty is called “icing”.
+"
+
+[option2]
+v = "option2"
+s = "
+No, but you’re not supposed to fight with gloves on.[#2912#]
+It’s the opposite of boxing.
+"
+
+[option3]
+v = "option3"
+s = "No, but that bag is called a piping bag. Made you learn."
+
+[outro]
+v = "outro"
+s = "
+Hockey is funny because it’s the only sport for people older than preschoolers that I can think of that has a time-out corner.
+"

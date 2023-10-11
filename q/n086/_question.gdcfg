@@ -1,0 +1,77 @@
+[root]
+type = "N"
+
+[pretitle]
+v = "random"
+
+[title]
+t = "Does Sesame Street Even Have Public Transport?"
+v = "title"
+s = "
+“Does Sesame Street Even Have Public Transport?”.
+"
+
+[intro]
+v = ""
+
+[question]
+t = "Considering what the Latin word [i]mōnstrum[/i] means, what would you expect the Cookie Monster to do with a cookie?"
+v = "question"
+s = "
+Considering what the Latin word [i]mōnstrum[/i] means,[#2734#]
+what would you expect the Cookie Monster to do with a cookie?
+"
+
+[options]
+t = [
+"keep it hot and oven-fresh",
+"eat another one every night",
+"free it from a locked cookie jar",
+"predict your future",
+]
+v = "options"
+s = "
+Keep it hot and oven-fresh, eat another one every night, free it from a locked cookie jar, or predict your future?
+"
+i = 3
+
+[used_lifesaver]
+v = "random"
+
+[reveal]
+v = "random"
+
+[reveal_crickets]
+v = "random"
+
+[reveal_jinx]
+v = "random"
+
+[reveal_split]
+v = "random"
+
+[reveal_correct]
+v = "random"
+
+[option0]
+v = "random"
+
+[option1]
+v = "option1"
+s = "You probably should call it a night."
+
+[option2]
+v = "random"
+
+[option3]
+v = "option3"
+s = "The Latin word [i]mōnstrum[/i] means “an omen”, and is related to the verb for “to show”,[#5240#]
+whence we get the Spanish word [i]mostrar[/i] meaning “to show” and the English word “demonstrate”.[#11098#]
+So Cookie Monster would probably be able to tell you about your ominous future."
+
+[outro]
+v = "outro"
+s = "
+Ominous futures like[#993#]
+[i][in Cookie Monster impression][/i] “Me see your future have no cookiiiie! Om nom nom nom!”.
+"

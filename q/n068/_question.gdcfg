@@ -1,0 +1,91 @@
+[root]
+type = "N"
+
+[pretitle]
+v = "random"
+
+[title]
+t = "With Mine Own Two Eyes"
+v = "title"
+s = "“With Mine Own Two Eyes”."
+
+[intro]
+v = ""
+s = ""
+
+[question]
+t = "If Steve from [i]Minecraft[/i] became a [b]stevedore[/b], what would his new job entail?"
+v = "question"
+s = "
+If Steve from [i]Minecraft[/i] became a stevedore, what would his new job entail?
+"
+
+[options]
+t = [
+"washing freshly mined coal",
+"cleaning up pig droppings",
+"loading iron ore into boats",
+"guarding your home from Pillagers",
+]
+v = "options"
+s = "
+Washing freshly mined coal,[#1615#]
+cleaning up pig droppings,[#3205#]
+loading iron ore into boats,[#4908#]
+or guarding your home from Pillagers?
+"
+i = 2
+
+[used_lifesaver]
+v = "random"
+
+[reveal]
+v = "random"
+
+[reveal_crickets]
+v = "random"
+
+[reveal_jinx]
+v = "random"
+
+[reveal_split]
+v = "random"
+
+[reveal_correct]
+v = "random"
+
+[option0]
+v = "option0"
+s = "
+No, that’s not how “clean coal” works.[#2635#]
+It doesn’t work at all.
+"
+
+[option1]
+v = "option1"
+s = "
+Well, that answer stunk.
+"
+
+[option2]
+v = "option2"
+s = "
+A stevedore is in charge of loading and unloading cargo into ships.
+"
+
+[option3]
+v = "option3"
+s = "
+Oh, forget the Pillagers. You need to guard your home from[#2466#]
+[i](hissing)[/i]
+skeletons, spiders, and—[#4196#]
+Oh, no no no. [i][yelling][/i] Steve! You had one job![#6618#]
+[i](explosion)[/i]
+"
+
+[outro]
+v = "outro"
+s = "
+So you can rest easy knowing your iron ore will be transported safely across biomes.[#4676#]
+Just hand Stevedore Steve the ore.
+"

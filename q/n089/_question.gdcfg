@@ -1,0 +1,86 @@
+[root]
+type = "N"
+
+[pretitle]
+v = "random"
+
+[title]
+t = "Please Sir, May I Have Some More Nutritious School Lunches?"
+v = "title"
+s = "
+[i][in a squeaky England accent][/i]
+“Please Sir, May I Have Some More Nutritious School Lunches?”
+"
+
+[intro]
+v = "intro"
+s = "You know Jamie Oliver, the British home cook famous for pressuring school lunches to be healthier?[#4509#]
+He also did a program where he cooks meals in 15 minutes."
+
+[question]
+t = "Assuming no prep time or cleanup time in between, how many 15-minute meals could Jamie Oliver make back-to-back in the time it takes to watch the 2005 movie adaptation of [i]Oliver Twist?[/i]"
+v = "question"
+s = "
+Assuming no prep time or cleanup time in between,[#2988#]
+how many 15-minute meals could Jamie Oliver make back-to-back[#6482#]
+in the time it takes to watch the 2005 movie adaptation of [i]Oliver Twist?[/i]
+"
+
+[options]
+t = [
+"5 meals",
+"8 meals",
+"10 meals",
+"13 meals",
+]
+v = "options"
+s = "
+Five meals, eight meals, ten meals, or thirteen meals?
+"
+i = 1
+
+[used_lifesaver]
+v = "random"
+
+[reveal]
+v = "random"
+
+[reveal_crickets]
+v = "random"
+
+[reveal_jinx]
+v = "random"
+
+[reveal_split]
+v = "random"
+
+[reveal_correct]
+v = "random"
+
+[option0]
+v = "random"
+
+[option1]
+v = "option1"
+s = "
+The movie has a runtime of 2 hours 10 minutes, which is 8 quarters of an hour,[#4425#]
+plus 10 minutes to make a snack afterward.
+"
+
+[option2]
+v = "random"
+
+[option3]
+v = "option3"
+s = "
+Three and a quarter hours? That would be correct if the movie in question were [i]Titanic.[/i][#4330#]
+Speaking of sinking...
+"
+
+[outro]
+v = "outro"
+s = "
+Imagine if Jamie Oliver were cooking food for the orphans in the original story.[#4235#]
+He’d probably have to make as many meals as there are words in the book.[#7368#]
+That would get him close to 5 years of nonstop cooking!
+"

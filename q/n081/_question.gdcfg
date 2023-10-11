@@ -1,0 +1,92 @@
+[root]
+type = "N"
+
+[pretitle]
+v = "random"
+
+[title]
+t = "Safety Handling Sharp Objects"
+v = "title"
+s = "
+“Safety Handling Sharp Objects”.
+"
+
+[intro]
+v = "intro"
+s = "
+I feel like a lot of people see swords as this really cool fantasy weapon,[#4777#]
+but it’s a deadly weapon, something that needs a lot of training and caution to handle well.[#9588#]
+I think some OSHA-compliant workplace safety signs are in order.
+"
+
+[question]
+t = "Which OSHA sign is the best fit to warn you about the Sword of Damocles?"
+v = "question"
+s = "
+Which OSHA sign is the best fit to warn you about the Sword of Damocles?
+"
+
+[options]
+t = [
+"CAUTION: low clearance; mind your head",
+"CAUTION: hot surface; do not touch",
+"CAUTION: heavy; team lift",
+"CAUTION: eye protection required",
+]
+v = "options"
+s = "
+“CAUTION: low clearance; mind your head”,[#2407#]
+“CAUTION: hot surface; do not touch”,[#5253#]
+“CAUTION: heavy; team lift”,[#7537#]
+or “CAUTION: eye protection required”?
+"
+i = 0
+
+[used_lifesaver]
+v = "random"
+
+[reveal]
+v = "random"
+
+[reveal_crickets]
+v = "random"
+
+[reveal_jinx]
+v = "random"
+
+[reveal_split]
+v = "random"
+
+[reveal_correct]
+v = "random"
+
+[option0]
+v = "option0"
+s = "
+The legend goes that, as Damocles the courtier was allowed to be King of Syracuse for a day,[#4962#]
+a sword was dangled over the throne by one single horse hair.[#9024#]
+The moral is that with great power comes great... danger.
+"
+
+[option1]
+v = "random"
+
+[option2]
+v = "option2"
+s = "
+Hopefully it didn’t take a team effort for you to come up with this answer.
+"
+
+[option3]
+v = "option3"
+s = "
+Apparently no brain protection is required for you.
+"
+
+[outro]
+v = "outro"
+s = "
+And Chekhov’s Gun would come with the sign[#2782#]
+“CAUTION: equipment training required for all employees”.[#5984#]
+Because sooner or later, either the gun’s gonna be fired, or you if you don’t pay attention.
+"

@@ -1,0 +1,101 @@
+[root]
+type = "N"
+
+[pretitle]
+v = "random"
+
+[title]
+t = "Death is Cheap in Cartoon Land"
+v = "title"
+s = "“Death is Cheap in Cartoon Land”."
+
+[intro]
+v = "intro"
+s = "
+[b]Candy:[/b] Did any of you hear about this horror series doing the rounds on YouTube a while back: [i]There’s Something About Amy?[/i][#5387#]
+From what I saw, it’s about this girl who gets tricked by someone she thought was her friend into killing the guy she loved.[#11073#]
+That is some seriously messed up junk. Could you imagine something like that happening in real life?[#15462#]
+[b]Miles:[/b] Yeah... I can...[#17158#]
+[i](beat)[/i][#17690#]
+[b]Daisy:[/b] Why are you looking at me like that, Miles-ey?[#20782#]
+[b]Candy:[/b] Anyway, the thing I don’t get is why it had nothing to do with [i]There’s Something About Mary.[/i][#25304#]
+I only watched it expecting a cartoon parody of that rom-com,[#28380#]
+that one about four different clumsy guys vying for the attention of this one girl,[#32204#]
+but no, apparently this one girl fricking kills people.[#35778#]
+And that got me thinking...
+"
+
+[question]
+t = "Suppose Cameron Diaz in [i]There’s Something About Mary[/i] decided to kill all of the men who were vying for her love. [#5111#]Which of these ironic murders [b]most closely[/b] resembles how Amy killed her love interest in [i]There’s Something About Amy?[/i]"
+v = "question"
+s = "
+Suppose Cameron Diaz in There’s Something About Mary[#2398#]
+decided to kill all of the men who were vying for her love.[#5111#]
+Which of these ironic murders most closely resembles[#7955#]
+how Amy killed her love interest in [i]There’s Something About Amy?[/i]
+"
+
+[options]
+t = [
+"Matt Dillon getting his penis shoved in a blender",
+"Ben Stiller being concussed by a big soccer ball",
+"Lee Evens getting run over by a big pizza truck",
+"Chris Elliot being bludgeoned by a big gavel",
+]
+v = "options"
+s = "
+Matt Dillon getting his penis shoved in a blender,[#2451#]
+Ben Stiller being concussed by a big soccer ball,[#4946#]
+Lee Evens getting run over by a big pizza truck,[#7456#]
+or Chris Elliot being bludgeoned by a big gavel?
+"
+i = 3
+
+[used_lifesaver]
+v = "random"
+
+[reveal]
+v = "random"
+
+[reveal_crickets]
+v = "random"
+
+[reveal_jinx]
+v = "random"
+
+[reveal_split]
+v = "random"
+
+[reveal_correct]
+v = "random"
+
+[option0]
+v = "option0"
+s = "Oh, come on! The zipper scene was painful enough![#3478#]
+For him to be in, and for me to watch!"
+
+[option1]
+v = "option1"
+s = "There’s something about your head that’s wrong."
+
+[option2]
+v = "option2"
+s = "Two words—Well, one compound word, actually—[#3194#]
+Road. Kill."
+
+[option3]
+v = "option3"
+s = "
+In [i]There’s Something About Amy,[/i][#1610#]
+a guy is bludgeoned to death by said Amy with a giant hammer.[#4917#]
+And since Chris Elliot plays a judge in [i]There’s Something About Mary,[/i][#8138#]
+that would be the most fitting and ironic “judgment” for him.
+"
+
+[outro]
+v = "outro"
+s = "
+And all that was needed to make it complete was a restraining order.[#3028#]
+That would’ve saved the guy’s life,[#4304#]
+but instead, he went down a horrible path of becoming a terrible Flash animation.
+"

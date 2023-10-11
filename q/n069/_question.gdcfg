@@ -1,0 +1,103 @@
+[root]
+type = "N"
+
+[pretitle]
+v = "random"
+
+[title]
+t = "You’re a Squid Now, You’re a Blockbuster Movie Now"
+v = "title"
+s = "“You’re a Squid Now, You’re a Blockbuster Movie Now”."
+
+[intro]
+v = "intro"
+s = "Splatoon, the third-person shooter trilogy from Nintendo[#3626#]
+starring humanoid squids that can shapeshift into liquid form,[#7529#]
+has a deceivingly huge amount of lore."
+
+[question]
+t = "Which blockbuster film’s ending plot twist [b]most[/b] resembles the reason why we play as humanoid squids in [i]Splatoon?[/i]"
+v = "question"
+s = "
+Which blockbuster film’s ending plot twist most resembles the reason why we play as humanoid squids in Splatoon?
+"
+
+[options]
+t = [
+"[i]Planet of the Apes[/i]",
+"[i]Soylent Green[/i]",
+"[i]Close Encounters of the Third Kind[/i]",
+"[i]The Andromeda Strain[/i]",
+]
+v = "options"
+s = "
+[i]Planet of the Apes,[/i][#1033#]
+[i]Soylent Green,[/i][#2266#]
+[i]Close Encounters of the Third Kind,[/i][#4007#]
+or [i]The Andromeda Strain?[/i]
+"
+i = 0
+
+[used_lifesaver]
+v = "random"
+
+[reveal]
+v = "random"
+
+[reveal_crickets]
+v = "random"
+
+[reveal_jinx]
+v = "random"
+
+[reveal_split]
+v = "random"
+
+[reveal_correct]
+v = "random"
+
+[option0]
+v = "option0"
+s = "
+The plot twist in the Planet of the Apes is that the planet is actually planet Earth[#4165#]
+long after humans have gone extinct.[#6428#]
+Splatoon is the same, except instead of hyperintelligent apes taking over,[#10533#]
+it’s hyperintelligent shapeshifting cephalopods.
+"
+
+[option1]
+v = "option1"
+s = "
+No, but apparently “Soylent” is an actual meal replacement. Who would—[#4550#]
+What kind of sick twisted mind would even jokingly name a meal replacement with a reference to cannibalism?[#10831#]
+Like seriously! I find that tasteless and morbid, and [i]I’m goth.[/i]
+"
+
+[option2]
+v = "option2"
+s = "
+[b]Candy:[/b] More like Close Encounters of the Turd Kind.[#2490#]
+[b]Daisy:[/b] Candy, you stole that from Epic Rap Battles of History.[#5337#]
+[b]Candy:[/b] And I would’ve gotten away with it too, if it weren’t for you meddling coworkers.
+"
+
+[option3]
+v = "option3"
+s = "
+[b]Candy:[/b] [jocular] Does anyone else smell teen spirit?[#2000#]
+Because that answer feels stupid and I hope to everything holy that it ain’t contagious.[#6733#]
+Get it? Andromeda strain? Contagious? Outbre—[#9765#]
+[i][dismissive][/i] Whatever, never mind.[#11102#]
+[i][jocular again][/i] Ah? Nevermind?[#12549#]
+[b]Miles:[/b] Candy, that’s enough Nirvana references for your entire career.[#15325#]
+[b]Candy:[/b] Okay, fine. I’ll stop.[#16589#]
+[b]Daisy:[/b] Really, Candy? Hello? How low can your humor go?[#20537#]
+[b]Candy:[/b] [i][excited][/i] Eyy, I get that reference, Daisyyy![#22616#]
+[b]Miles:[/b] Really? Both of you now?
+"
+
+[outro]
+v = "outro"
+s = "
+Really puts the “ink” in “environmental think piece”.
+"

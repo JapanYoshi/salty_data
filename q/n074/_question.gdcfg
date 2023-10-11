@@ -1,0 +1,97 @@
+[root]
+type = "N"
+
+[pretitle]
+v = "random"
+
+[title]
+t = "Family Planet"
+v = "title"
+s = "“Family Planet”."
+
+[intro]
+v = "intro"
+s = "
+[b]Candy:[/b] Any committed relationship isn’t complete without a family planning disagreement.[#4285#]
+For example, Kyle wants a lot of kids. Like, comically many.[#8840#]
+And I want nothing to do with it, especially not after going on a deep dive into DeviantArt.[#14057#]
+[b]Miles:[/b] Uh, Candy? What were you doing on DeviantArt?[#16617#]
+[b]Candy:[/b] Research.[#17732#]
+[b]Miles:[/b] I’m not buying that. And what does DeviantArt have to do with children anyway?[#21912#]
+[b]Candy:[/b] Other than that you should keep your children away from DeviantArt?[#25291#]
+You’ll see eventually.[#26275#]
+[b]Miles:[/b] That’s unsettling.
+"
+
+[question]
+t = "If I wanted to live in the country where there are the fewest childbirths per woman, where should I suggest that Kyle and I start a family together?"
+v = "question"
+s = "
+[b]Candy:[/b] If I wanted to live in the country where there are the fewest childbirths per woman,[#4278#]
+where should I suggest that Kyle and I start a family together?
+"
+
+[options]
+t = [
+"in South Korea",
+"in Japan",
+"in Italy",
+"in France",
+]
+v = "options"
+s = "
+In South Korea, in Japan, in Italy, or in France?
+"
+i = 0
+
+[used_lifesaver]
+v = "random"
+
+[reveal]
+v = "random"
+
+[reveal_crickets]
+v = "random"
+
+[reveal_jinx]
+v = "random"
+
+[reveal_split]
+v = "random"
+
+[reveal_correct]
+v = "random"
+
+[option0]
+v = "option0"
+s = "According to a 2019 survey,[#2098#]
+South Korea is the only country in the world to have a fertility rate [i]below 1.[/i][#7714#]
+That’s way below the 2.1 necessary to keep the population from shrinking."
+
+[option1]
+v = "option1"
+s = "Japan is well below a fertility rate of 2.1,[#3166#]
+but it’s been slowly improving,[#4945#]
+just as the late former prime minister Shinzō Abe would have wanted.[#8833#]
+[i][aside][/i] Man, what a prick."
+
+[option2]
+v = "option2"
+s = "No, but Italy has the oldest first-time mothers in Europe at 31 years old,[#4625#]
+so it may buy me time."
+
+[option3]
+v = "option3"
+s = "No, France actually has the highest fertility rate among European countries.[#4412#]
+The entire place is still under 2.1, though, so it’s still a tough cookie for the lawmakers to figure out.[#9230#]
+coughIMMIGRATIONcough."
+
+[outro]
+v = "outro"
+s = "
+[b]Candy:[/b] Childcare and education cost too much,[#2007#]
+and with retirement seeming more like a pipe dream than a norm?[#5417#]
+I say no way, José. I’d rather waste the money on vintage guitars.[#9653#]
+[b]Daisy:[/b] Ooh! Can we talk about what I found on DeviantArt the other day?[#11616#]
+[b]Miles:[/b] [i][interrupting Daisy][/i] Nooope! Nope, nope, nope, nope.
+"

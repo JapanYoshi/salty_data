@@ -1,0 +1,102 @@
+[root]
+type = "N"
+
+[pretitle]
+v = "random"
+
+[title]
+t = "The Sports Central Heating is Set Too High"
+v = "title"
+s = "“The Sports Central Heating is Set Too High”."
+
+[intro]
+v = "intro"
+s = "
+[b]Candy:[/b] Kyle watches sports a lot in my apartment.[#2253#]
+I don’t really follow anything other than eSports, but[#4828#]
+I occasionally bring him snacks and sit next to him on my phone sometimes.[#8122#]
+[b]Miles:[/b] Hey, Candy? You’ve been badmouthing your boyfriend on every question so far.[#11946#]
+Are you sure everything’s going alright with you two?[#13877#]
+[b]Candy:[/b] We manage.
+"
+
+[question]
+t = "Two Olympic athletes are talking to each other about doing a “snatch” and a “clean and jerk”. [#9930#]What kind of athletes are they?"
+v = "question"
+s = "
+[b]Candy:[/b] Two Olympic athletes are talking to each other about doing a “snatch” and a “clean and jerk”.[#5431#]
+[b]Daisy:[/b] [i](hyena laughs)[/i]
+[b]Candy:[/b] Now ignore the immature cretin’s laughter and tell me,[#9930#]what kind of athletes are they?
+"
+
+[options]
+t = [
+"pole vaulters",
+"weightlifters",
+"wrestlers",
+"gymnasts",
+]
+v = "options"
+s = "
+Pole vaulters, weightlifters, wrestlers, or gymnasts?
+"
+i = 1
+
+[used_lifesaver]
+v = "random"
+
+[reveal]
+v = "random"
+
+[reveal_crickets]
+v = "random"
+
+[reveal_jinx]
+v = "random"
+
+[reveal_split]
+v = "random"
+
+[reveal_correct]
+v = "random"
+
+[option0]
+v = "option0"
+s = "
+[b]Candy:[/b] You know, for once, I can see the wrong logic behind this wrong answer.[#4434#]
+With the way the pole sticks up, curls around, then launches you over,[#8405#]
+[b]Daisy:[/b] [i](laughs over Candy explaining the answer)[/i]
+[b]Candy:[/b] you might be under the impression that—I’ll keep explaining once Daisy stops cackling again.
+"
+
+[option1]
+v = "option1"
+s = "
+“Snatch” and “clean and jerk” are the two specific lifts in Olympic weightlifting.
+"
+
+[option2]
+v = "option2"
+s = "
+You’re gonna have to wrestle with your past mistakes, which now includes this question.
+"
+
+[option3]
+v = "option3"
+s = "
+[b]Daisy:[/b] (stifling laughter) Y’know, they’re—[#2328#]
+[i](delirious stammering)[/i] they’re really gonna need some—[#5624#]
+they’ll need a lot of flexibility to get into their positions![#9788#]
+[b]Candy:[/b] Are you sure you’re old enough to have this job?[#11789#]
+[b]Miles:[/b] Candy, you literally burst out laughing at “a handy Homo erectus” on Episode 1.[#15593#]
+[b]Candy:[/b] [i](spit-takes)[/i] Hey, don’t remind me!
+"
+
+[outro]
+v = "outro"
+s = "
+[b]Candy:[/b] I guess you can’t help but think of terms like that in those singlet tights.[#3469#]
+[b]Daisy:[/b] [i](uproarious laughter)[/i][#8728#]
+You said “terms”![#9809#]
+[b]Candy:[/b] That’s what you’re laughing about?!
+"

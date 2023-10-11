@@ -1,0 +1,86 @@
+[root]
+type = "N"
+
+[pretitle]
+v = "random"
+
+[title]
+t = "The (Smart) Speaker of the House"
+v = "title"
+s = "
+“The (Smart) Speaker of the House”.
+"
+
+[intro]
+v = ""
+
+[question]
+t = "Why might you suspect Alexa of having [b]alexithymia[/b]?"
+v = "question"
+s = "
+Why might you suspect Alexa of having alexithymia?
+"
+
+[options]
+t = [
+"because it shows no feelings",
+"because it only echoes words others say",
+"because it has no will to move",
+"because it’s covered in tiny holes",
+]
+v = "options"
+s = "
+Because it shows no feelings,[#1513#]
+because it only echoes words others say,[#3816#]
+because it has no will to move,[#5284#]
+or because it’s covered in tiny holes?
+"
+i = 0
+
+[used_lifesaver]
+v = "random"
+
+[reveal]
+v = "random"
+
+[reveal_crickets]
+v = "random"
+
+[reveal_jinx]
+v = "random"
+
+[reveal_split]
+v = "random"
+
+[reveal_correct]
+v = "random"
+
+[option0]
+v = "option0"
+s = "
+Alexithymia is the lack of emotions.
+"
+
+[option1]
+v = "option1"
+s = "
+To quote Jake from Blues Brothers, “No f**king way”.
+"
+
+[option2]
+v = "random"
+
+[option3]
+v = "option3"
+s = "
+No, but speaking of things that are full of holes, you suck at this game.
+"
+
+[outro]
+v = "outro"
+s = "
+I told my friend that Alexa probably spies on him when he jacks off.[#3490#]
+I laughed, he laughed,[#5135#]
+Alexa laughed, I shot Alexa,[#7195#]
+it was a grand old time. 
+"

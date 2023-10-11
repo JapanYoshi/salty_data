@@ -1,0 +1,80 @@
+[root]
+type = "N"
+
+[pretitle]
+v = "pretitle"
+s = "[b]Candy:[/b] World 1 is gonna be:"
+
+[title]
+t = "To Start, Press A-men"
+v = "title"
+s = "“To Start, Press A-men”."
+
+[intro]
+v = ""
+s = ""
+
+[question]
+t = "Suppose you wanted to enter the Konami Code, [#1886#]but instead of a D-pad, using the Christian gesture called the Sign of the Cross[#6832#] (“In the name of the Father,” etc.). [#8994#]Assuming that “Amen” corresponds to the “B, A, start” at the end, what would you be gesturing?"
+v = "question"
+s = "Suppose you wanted to enter the Konami Code, but instead of a D-pad,[#3423#]using the Christian gesture called the Sign of the Cross.[#6774#]Y’know, “in the name of the Father”, blah blah blah.[#8994#]Assuming that “Amen” corresponds to the “B, A, start” at the end, what would you be gesturing?"
+
+[options]
+t = [
+"Father, Father, Son, Son, Holy Spirit, Holy Spirit, Amen",
+"Father, Son, Father, Son, Holy Spirit, Holy Spirit, Amen",
+"Son, Son, Father, Father, Holy Holy Spirit Spirit, Amen",
+"Son, Father, Son, Father, Holy Holy Spirit Spirit, Amen"
+]
+v = "options"
+s = "
+Father, Father, Son, Son, Holy Spirit, Holy Spirit, Amen,[#2746#]
+Father, Son, Father, Son, Holy Spirit, Holy Spirit, Amen,[#5343#]
+Son, Son, Father, Father, Holy Holy Spirit Spirit, Amen,[#7954#]
+or Son, Father, Son, Father, Holy Holy Spirit Spirit, Amen?
+"
+i = 0
+
+[used_lifesaver]
+v = "random"
+
+[reveal]
+v = "random"
+
+[reveal_crickets]
+v = "random"
+
+[reveal_jinx]
+v = "random"
+
+[reveal_split]
+v = "random"
+
+[reveal_correct]
+v = "random"
+
+[option0]
+v = "option0"
+s = "From the signer’s perspective, you put your hand up on your forehead “in the name of the Father”,[#4235#]
+down on your chest for “the Son”, and from left to right for “the Holy Spirit”,[#8471#]
+and finally, palms together for “Amen”.[#10720#]
+So the Konami Code, “up up down down left right left right B A start”[#14550#]
+would correspond to “Father Father Son Son Holy Spirit Holy Spirit Amen”."
+
+[option1]
+v = "random"
+s = ""
+
+[option2]
+v = "random"
+s = ""
+
+[option3]
+v = "random"
+s = ""
+
+[outro]
+v = "outro"
+s = "
+Pray and you shall receive salvation from RNGesus.
+"

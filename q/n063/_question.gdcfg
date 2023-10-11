@@ -1,0 +1,121 @@
+[root]
+type = "N"
+
+[pretitle]
+v = "random"
+
+[title]
+t = "We Could Get Sued for This"
+v = "title"
+s = "“We Could Get Sued for This”. Wait, what?"
+
+[intro]
+v = "intro"
+s = "
+[b]Candy:[/b] Hang on, what the hell does that mean, we could get sued for this?[#2865#]
+Who wrote this crap? Miles![#4993#]
+[b]Miles:[/b] I don’t know! Whoever it is, I sure didn’t give clearance.[#7570#]
+[b]Daisy:[/b] I had to check in with you?[#9125#]
+[b]Candy:[/b] Daisy, what the f**k![#10267#]
+[b]Miles:[/b] Language, Candy![#11380#]
+[b]Candy:[/b] Sorry, Miles. Daisy, what the frick![#13100#]
+[b]Daisy:[/b] Aw come on, you two, it’s just a question about some annoying guy.
+"
+
+[question]
+t = "
+Calling himself “Video Game Player of the Century”, [#9847#]Billy [#17420#]is notorious for suing anyone who paints him in a bad light. [#23217#]His world record was wiped from Twin Galaxies for alleged cheating. [#32421#]Who is this?
+"
+v = "question"
+s = "
+[b]Daisy:[/b] He calls himself “Video Game Player of the Century”.[#3641#]
+[b]Candy:[/b] Ugh, you mean to tell me that this “video game player” doesn’t know about the word “gamer”?[#8006#]
+[b]Daisy:[/b] I know, right? Anyway, so this Billy—[#10168#] Oh f**k, I said his name![#12330#]
+[b]Miles:[/b] Language, Daisy![#13499#]
+[b]Daisy:[/b] Sorry, Miles-ey.[#14282#]
+[b]Candy:[/b] Get on with the question, Daisy.[#15515#]
+[b]Daisy:[/b] Okay, fine. He’s notorious for suing anyone who paints him in a bad light.[#20587#]
+[b]Candy:[/b] Major red flag, huh.[#21920#]
+[b]Daisy:[/b] Yeah, but recently his world record was wiped from the Twin Galaxies leaderboards because he cheated, allegedly.[#28190#]
+[b]Miles:[/b] Nice save with the “allegedly” there.[#29896#]
+[b]Candy:[/b] Alright, I think that’s enough clues for you to figure it out. Which Billy is Daisy talking about?[#34209#]
+[b]Daisy:[/b] Hey! You stole the crux of the question from me!
+"
+
+[options]
+t = [
+"Billy Mitchell",
+"Billy Ray Cyrus",
+"Billy O’Brien",
+"Billy Madison",
+]
+v = "options"
+s = "
+[b]Candy:[/b] Billy Mitchell, Billy Ray Cyrus, Billy O’Brien, or Billy Madison?"
+i = 0
+
+[used_lifesaver]
+v = "random"
+
+[reveal]
+v = "random"
+
+[reveal_crickets]
+v = "random"
+
+[reveal_jinx]
+v = "random"
+
+[reveal_split]
+v = "random"
+
+[reveal_correct]
+v = "random"
+
+[option0]
+v = "option0"
+s = "
+[b]Candy:[/b] Yep, that’s Billy Mitchell, previously known as “The King of Kong”, who had his world record disqualified.[#5701#]
+[b]Daisy:[/b] Or as I like to call him, Billy Bitchell.[#8333#]
+[b]Miles:[/b] [i](spit take)[/i] Daisy, what the f**k?![#10113#]
+[b]Candy:[/b] Language, Miles![#11147#]
+[b]Daisy:[/b] [i](intense cackling)[/i]
+"
+
+[option1]
+v = "option1"
+s = "
+[b]Miles:[/b] Please don’t do the thing. Please don’t do it.[#2720#]
+[b]Daisy:[/b] I wasn’t gonna![#4096#]
+[b]Candy:[/b] Really? I would have expected you to say that not being allowed to reference songs[#8005#]
+is a blow to your Achy Breaky Heart.[#9629#]
+[b]Daisy:[/b] Stop out-referencing me!
+"
+
+[option2]
+v = "option2"
+s = "
+[b]Candy:[/b] Can someone do a quick Google search on what that guy does? I forgot.[#3369#]
+[b]Daisy:[/b] I’m on it.[#4250#]
+[i][beat][/i][#5667#]
+Ew, he does country music!
+"
+
+[option3]
+v = "option3"
+s = "
+[b]Daisy:[/b] That’s a character played by Adam Sandler.[#2107#]
+[b]Candy:[/b] Yep. You know how Adam Sandler’s been getting 80+ percent Rotten Tomatoes audience scores for some of his recent films?[#7942#]
+[b]Daisy:[/b] No way! I should write a question about that![#10832#]
+[b]Miles:[/b] And if you do, how about submitting it for review, like all the other writers do, Daisy?
+"
+
+[outro]
+v = "outro"
+s = "
+[b]Candy:[/b] Okay, let’s get back to the game, where hopefully, someone won’t threaten to put us in legal jeopardy.[#4798#]
+[b]Miles:[/b] We’re already walking a thin line here, what with our abundance of parodies and all.[#8719#]
+[b]Daisy:[/b] Alright, fiiiine... Do I still get to sing stuff?[#12639#]
+[b]Candy:[/b] God protect us all from that.[#14745#]
+Father, Father, Son, Son, Holy Spirit, Holy Spirit, Amen.
+"

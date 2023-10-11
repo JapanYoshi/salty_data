@@ -1,0 +1,110 @@
+[root]
+type = "N"
+
+[pretitle]
+v = "pretitle"
+s = "
+[b]Candy:[/b] [i](sigh)[/i] I don’t wanna do this episode anymore.[#2971#]
+[b]Miles:[/b] Candy, I feel your pain. That seemed like a really rough break-up.[#5880#]
+[b]Daisy:[/b] Gurrrl, you didn’t even share any interests with him! You should’ve dumped him sooner.[#9662#]
+[b]Candy:[/b] I know, I know. It’s just...[#12112#]
+I don’t know what’s been wrong with me for the last few weeks.[#14777#]
+[b]Daisy:[/b] Only for the last few weeks?[#17104#]
+[b]Miles:[/b] Daisy, you’re not helping.[#18467#]
+Hey, Candy, why don’t we do a question about something you like?[#21514#]
+[b]Candy:[/b] Like what?[#22265#]
+[b]Daisy:[/b] (shuffling with papers) Let’s see... How about...
+"
+
+[title]
+t = "A Question about Telling Kyle to Go to Hell"
+v = "title"
+s = "
+[b]Daisy:[/b] This question about telling someone to go to Hell?[#1848#]
+[b]Candy:[/b] Oh, hell yeah![#3386#]
+[b]Miles:[/b] Really, you two?
+"
+
+[intro]
+v = ""
+
+[question]
+t = "Suppose Candy told her ex to go to Hell, and he actually does go to a place called “Hell”. [#4340#]All but which of these places could he post about on Instagram?"
+v = "question"
+s = "
+[b]Daisy:[/b] Suppose Candy told her ex to go to Hell, and he actually does go to a place called “Hell”.[#4340#]
+All but which of these places could he post about on Instagram?
+"
+
+[options]
+t = [
+"Michigan, US",
+"Grand Cayman, the Cayman Islands",
+"Adamawa region, Cameroon",
+"Trøndelag county, Norway",
+]
+v = "options"
+s = "
+Michigan, United States,[#1509#]
+Grand Cayman, the Cayman Islands,[#3172#]
+Adamawa region, Cameroon,[#4740#]
+or Tr— What the heck is that?[#7723#]
+[b]Candy:[/b] Trøndelag county, Norway.
+[b]Daisy:[/b] Thanks, Candy.
+"
+i = 2
+
+[used_lifesaver]
+v = "random"
+
+[reveal]
+v = "random"
+
+[reveal_crickets]
+v = "random"
+
+[reveal_jinx]
+v = "random"
+
+[reveal_split]
+v = "random"
+
+[reveal_correct]
+v = "random"
+
+[option0]
+v = "option0"
+s = "[b]Candy:[/b] Hell, Michigan is the most famous “Hell” in the United States,[#3165#]
+which means that Hell quite often freezes over."
+
+[option1]
+v = "option1"
+s = "
+[b]Candy:[/b] Hell is an area in the Cayman Islands famous for ominous limestone spikes in the ground.[#5048#]
+So Kyle would be having a vacation that he ABSOLUTELY DOESN’T DESERVE![#9367#]
+[b]Daisy:[/b] Chill, girl! Keep cool!
+"
+
+[option2]
+v = "option2"
+s = "
+[b]Candy:[/b] There’s a place called Hell in Michigan, the Cayman Islands, and Norway,[#3916#]
+but Cameroon was just today’s Worldle answer.
+"
+
+[option3]
+v = "option3"
+s = "
+[b]Candy:[/b] Hell is a village in Norway, right around the south-ish area where it squeezes a bit.
+"
+
+[outro]
+v = "outro"
+s = "
+[b]Miles:[/b] That went well, didn’t it?[#1106#]
+[b]Candy:[/b] Yeah, I guess.[#2635#]
+[b]Miles:[/b] Remember, people love you, and there are a lot more fish in the sea.[#5763#]
+[b]Daisy:[/b] But some of them are Ellen DeGeneres.[#9026#]
+The point is, screw fish.[#10806#]
+[b]Miles:[/b] Daisy, again, you’re not helping.
+"

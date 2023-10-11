@@ -1,0 +1,98 @@
+[root]
+type = "N"
+
+[pretitle]
+v = "random"
+
+[title]
+t = "Bootlucker"
+v = "title"
+s = "“Bootlucker”."
+
+[intro]
+v = "intro"
+s = "
+[b]Daisy:[/b] Hey Candy, where did you get that tacky looking— [i][in squeaky voice][/i] Aww! Kitty![#4818#]
+[b]Candy:[/b] I bought this maneki-neko off the Internet the other day. Thought it would be a good centerpiece for my apartment.[#9257#]
+Turns out you shouldn’t trust random sellers on the Internet.[#11647#]
+[b]Daisy:[/b] D’aww! It’s so cute![#14297#]
+[b]Candy:[/b] I mean, I’m not complaining. It might be made of cheap plastic, but it’s a good excuse for me to connect to my Japanese side.[#19163#]
+Lucky cat statues are usually placed in shops, but I don’t see why we can’t have one here at Salty Trivia.[#23791#]
+[b]Daisy:[/b] Who’s a good little kitty-witty? Who’s a good kitty~? [i](squee)[/i][#27447#]
+[b]Candy:[/b] [i][aside][/i] She’s not listening, is she? Anyway,
+"
+
+[question]
+t = "Suppose Puss in Boots from [i]Shrek[/i] held up his [b]left[/b] paw and beckoned. [#3787#]If he induces the same effect that a maneki-neko is supposed to have, [#7288#]what would he [b]most likely[/b] say to the people around him?"
+v = "question"
+s = "Suppose Puss in Boots from [i]Shrek[/i] held up his [i]left[/i] paw and beckoned.[#3787#]
+If he induces the same effect that a maneki-neko is supposed to have,[#7288#]
+what would he [i]most likely[/i] say to the people around him?"
+
+[options]
+t = [
+"“I ask you all to challenge me to a duel.”",
+"“I ask you all to follow me loyally.”",
+"“I ask you all to give me your clothes.”",
+"“I ask you all to hear my sexy accent.”"
+]
+v = "options"
+s = "
+[i][in feigned Spanish accent][/i]
+“I ask you all to challenge me to a duel.”,[#2135#]
+“I ask you all to follow me loyally.”,[#4288#]
+“I ask you all to give me your clothes.”,[#6272#]
+or “I ask you all to hear my sexy accent.”?
+"
+i = 1
+
+[used_lifesaver]
+v = "random"
+
+[reveal]
+v = "random"
+
+[reveal_crickets]
+v = "random"
+
+[reveal_jinx]
+v = "random"
+
+[reveal_split]
+v = "random"
+
+[reveal_correct]
+v = "random"
+
+[option0]
+v = "option0"
+s = "You challenged the truth and lost the match. By which I mean your score."
+
+[option1]
+v = "option1"
+s = "When a maneki-neko has its left paw raised, it’s used by shop owners to beckon new loyal customers towards their shops.[#6001#]
+So Puss in Boots would probably be asking people to be his followers.[#9376#]
+[b]Daisy:[/b] What a good kitty-kitty. What a good kitty-kitty![#11828#]
+[b]Candy:[/b] It seems to be doing [i]something[/i] on Daisy, at least."
+
+[option2]
+v = "option2"
+s = "Are you one of those weirdos who play strip Salty Trivia? If you are,
+[#3668#]take off your pants. Now."
+
+[option3]
+v = "option3"
+s = "No, but I do agree that Antonio Banderas’ accent is, famously, pretty sexy.[#3695#]
+[b]Miles:[/b] That’s the only reason why you made this the wrong answer, isn’t it?[#6137#]
+[b]Candy:[/b] Guilty as charged. I love doing accents."
+
+[outro]
+v = "outro"
+s = "
+[b]Candy:[/b] But since this one here has its right paw raised, watch this.[#3109#]
+Hey, Daisy, I can sell it to you if you want it so bad.[#5437#]
+[b]Daisy:[/b] [i](gasp)[/i] Really?! I’ll give you a hundred dollars![#8233#]
+[b]Candy:[/b] A hund-o? I spent way more than that on—[#10580#]
+[b]Daisy:[/b] Okay! A thousand![#11787#]
+[b]Candy:[/b] It’s a deal. [i][aside][/i] Heh, a profit of 990 dollars.
+"

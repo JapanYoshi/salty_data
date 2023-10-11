@@ -1,0 +1,115 @@
+[root]
+type = "N"
+
+[pretitle]
+v = "random"
+
+[title]
+t = "Party Till We Die, Then Respawn!"
+v = "title"
+s = "“Party Till We Die, Then Respawn!”"
+
+[intro]
+v = "intro"
+s = "
+[b]Daisy:[/b] Wait, hold on a second! Candy...[#2684#]
+Do you even know what There’s Something About Amy comes from?[#5334#]
+[b]Candy:[/b] Eh, not really.[#6381#]
+I saw it had Sonic the Hedgehog in it, but I didn’t recognize anyone else.[#9627#]
+[b]Daisy:[/b] Seriously?! You don’t even know who Amy was?[#12440#]
+Or Tails, for that matter?[#14321#]
+[b]Candy:[/b] Uh, should I?[#15390#]
+[b]Daisy:[/b] Oh my God—Do you know anything about the Sonic the Hedgehog franchise?[#19271#]
+[b]Candy:[/b] Well, he’s a hedgehog, he’s blue, he runs real fast,[#23728#]
+aaand everyone has been dunking on every game in that series since Sonic ’06.[#27829#]
+I’ve never played any of those myself. I’m more of a Mario girl, anyway.[#30999#]
+[b]Daisy:[/b] This is embarrassing. Here, let me ask a question that’s all about Sonic.[#36625#]
+[b]Candy:[/b] Uh, how about heck no.[#38314#]
+[b]Miles:[/b] Candy, you know there’s no reasoning with Daisy, right?[#40516#]
+[b]Candy:[/b] Yeah, okay, fine. But you just get one. And make it quick.[#43621#]
+[b]Daisy:[/b] Yay! Okay, I’m going to show you a few association chains...[#47384#]
+Some Daisy chains, if you will! Oo, that sounds like a good—[#50526#]
+[b]Candy:[/b] We already called it “Big Brain Storming”, Daisy.[#52544#]
+[b]Daisy:[/b] Right, right, sorry. Uh,[#54901#]
+ in that case, what I wanna ask is...
+"
+
+[question]
+t = "What would Tails the Fox, Infinite the Jackal, and Whisper the Wolf have in common, [#4355#]if they were biologically accurate?"
+v = "question"
+s = "
+What would Tails the Fox, Infinite the Jackal, and Whisper the Wolf have in common,[#4355#]
+if they were biologically accurate?
+"
+
+[options]
+t = [
+"They could all be found in the Americas.",
+"They would all change partners every year.",
+"They would all be within the [i]Canis[/i] family.",
+"They could all eat Sonic.",
+]
+v = "options"
+s = "
+they could all be found in the Americas,[#1797#]
+they would all change partners every year,[#3648#]
+they would all be within the [i]Canis[/i] family,[#5571#]
+or they could all eat Sonic?
+"
+i = 3
+
+[used_lifesaver]
+v = "random"
+
+[reveal]
+v = "random"
+
+[reveal_crickets]
+v = "random"
+
+[reveal_jinx]
+v = "random"
+
+[reveal_split]
+v = "random"
+
+[reveal_correct]
+v = "random"
+
+[option0]
+v = "option0"
+s = "
+[b]Daisy:[/b] Nope, jackals are native to Africa and Eurasia, not the Americas.
+"
+
+[option1]
+v = "option1"
+s = "
+[b]Daisy:[/b] Nuh uh, foxes, jackals, and wolves are all loyal monogamists.[#4723#]
+[b]Candy:[/b] More loyal than certain humans, I take it.
+"
+
+[option2]
+v = "option2"
+s = "
+[b]Daisy:[/b] Nope, foxes are in the Vulpes family.[#2480#]
+[b]Candy:[/b] Explains why a Vulpix is a fox Pokémon."
+
+[option3]
+v = "option3"
+s = "
+[b]Daisy:[/b] Foxes, jackals, and wolves are all canine predators of the hedgehog.
+"
+
+[outro]
+v = "outro"
+s = "
+[b]Candy:[/b] Wait, so, all these hedgehogs and other animals are anthropomorphic, like Sonic is, right?[#4408#]
+[b]Daisy:[/b] Mmhm.[#5532#]
+[b]Candy:[/b] So on the back of a question about a girl pummeling a guy with an oversized hammer,[#10368#]
+you now ask a question about which characters are most likely to commit cannibalism?[#15018#]
+[b]Daisy:[/b] Yeah, pretty much.[#16716#]
+[#17622#]
+[b]Candy:[/b] I’m sensing a pattern with you, now.[#18795#]
+[b]Daisy:[/b] Really? What took you so long?
+"

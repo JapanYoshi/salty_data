@@ -1,0 +1,92 @@
+[root]
+type = "N"
+
+[pretitle]
+v = "random"
+
+[title]
+t = "Suede Shoes, Corn Moons, and Hawaii"
+v = "title"
+s = "
+“Suede Shoes, Corn Moons, and Hawaii”.
+"
+
+[intro]
+v = "intro"
+s = "I can’t get that dang [i]I’m Blue[/i] song out of my head.[#3018#]
+And I actually love Eurodance music! But now that the subject’s on Blue..."
+
+[question]
+t = "Suppose a Schlager band covered [i]Blue (Da Ba Dee).[/i] [#7359#]Considering what the German word for “blue” is slang for, what would the title mean to them?"
+v = "question"
+s = "
+[i](starts reading, but breaks down in laughter)[/i][#2932#]
+[i][beat][/i][#4197#]
+Suppose a Schlager band covered [i]Blue (Da Ba Dee).[/i][#7359#]
+Considering what the German word for “blue” is slang for, what would the title mean to them?
+"
+
+[options]
+t = [
+"Sick (Da Ba Dee Da Ba Dai)",
+"Dead (Da Ba Dee Da Ba Dai)",
+"Drunk (Da Ba Dee Da Ba Dai)",
+"Rich (Da Ba Dee Da Ba Dai)",
+]
+v = "options"
+s = "
+Sick (Da Ba Dee Da Ba Dai), Dead (Da Ba Dee Da Ba Dai), Drunk (Da Ba Dee Da Ba Dai), or Rich (Da Ba Dee Da Ba Dai)
+"
+i = 2
+
+[used_lifesaver]
+v = "random"
+
+[reveal]
+v = "random"
+
+[reveal_crickets]
+v = "random"
+
+[reveal_jinx]
+v = "random"
+
+[reveal_split]
+v = "random"
+
+[reveal_correct]
+v = "random"
+
+[option0]
+v = "option0"
+s = "
+[b]Daisy:[/b] [in exaggerated Valley Girl voice] Ohh my gosh, that was [i]so[/i] not sick.[#2477#]
+[b]Candy:[/b] [in exaggerated Valley Girl voice] I know, right? Like, totally un-fetch.
+"
+
+[option1]
+v = "option1"
+s = "
+[b]Candy:[/b] Dearly beloved we are gathered here today to mourn the loss of your chances to win this game.
+"
+
+[option2]
+v = "option2"
+s = "
+[b]Candy:[/b] The German phrase [i]blau sein[/i] literally means “to be blue”,[#3568#]
+but also describes someone who’s hit the Jäger too hard.
+"
+
+[option3]
+v = "option3"
+s = "
+[b]Candy:[/b] No, you’re thinking of “blue-blooded”, da ba dee da ba dai. Like mollusks, lobsters, and even spiders.[#5312#]
+[b]Daisy:[/b] That just tempts me to try squishing them even more.
+"
+
+[outro]
+v = "outro"
+s = "
+Apparently it came from when clothiers collected high-alcohol urine from bar patrons in order to da-ba-dye their cloths blue.[#6188#]
+There’s the fan disservice you’ve come to expect from this kind of bottom-of-the-barrel game.
+"

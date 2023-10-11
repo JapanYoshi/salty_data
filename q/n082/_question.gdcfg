@@ -1,0 +1,96 @@
+[root]
+type = "N"
+
+[pretitle]
+v = "random"
+
+[title]
+t = "And Now, the Moment You’ve Been Dredd-ing..."
+v = "title"
+s = "
+“And Now, the Moment You’ve Been Dredd-ing...”.
+"
+
+[intro]
+v = "intro"
+s = "
+I watched Judge Dredd starring Sylvester Stallone lately.[#3175#]
+For those of you who don’t watch 22’s on Rotten Tomatoes, he’s a “street judge”,[#8097#]
+a police officer who has the discretion to try and sentence criminals on the spot.[#12628#]
+Hmm, where have I seen this on the news? Anyway...
+"
+
+[question]
+t = "Suppose Judge Dredd used a dagger for the same reason a gyōji, a judge in sumo wrestling, is traditionally expected to. [#7271#]What is he [b]most likely[/b] doing?"
+v = "question"
+s = "
+Suppose Judge Dredd used a dagger for the same reason a gyōji,[#3791#]
+a judge in sumo wrestling, is traditionally expected to.[#7248#]
+What is he most likely doing?
+"
+
+[options]
+t = [
+"stabbing a mob of rowdy spectators",
+"killing the accused for disrespecting the court",
+"fighting off a religious protester",
+"apologizing for a wrong verdict with his life",
+]
+v = "options"
+s = "
+Stabbing a mob of rowdy spectators,[#2078#]
+killing the accused for disrespecting the court,[#4429#]
+fighting off a religious protester,[#6240#]
+or apologizing for a wrong verdict with his life?
+"
+i = 3
+
+[used_lifesaver]
+v = "random"
+
+[reveal]
+v = "random"
+
+[reveal_crickets]
+v = "random"
+
+[reveal_jinx]
+v = "random"
+
+[reveal_split]
+v = "random"
+
+[reveal_correct]
+v = "random"
+
+[option0]
+v = "option0"
+s = "
+That “rowdy mob of spectators” would probably just be people leaving the cinema after watching that abomination of a movie.[#6652#]
+Either they or Sylvester deserve it, but it’s wrong.
+"
+
+[option1]
+v = "option1"
+s = "
+“The court”? What part of “street judge” did you not understand?
+"
+
+[option2]
+v = "random"
+
+[option3]
+v = "option3"
+s = "
+If a gyōji misjudges a game, he is traditionally expected to apologize[#3881#]
+by committing honorable suicide by stabbing his own abdomen,[#7538#]
+which is called hara-kiri or seppuku.
+"
+
+[outro]
+v = "outro"
+s = "
+Fortunately, the dagger is only a symbolic gesture now.[#2800#]
+Just as Chief Judge McGruder voluntarily exiled herself for misjudging,[#7320#]
+a misjudging gyōji just has someone on Twitter start a rumor that he’s a pedophile.
+"

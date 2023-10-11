@@ -1,0 +1,86 @@
+[root]
+type = "N"
+
+[pretitle]
+v = "random"
+
+[title]
+t = "This Mortal Tesla Coil"
+v = "title"
+s = "“This Mortal Tesla Coil”."
+
+[intro]
+v = "intro"
+s = "I’m just trying to distract myself from my hunger with random topics,[#2918#]
+but gee, are Tesla coils pretty awesome or what?[#6375#]
+I mean, charging up enough electricity in one place to induce artificial lightning?[#11314#]
+What better way to give Zeus the middle finger!"
+
+[question]
+t = "Suppose Candy was killed by electrocution from standing too close to a Tesla coil. [#4304#]Which one of these [i]CSI: Miami[/i]-style one-liners would be the [b]least[/b] scientifically accurate?"
+v = "question"
+s = "Suppose I was killed by electrocution from standing too close to a Tesla coil. [#4304#]Which one of these [i]CSI: Miami[/i]-style one-liners would be the [i]least[/i] scientifically accurate?"
+
+[options]
+t = [
+"It looks like she couldn’t conduct herself.",
+"It looks like she isn’t insulated from her bad choices.",
+"It looks like she took charge of the area.",
+"It looks like she was grounded in the moment.",
+]
+v = "options"
+s = "“It looks like she...[#1350#]couldn’t conduct herself.”,[#3255#]
+“It looks like she...[#4784#]isn’t insulated from her bad choices.”,[#7324#]
+“It looks like she...[#8923#]took charge of the area.”,[#10640#]
+or “It looks like she...[#12804#]was grounded in the moment.”?"
+i = 0
+
+[used_lifesaver]
+v = "random"
+
+[reveal]
+v = "random"
+
+[reveal_crickets]
+v = "random"
+
+[reveal_jinx]
+v = "random"
+
+[reveal_split]
+v = "random"
+
+[reveal_correct]
+v = "random"
+
+[option0]
+v = "option0"
+s = "
+If I was electrocuted, that must mean that I [i]was[/i] grounded, I [i]wasn’t[/i] insulated,[#4583#]
+and electrical charge conducted through my body.[#6935#]
+So I very much would have conducted myself.
+"
+
+[option1]
+v = "option1"
+s = "
+Actually, [i]you’re[/i] the one who is not insulated from your bad choices.
+"
+
+[option2]
+v = "option2"
+s = "
+Okay then, I’m charging you for that response.
+"
+
+[option3]
+v = "option3"
+s = "
+This is your captain speaking. You’re about to crash and burn.
+"
+
+[outro]
+v = "outro"
+s = "
+But man, what a flashy way to go.
+"

@@ -1,0 +1,98 @@
+[root]
+type = "N"
+
+[pretitle]
+v = "random"
+
+[title]
+t = "Girl, You’re Looking Fine-ancial"
+v = "title"
+s = "“Girl, You’re Looking Fine-ancial”."
+
+[intro]
+v = "intro"
+s = "
+[b]Candy:[/b] Okay, I just checked my banking app, and[#2230#]
+apparently there’s been a few transactions over the last few days I don’t recognize.[#6710#]
+They’re probably by Kyle—[#8600#]
+he has my bank account details, that’s how much I love him—[#11057#]
+but something smells fishy here.[#13571#]
+[b]Miles:[/b] [i](in unison)[/i] Uh oh.
+[b]Daisy:[/b] [i](in unison)[/i] Uh oh.
+"
+
+[question]
+t = "Unless Kyle quit his traditional keto diet in the last few days, [#3961#]which of these food purchases is [b]least likely[/b] to be for him?"
+v = "question"
+s = "
+[b]Candy:[/b] Unless Kyle quit his traditional keto diet in the last few days,[#3961#]
+which of these food purchases is least likely to be for him?
+"
+
+[options]
+t = [
+"steamed salmon with carrot sauté",
+"dumplings and fried rice",
+"chicken fajitas on lettuce",
+"avocado breakfast smoothie",
+]
+v = "options"
+s = "
+Steamed salmon with carrot sauté,[#2326#]
+dumplings and fried rice,[#4060#]
+chicken fajitas on lettuce,[#6019#]
+or avocado breakfast smoothie?
+"
+i = 1
+
+[used_lifesaver]
+v = "random"
+
+[reveal]
+v = "random"
+
+[reveal_crickets]
+v = "random"
+
+[reveal_jinx]
+v = "random"
+
+[reveal_split]
+v = "random"
+
+[reveal_correct]
+v = "random"
+
+[option0]
+v = "random"
+
+[option1]
+v = "option1"
+s = "
+Dumplings and fried rice are high in carbohydrates,[#2771#]
+which is bad for a high-fat, low-carb diet like keto.
+"
+
+[option2]
+v = "option2"
+s = "
+[b]Candy:[/b] Look, this one is so far off the mark that I actually kinda feel sorry for you.[#3915#]
+[b]Daisy:[/b] Lettuce apologize. Romaine-nasai![#7663#]
+[b]Candy:[/b] You need to stop listening to Vocaloid for about a week.
+"
+
+[option3]
+v = "option3"
+s = "
+Hey, as long as it isn’t in sushi, I’m cool with avocado.
+"
+
+[outro]
+v = "outro"
+s = "
+[b]Candy:[/b] What was Kyle doing at a Chinese restaurant at like 9PM, anyway?[#3919#]
+What is he hiding from me? Should I change my bank account passcode?[#7176#]
+[b]Daisy:[/b] Hey Candy, just wanted to thank you for the yummy dumplings I bought with your money.[#10580#]
+[b]Candy:[/b] When did you— Okay, I’m defos changing my bank account passcode. And you owe me 20 dollars.[#16238#]
+[b]Daisy:[/b] No fair! It only cost $18.89!
+"

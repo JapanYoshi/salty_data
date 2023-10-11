@@ -1,0 +1,88 @@
+[root]
+type = "N"
+
+[pretitle]
+v = "random"
+
+[title]
+t = "Subscribe to My OnlyFans for Nightly Sleep Streams"
+v = "title"
+s = "
+“Subscribe to My OnlyFans for Nightly Sleep Streams”.
+"
+
+[intro]
+v = "intro"
+s = "So I got some guy on Instagram telling me that he’s gonna kill me during this game today.[#4479#]
+Weird way to slide into my DMs, but he did start by saying he[#8371#]
+“watches me while I’m asleep”,[#10754#]
+which is some serious stalker business."
+
+[question]
+t = "Considering that he has eyes with no eyelids, which Creepypasta character would find it the easiest to watch me sleep?"
+v = "question"
+s = "
+Considering that he has eyes with no eyelids,[#2665#]
+which Creepypasta character would find it the easiest to watch me sleep?
+"
+
+[options]
+t = [
+"BEN Drowned",
+"Jeff the Killer",
+"Slenderman",
+"Zalgo",
+]
+v = "options"
+s = "
+BEN Drowned, Jeff the Killer, Slenderman, or Zalgo?"
+i = 1
+
+[used_lifesaver]
+v = "random"
+
+[reveal]
+v = "random"
+
+[reveal_crickets]
+v = "random"
+
+[reveal_jinx]
+v = "random"
+
+[reveal_split]
+v = "random"
+
+[reveal_correct]
+v = "random"
+
+[option0]
+v = "option0"
+s = "You’ve met with a terrible answer, haven’t you?"
+
+[option1]
+v = "option1"
+s = "
+It is written that Jefferey Woods carved his face into a permanent smile and burned off his eyelids,[#5814#]
+turning himself into “the Killer”, both in name and actions.
+"
+
+[option2]
+v = "option2"
+s = "
+Yep, Slenderman has no eyelids.[#2139#]
+He also doesn’t have any eyes, or a face in general, so he’s not the right answer this time. Sorry!
+"
+
+[option3]
+v = "option3"
+s = "
+It’s coming. It’s soon. And it’s bad.[#3919#]
+I’m talking about a penalty to your score, by the way.
+"
+
+[outro]
+v = "outro"
+s = "
+Don’t ask me why I know this stuff about creepypastas. I was just a dumb edgy kid in the 2000s.
+"

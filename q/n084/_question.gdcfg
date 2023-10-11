@@ -1,0 +1,113 @@
+[root]
+type = "N"
+
+[pretitle]
+v = "pretitle"
+s = "
+[b]Candy:[/b] Comin’ up to Number 12:
+"
+
+[title]
+t = "I’ve Got 206 Bones to Pick with You!"
+v = "title"
+s = "
+[i](wood shattering)[/i]
+[b]Candy:[/b] What the—[#1632#]
+Hey, who’s that guy with the sledgehammer behind what used to be the door?
+"
+
+[intro]
+v = "intro"
+s = "
+[b]killer:[/b] After months, I’ve finally found you, Candy Barre! You’ll pay for spinning all my threats into jokes![#4755#]
+[b]Candy:[/b] Y’know, if you wanted me to pay, you could’ve joined the game for a chance to win some sweet cash.[#9140#]
+[b]killer:[/b] That’s not what I meant and you know it![#10914#]
+[b]Candy:[/b] How’d you get in here, anyway?[#12228#]
+[b]killer:[/b] What do you mean, “how’d you get in here”?! You just said “it’s studio 3A” and let me in![#16542#]
+[b]Candy:[/b] You mean that wasn’t my food delivery just now? Urgh! How much longer are they gonna make me wait?![#21810#]
+[b]killer:[/b] Shut up! Just shut up! Or I’ll shatter every bone in your body with my sledgehammer,[#26503#]
+from the largest one to the smallest![#28303#]
+[b]Candy:[/b] [i][insincerely][/i] Oh no![#30023#]
+"
+
+[question]
+t = "From the largest to the smallest, which are the first and last bones he plans to break?"
+v = "question"
+s = "
+[b]Candy:[/b] Which are the first and last bones he plans to break?
+[b]killer:[/b] I told you to stop doing that!
+"
+
+[options]
+t = [
+"her pelvis and her incudes",
+"her radii and her lacrimal bones",
+"her femurs and her stapedes",
+"her tibiae and her mallei",
+]
+v = "options"
+s = "
+[b]Candy:[/b] my pelvis and my incudes, my radii and my lacrimal bones, my femurs and my stapedes, or my tibiae and my mallei?
+"
+i = 2
+
+[used_lifesaver]
+v = "random"
+
+[reveal]
+v = "random"
+
+[reveal_crickets]
+v = "random"
+
+[reveal_jinx]
+v = "random"
+
+[reveal_split]
+v = "random"
+
+[reveal_correct]
+v = "random"
+
+[option0]
+v = "option0"
+s = "
+[b]Candy:[/b] Hips don’t lie, but they occasionally lead you to the wrong answer.[#3053#]
+[b]killer:[/b] How’s that supposed to relate to that option?[#5161#]
+[b]Candy:[/b] Duh, the pelvis is where the sockets for the hip joints are. How can you threaten to steal my bones without knowing which is which?
+"
+
+[option1]
+v = "option1"
+s = "
+[b]Candy:[/b] Oh, so close. The lacrimal bones are not the smallest bones in my body,[#4032#]
+but the smallest bones in this cute lovable face of mine.[#7376#]
+[b]killer:[/b] Are you provoking me?[#9008#]
+You [i]are[/i] provoking me.
+"
+
+[option2]
+v = "option2"
+s = "
+[b]Candy:[/b] The femurs, also known as the thigh bones, are the biggest and strongest bones in your body.[#4468#]The stapedes, also known as the stirrup bones, are one of the three bones in your inner ear,[#9306#]
+and the smallest bones in your body overall.
+"
+
+[option3]
+v = "random"
+
+[outro]
+v = "outro"
+s = "
+[b]killer:[/b] Dude, why aren’t you afraid? Why aren’t you screaming your dress off?[#3256#]
+[b]Candy:[/b] Because Daisy.
+[b]killer:[/b] Daisy?[#5152#]
+[i](kick to the groin)[/i]
+[b]killer:[/b] (heaves and keels over in pain)
+[b]Daisy:[/b] Hi, I’m Daisy.[#7579#]
+[b]Candy:[/b] Wow, that was a clean kick to the balls. Like a double Pelé. Thanks for saving my bacon there, Daisy.[#13340#]
+[b]Daisy:[/b] Ooh, nice sledgehammer! Can I keep it?[#15228#]
+[b]Candy:[/b] I mean, maybe until this guy’s handed over to the cops. Just don’t smash any of the equipment or staff.[#19427#]
+[b]Daisy:[/b] Gotcha. Oh, uh, speaking of bacon, your food’s waiting for you in the back.[#24015#]
+[b]Candy:[/b] Oh, it’s ABOUT DAMN TIME IT—
+"

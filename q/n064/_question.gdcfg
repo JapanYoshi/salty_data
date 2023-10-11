@@ -1,0 +1,116 @@
+[root]
+type = "N"
+
+[pretitle]
+v = "pretitle"
+s = "The next wave is called:"
+
+[title]
+t = "Thanks, Wrong Purple Lizard!"
+v = "title"
+s = "“Thanks, Wrong Purple Lizard!”"
+
+[intro]
+v = "intro"
+s = "
+[b]Candy:[/b] Sometimes I wonder if the people who create children’s characters have some sort of hidden standard for how they have to look.[#5827#]
+I mean, look at the resemblance between Barney the Dinosaur and Spyro the Dra—[#9577#]
+Oh no, no no no, don’t get me started on this![#12856#]
+[b]Miles:[/b] What’s the matter, Candy?[#13927#]
+[b]Candy:[/b] It’s a Spyro the Dragon question.[#15534#]
+[b]Miles:[/b] What’s wrong with that? Spyro is a classic![#17563#]
+[b]Candy:[/b] Are you kidding me? It’s one of the worst 3D games I’ve ever had the displeasure of growing up with.[#22497#]
+[b]Miles:[/b] You serious? The game is a PlayStation landmark and often praised as one of the best ever made on the platform.[#27984#]
+Did we even play the same thing?[#29542#]
+[b]Candy:[/b] I don’t know, is the Japanese version different from the American version?[#32610#]
+[b]Miles:[/b] Actually, yeah, that explains it.[#34379#]
+The Japanese port is notoriously bad...
+"
+
+[question]
+t = "
+Which of these grievances of Candy’s about [i]Spyro the Dragon[/i] was [b]not[/b] caused by a bad decision by the Japanese localization team?
+"
+v = "question"
+s = "
+[b]Miles:[/b] Which of these grievances of Candy’s about Spyro the Dragon[#2987#]
+was [i]not[/i] caused by a bad decision by the Japanese localization team?
+"
+
+[options]
+t = [
+"The soundtrack is grating to listen to.",
+"Spyro moves incredibly slowly.",
+"The camera is slow and zoomed out.",
+"You need a peripheral to unlock all the content.",
+]
+v = "options"
+s = "
+[b]Candy:[/b] The soundtrack is grating to listen to![#2500#]
+Spyro moves incredibly slow and it takes forever to get anywhere![#6233#]
+I can’t see where I’m going with that slow, zoomed-out camera![#9723#]
+[b]Miles:[/b] Or:
+[b]Candy:[/b] Worst of all, you need a peripheral to unlock all the content!
+"
+i = 0
+
+[used_lifesaver]
+v = "_used_lifesaver_miles"
+
+[reveal]
+v = "_reveal_miles"
+
+[reveal_crickets]
+v = "_reveal_crickets_miles"
+
+[reveal_jinx]
+v = "_reveal_jinx_miles"
+
+[reveal_split]
+v = "_reveal_split_miles"
+
+[reveal_correct]
+v = "_reveal_correct_miles"
+
+[option0]
+v = "option0"
+s = "
+[b]Miles:[/b] The Japanese version of Spyro the Dragon drastically lowered the movement speed,[#3896#]
+overhauled the in-game camera, and added support for an external peripheral.[#7613#]
+But the soundtrack did not change in any version of the game.
+"
+
+[option1]
+v = "option1"
+s = "
+[b]Miles:[/b] Did you try holding the “charge” button?[#1721#]
+[b]Candy:[/b] I did, but I was like still only marginally faster than a Roomba.
+"
+
+[option2]
+v = "option2"
+s = "
+[b]Miles:[/b] What’s so bad about the movement and camera?[#1834#]
+[b]Candy:[/b] The camera wouldn’t follow you unless you held down the triangle button all the time.[#5535#]
+And good luck moving towards the bottom of the screen, because you can’t see where you’re going![#9349#]
+[b]Miles:[/b] Okay, that would be a problem.
+"
+
+[option3]
+v = "option3"
+s = "
+[b]Miles:[/b] What’s this about a peripheral?[#1412#]
+[b]Candy:[/b] Well, there’s this thing called a PocketStation, which mom wouldn’t let me have,[#5714#]
+that you plug into your memory card slot.[#7791#]
+It was necessary to unlock all the stuff to find and do.[#10551#]
+It’s no better than paywalls these days![#12596#]
+[b]Miles:[/b] That’s kind of pushing it, but I can understand how that’s frustrating.
+"
+
+[outro]
+v = "outro"
+s = "
+[b]Miles:[/b] Now, come on, Candy. We have a quiz show to host! Let’s read the question for real now.[#3847#]
+[b]Candy:[/b] I refuse. One single question about that terrible game and you’ve opened up Pandora’s Xbox.[#9317#]
+[b]Miles:[/b] [i](sigh)[/i] Alright, fine, I’ll do it myself.
+"
