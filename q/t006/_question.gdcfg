@@ -1,0 +1,90 @@
+[root]
+type = "T"
+
+[pretitle]
+v = "random"
+
+[title]
+t = "No Soap Opera is Complete Without a Death Threat"
+v = "title"
+s = "“No Soap Opera is Complete Without a Death Threat”."
+
+[thou_segue]
+v = "thou_segue"
+s = "Here’s what you’ve been dying to see: a Thousand-Question Question."
+
+[thou_tute0]
+v = "random"
+s = ""
+
+[thou_tute1]
+v = "random"
+s = ""
+
+[thou_tute2]
+v = "random"
+s = ""
+
+[thou_intro]
+v = "thou_intro"
+s = "Get ready to press away, ’cause here I come."
+
+[question]
+t = "[#1771#]Claire [#2459#]→ Hugh [#3816#]→ Isabel [#5115#]→ Dave [#6239#]→ Trevor [#7315#]→ Toby [#8958#]→ Felix [#10294#]→ Alexey [#13426#]→ Sheila [#15118#]→ Brian → [#16300#]Regina → [#17405#]Harry → [#19747#]Gillian → [#21300#]Claire. [#23331#]What would you call that situation?"
+v = "question"
+s = "
+So in this soap opera I’m watching, Claire loves Hugh, but Hugh’s in a relationship with Isabel,[#4525#]
+who has a crush on Dave, who’s actually gay for Trevor, but he’s dating Toby, who’s secretly cheating on him with Felix.[#9643#]
+He got on with Alexey at an office party, but turns out Alexey attended just to see Sheila,[#14076#]
+who’s friends with benefits with Brian, who’s engaged with Regina, who meets with Harry every Wednesday evening,[#18792#]
+who sends love letters to Gillian, who’s childhood friends with Claire.[#21838#]
+Got all that? Great.[#23331#]
+What would you call that situation?
+"
+
+[options]
+t = [
+  "a love heptagon",
+  "a love icosagon",
+  "a love hendecagon",
+  "a love tridecagon",
+]
+v = "options"
+s = "
+A love heptagon, a love icosagon, a love hendecagon, or a love tridecagon?
+"
+i = 3
+
+[reveal_correct]
+v = "random"
+
+[option0]
+v = "option0"
+s = "A heptagon has 7 sides, but you didn’t get lucky this time."
+
+[option1]
+v = "option1"
+s = "An icosagon has 20 sides, which is way more than what I mentioned.[#3995#]
+Though if you let a weekly telenovela or anime run for long enough, it’ll get there."
+
+[option2]
+v = "option2"
+s = "A hendecagon is one side short of a dozen,[#2974#]
+much like you’re one egg short of a dozen."
+
+[option3]
+v = "option3"
+s = "A polygon with 13 sides is called a tridecagon,[#2986#]
+so a situation with 13 one-sided loves in a loop[#6220#]
+would be called a love tridecagon."
+
+[outro]
+v = "outro"
+s = "
+You know, I don’t even know why I watch that stuff.[#1952#]
+I just play it on the TV when I’m home alone so it sounds like I have an exciting life.
+"
+
+[skip]
+v = "random"
+s = ""
