@@ -1,0 +1,153 @@
+[root]
+type = "O"
+
+[pretitle]
+v = "pretitle"
+s = "[b]Candy:[/b] The next question is..."
+
+[title]
+t = "Guns, Germs, and Meals"
+v = "title"
+s = "
+[#682#]...Screw this. I’ve been waiting half an hour before the start of the show![#3434#]Can’t a girl get some lunch over here?!
+"
+
+[preintro]
+v = "preintro"
+s = "
+[b]Candy:[/b] I cannot work on an empty stomach! I’m getting sick![#3716#]
+At this rate, I’m gonna chomp someone’s face off before I get my order![#7205#]
+My stomach is imploding! I’m seriously getting hangry over here![#11105#]
+Speaking of which, who the hell invented the word “hangry”?![#13478#]
+Just because they’re the only two words in the English language that end with “-gry”, doesn’t mean they should go together![#19449#]
+Sure it may be useful, but it’s just smooshing them together![#22455#]
+It’s not even clever! It’s some stupid fu—[#24680#]
+[i](door knock)[/i][#25904#]
+[b]Candy:[/b] Who the hell is there?![#27226#]
+[i](door opens)[/i]
+[b]Ozzy:[/b] Crikey, and they call me an angry bastard.
+"
+
+[intro]
+v = "intro"
+s = "
+[b]Ozzy:[/b] Alright, kiddo, the hell are you carrying on like a pork chop for?[#4231#]
+[b]Candy:[/b] It’s taking hours for that damn Uber Eats to come through.[#6910#]
+[b]Ozzy:[/b] Uber Eats? What the hell is that?[#9030#]
+[b]Candy:[/b] You don’t know it? It’s an app that lets you order food from pretty much anywhere, on your phone, and have someone—[#14338#]
+apparently a massive slowpoke on a snail-speed moped this time, mind you—[#20068#]
+deliver it to you.[#21139#]
+[b]Ozzy:[/b] Oh! So you get some random guy to get on the scooter and go for a pizza run, huh?[#26697#]
+When I was young, we had to ask the neighbors to do it for us because we couldn’t be arsed to get off the couch.[#32059#]
+[b]Candy:[/b] I dunno what that means, but okay.[#33777#]
+[b]Ozzy:[/b] What did you order, anyway?[#35483#]
+[b]Candy:[/b] Well, just a couple hash browns from Macca’s,[#37909#]
+half a dozen pumpkin scones from Starbucks,[#39805#]
+a triple cup of Triple Mango from Baskin Robbins,[#42521#]
+and a large cup of bubble tea with chocolate sauce from a local shop.[#45577#]
+[b]Ozzy:[/b] F**kin’ hell, mate! Is that a lunch order, or a family buffet?[#49883#]
+That’s a heap of food. Why else do you think it’s taking an hour?[#53270#]
+[b]Candy:[/b] I mean, sure, I have a huge appetite, sue me,[#56073#]
+but an hour wait? It’s ridiculous![#59263#]
+It’s not like the restaurants are hauling ingredients across the Atlantic [i]after[/i] I place the order, is it?[#65190#]
+[b]Ozzy:[/b] Hey, you know something? That might not be too far off.
+"
+
+[question]
+t = "Out of Candy’s four lunch orders, only one of them is free of New World crops. [#11580#]Which one is it?"
+v = "question"
+s = "
+[b]Ozzy:[/b] Out of your four lunch orders, I noticed that only one of them is free of ingredients that are native to the Americas,[#6793#]
+otherwise known as “New World crops”.[#9211#]
+[b]Candy:[/b] Huh, come to think of it, you’re right.[#11084#]
+[b]Ozzy:[/b] Well, why don’t you tell me which one the hell it is?![#14348#]
+[b]Candy:[/b] And therefore the most plausible to have [i]all[/i] the ingredients hauled across the Atlantic after I ordered,[#19183#]
+as they [i]apparently[/i] have had?
+"
+
+[options]
+t = [
+"the hash browns",
+"the pumpkin scones",
+"the mango ice cream",
+"the chocolate bubble tea",
+]
+v = "options"
+s = "
+[b]Ozzy:[/b] The hash browns, the pumpkin scones, the mango ice cream, or the chocolate bubble tea?
+"
+i = 2
+
+[used_lifesaver]
+v = "random"
+
+[reveal]
+v = "random"
+
+[reveal_crickets]
+v = "random"
+
+[reveal_jinx]
+v = "random"
+
+[reveal_split]
+v = "random"
+
+[reveal_correct]
+v = "random"
+
+[option0]
+v = "option0"
+s = "
+[b]Candy:[/b] There’s hash browns, potato salad, French fries, vodka...[#4276#]
+Potatoes are a pretty integral part of Western cuisine.[#7504#]
+Which explains why potatoes are native—[#8727#]
+[b]Ozzy:[/b] They are from southen Peru, you dumbass![#11697#]
+[b]Candy:[/b] I was about to say that, Ozzy! It’s called misdirection!
+"
+
+[option1]
+v = "option1"
+s = "
+[b]Candy:[/b] Apparently you don’t know jack-o’-lantern about New World crops.[#3979#]
+[b]Ozzy:[/b] I don’t get it.[#5186#]
+[b]Candy:[/b] Do you, like, not know what Halloween is?[#7801#]
+[b]Ozzy:[/b] Nah, never celebrated it as a kid.[#10040#]
+[b]Candy:[/b] Makes sense, considering you seem like you were born before Halloween was invented.[#13897#]
+[b]Ozzy:[/b] Don’t make me slap you.
+"
+
+[option2]
+v = "option2"
+s = "
+[b]Ozzy:[/b] Potatoes, pumpkins, cacao beans, and cassava—[#3701#]
+[b]Candy:[/b] —whose starch boba is made of—[#5254#]
+[b]Ozzy:[/b] —are all crops originating in the Americas.[#7939#]
+Mangos were first discovered on the Indian subcontinent.
+"
+
+[option3]
+v = "option3"
+s = "
+[b]Candy:[/b] Do you... Do you actually not know where chocolate comes from?[#3995#]
+Wow, you’re a new level of stupid, aren’t you?[#6419#]
+[b]Ozzy:[/b] Besides, cassavas are a New World crop too, stupid.
+"
+
+[outro]
+v = "outro"
+s = "
+[b]Candy:[/b] In hindsight, maybe it was a bad idea to order ice cream through Uber Eats. It’s probably melted into sugary goo already.[#5035#]
+[b]Ozzy:[/b] Well, tough sh**, Candy, maybe you should’ve done some planning![#8699#]
+[b]Candy:[/b] Well, ex-CUSE ME, Ozzy, it’s not like I could have planned for[#11768#]my food to be AN HOUR OVERDUE, is it?!
+[i](intercom beeps)[/i][#14678#]
+[b]Candy:[/b] Oh, the intercom is ringing. Let me get that...[#16948#]
+[i](intercom beep stops)[/i]
+[b]Candy:[/b] Heyo?[#17887#]
+[b]doorman:[/b] Hi, uh, there’s someone at the door looking to see a... Candy Barre.[#22409#]
+[b]Candy:[/b] Oh, finally! Let him through. It’s Studio 3A.
+[i](intercom turns off)[/i][#25479#]
+[b]Candy:[/b] Ugh. looks like I’m [i]finally[/i] getting that order fulfilled.[#28808#]
+[b]Ozzy:[/b] And judging by the size of that order, you’re gonna need a bigger sh**ter afterwards.[#33759#]
+[b]Candy:[/b] See, this is why the whole room gets awkward when you host a question.
+"
