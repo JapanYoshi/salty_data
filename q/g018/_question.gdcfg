@@ -1,0 +1,77 @@
+[root]
+type = "G"
+
+[pretitle]
+v = "random"
+
+[title]
+t = "Mrs. Claus, the Crazy Cat Lady"
+v = "title"
+s = "
+“Mrs. Claus, the Crazy Cat Lady”.
+"
+
+[gib_tute0]
+v = "random"
+
+[gib_tute1]
+v = "random"
+
+[gib_tute2]
+v = "random"
+
+[gib_tute3]
+v = "random"
+
+[gib_tute4]
+v = "random"
+
+[gib_genre]
+v = "gib_category_phrase"
+t = "phrase"
+s = "With what [i]phrase[/i] does this rhyme?"
+
+[question]
+t = "Puss, purr here, Claus!"
+v = "question"
+s = "“Puss, purr here, Claus!”"
+
+[answer]
+t = "Worcestershire sauce"
+r = "^W.{5,20} ?SAUCE$"
+
+[clue0]
+v = "clue0"
+t = "It’s the name of a condiment..."
+s = "It’s the name of a condiment..."
+
+[clue1]
+v = "clue1"
+t = "...that nobody seems to know how to pronounce."
+s = "...that nobody seems to know how to pronounce."
+
+[clue2]
+v = "clue2"
+t = "Hey, don’t be a “wuss” and gimme the “sauce”!"
+s = "Hey, don’t be a “wuss” and gimme the “sauce”!"
+
+; always generic wrong answer. might override later if guest host happens
+[gib_wrong]
+v = "random"
+
+[reveal]
+v = "reveal"
+s = "Oh, don’t tell me you’ve never enjoyed fried foods with “puss purr here Claus”!"
+
+[outro]
+v = "outro"
+s = "Worcestershire sauce![#1537#]
+Fun fact: Since nobody seems to know how to spell it either,[#4475#]
+we just decided to give you the point as long as your answer starts with a W[#8416#]
+followed by at least 5 letters, and ends with “sauce”. You’re welcome."
+
+[buzz_in]
+v = "random"
+
+[skip]
+v = "random"

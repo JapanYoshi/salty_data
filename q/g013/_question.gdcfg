@@ -1,0 +1,78 @@
+[root]
+type = "G"
+
+[pretitle]
+v = "random"
+
+[title]
+t = "Destructive Problem-Solving"
+v = "title"
+s = "
+“Destructive Problem-Solving”.
+"
+
+[gib_tute0]
+v = "random"
+
+[gib_tute1]
+v = "random"
+
+[gib_tute2]
+v = "random"
+
+[gib_tute3]
+v = "random"
+
+[gib_tute4]
+v = "random"
+
+[gib_genre]
+v = "genre"
+t = "video game machine"
+s = "With what [i]video game machine[/i] does this rhyme?"
+
+[question]
+t = "Bomb the floor sticks before."
+v = "question"
+s = "“Bomb the floor sticks before.”"
+
+[answer]
+t = "Commodore 64"
+r = "^COMM?ODO[AEOU]?RE? (64|SIXTY[ \-]?FOUR)$"
+
+[clue0]
+v = "clue0"
+t = "It’s an 8-bit computer..."
+s = "It’s an 8-bit computer..."
+
+[clue1]
+v = "clue1"
+t = "...from an American company that’s no longer with us today. Rest in peace."
+s = "...from an American company that no longer exists."
+
+[clue2]
+v = "clue2"
+t = "The name contains the number 8×8."
+s = "The name contains the number 8 times 8."
+
+[gib_wrong]
+v = "random"
+
+[reveal]
+v = "reveal"
+s = "Not into PC games, I see?[#1653#]
+Well, you’re about to learn a thing or two about the “Bomb-the-floor sticks-before”."
+
+[outro]
+v = "outro"
+s = "
+The Commodore 64, one of the most successful and famous home computers in the world![#5150#]
+By which I mean the United States.[#6556#]
+Apparently the C64 bombed in the UK and Japan. Oops.
+"
+
+[buzz_in]
+v = "random"
+
+[skip]
+v = "random"

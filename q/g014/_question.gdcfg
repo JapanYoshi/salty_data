@@ -1,0 +1,80 @@
+[root]
+type = "G"
+
+[pretitle]
+v = "random"
+
+[title]
+t = "You’ve Got Gall to Challenge Your Host"
+v = "title"
+s = "
+“You’ve Got Gall to Challenge Your Host”.
+"
+
+[gib_tute0]
+v = "random"
+
+[gib_tute1]
+v = "random"
+
+[gib_tute2]
+v = "random"
+
+[gib_tute3]
+v = "random"
+
+[gib_tute4]
+v = "random"
+
+[gib_genre]
+v = "_gib_genre_cliche"
+t = "cliché"
+s = "With what [i]cliché[/i] does this rhyme?"
+
+[question]
+t = "“No, Ms. Barre!” said I. “Let’s argue!”"
+v = "question"
+s = "“‘No, Ms. Barre!’ said I. ‘Let’s argue!’”"
+
+[answer]
+t = "Roses are red. / Violets are blue."
+r = "^ROSE'?S ARE RED[ ,./]* V[AEIOU]{,2}LET'?S ARE BLUE.?$"
+
+[clue0]
+v = "clue0"
+t = "It’s the first two lines of a poem..."
+s = "It’s the first two lines of a poem..."
+
+[clue1]
+v = "clue1"
+t = "...about flowers and such."
+s = "A poem about flowers and such."
+
+[clue2]
+v = "clue2"
+t = "It’s followed by “Sugar is sweet, and so are you.”"
+s = "It’s followed by “Sugar is sweet, and so are you.”"
+
+; always generic wrong answer. might override later if guest host happens
+[gib_wrong]
+v = "random"
+
+[reveal]
+v = "reveal"
+s = "
+Oh come on, you’ve never written a poem like this to your crush,[#3429#]
+your literature teacher, or the YouTuber Jacksfilms?
+"
+
+[outro]
+v = "outro"
+s = "Roses be red. /
+Violets be violet. /[#1755#]
+My hair be on point /
+’Cause I always style it."
+
+[buzz_in]
+v = "random"
+
+[skip]
+v = "random"

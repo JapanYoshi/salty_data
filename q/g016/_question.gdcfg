@@ -1,0 +1,77 @@
+[root]
+type = "G"
+
+[pretitle]
+v = "random"
+
+[title]
+t = "Heads will be Bashed In"
+v = "title"
+s = "
+“Heads will be Bashed In”.
+"
+
+[gib_tute0]
+v = "random"
+
+[gib_tute1]
+v = "random"
+
+[gib_tute2]
+v = "random"
+
+[gib_tute3]
+v = "random"
+
+[gib_tute4]
+v = "random"
+
+[gib_genre]
+v = "gib_genre_saying"
+t = "saying"
+s = "With what [i]saying[/i] does this rhyme?"
+
+[question]
+t = "dumbbell for my slaughter"
+v = "question"
+s = "“Dumbbell for my slaughter”."
+
+[answer]
+t = "come Hell or high water"
+r = "^COME HELL OR HI(GH)? WATER[\.!]?$"
+
+[clue0]
+v = "clue0"
+t = "I have a goal to achieve...	"
+s = "You say this when you have a goal to achieve..."
+
+[clue1]
+v = "clue1"
+t = "...no matter the cost or obstacles.	"
+s = "...regardless of the cost or obstacles."
+
+[clue2]
+v = "clue2"
+t = "No afterlife or flood can stop me.	"
+s = "No afterlife or flood can stop me."
+
+; always generic wrong answer. might override later if guest host happens
+[gib_wrong]
+v = "random"
+
+[reveal]
+v = "reveal"
+s = "What a shame. It looks like you’ve never had something you really wanted to do,[#3956#]
+that you swear you’ll do it, unconditionally, no matter what,[#8110#]
+no ifs, ands, or buts, come what may,[#11172#]
+whatever it takes, one way or another, “dumbbell for my slaughter”."
+
+[outro]
+v = "outro"
+s = "One day, I’m gonna surpass the trivia hosts I look up to.[#2707#]Come Hell or high water."
+
+[buzz_in]
+v = "random"
+
+[skip]
+v = "random"

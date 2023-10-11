@@ -1,0 +1,81 @@
+[root]
+type = "G"
+
+[pretitle]
+v = "random"
+
+[title]
+t = "You Don’t Know Crack"
+v = "title"
+s = "
+“You Don’t Know Crack”.
+"
+
+[gib_tute0]
+v = "random"
+
+[gib_tute1]
+v = "random"
+
+[gib_tute2]
+v = "random"
+
+[gib_tute3]
+v = "random"
+
+[gib_tute4]
+v = "random"
+
+[gib_genre]
+v = "gib_genre_movie_quote"
+t = "movie quote"
+s = "With what [i]movie quote[/i] does this rhyme?"
+
+[question]
+t = "His butt, the fresh mooned."
+v = "question"
+s = "“His butt, the fresh mooned.”"
+
+[answer]
+t = "’Tis but a flesh wound."
+r = "^'?TI[SZ]{1,2} BUT A FLESH W[OU]{1,2}ND[\.!]?$"
+
+[clue0]
+v = "clue0"
+t = "It [i]is[/i] an injury..."
+s = "It [i]is[/i] an injury, yeah..."
+
+[clue1]
+v = "clue1"
+t = "...but it’s nothing more than an injury."
+s = "...but it’s nothing more than an injury."
+
+[clue2]
+v = "clue2"
+t = "You’ve only hurt the meat on my body."
+s = "You’ve only hurt the meat on my body."
+
+; always generic wrong answer. might override later if guest host happens
+[gib_wrong]
+v = "random"
+
+[reveal]
+v = "reveal"
+s = "Haven’t seen [i]Monty Python and the Holy Grail,[/i] have you?[#3040#]
+I’d physically attack you, but you’d say “His butt the fresh mooned”."
+
+[outro]
+v = "outro"
+s = "
+[b]Candy:[/b] “’Tis but a flesh wound.”[#1635#]
+Though the only time you can say that and mean it is if you’re in a cyberpunk world,[#4445#]
+or if you can regenerate like Doctor Who.[#7986#]
+[b]Daisy:[/b] What did I tell you about him not being “Doctor Who” but “The Doctor”, Candy?[#12646#]
+[b]Candy:[/b] Well, excuse me, Princess, I didn’t think these people would have understood that I don’t mean Dr. Bright otherwise!
+"
+
+[buzz_in]
+v = "random"
+
+[skip]
+v = "random"
