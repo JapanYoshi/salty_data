@@ -1,0 +1,101 @@
+[root]
+type = "R"
+
+[rush_intro]
+v = "random"
+
+[rush_tute0]
+v = "random"
+
+[rush_tute1]
+v = "random"
+
+[rush_tute2]
+v = "random"
+
+[rush_tute3]
+v = "random"
+
+[title]
+t = "Fifty Shades of More Colors"
+v = "title"
+s = "“Fifty Shades of More Colors”."
+
+[explanation]
+v = "explanation"
+s = "Do you know your color words?"
+
+[section0]
+q = "yellow, not red"
+o = [
+"amber",
+"gold",
+"ruby",
+"mustard",
+"coral",
+"cognac",
+]
+a = [1,1,0,1,0,0]
+
+[section1]
+q = "red, not green"
+o = [
+"lava",
+"raspberry",
+"emerald",
+"chartreuse",
+"rose",
+"moss",
+]
+a = [1,1,0,0,1,0]
+
+[section2]
+q = "green, not pink"
+o = [
+"fuchsia",
+"atlantis",
+"kiwi",
+"jade",
+"bubblegum",
+"phlox",
+]
+a = [0,1,1,1,0,0]
+
+[section3]
+q = "pink, not blue"
+o = [
+"denim",
+"cerise",
+"flamingo",
+"fandango",
+"wedgewood",
+"cerulean",
+]
+a = [0,1,1,1,0,0]
+
+[section4]
+q = "blue, not brown"
+o = [
+"auburn",
+"creole",
+"bronze",
+"sapphire",
+"navy",
+"azure",
+]
+a = [0,0,0,1,1,1]
+
+[section5]
+q = "brown, not gray"
+o = [
+"granite",
+"cumin",
+"russet",
+"sienna",
+"sepia",
+"flint",
+]
+a = [0,1,1,1,1,0]
+
+[skip]
+v = "_rush_skip"

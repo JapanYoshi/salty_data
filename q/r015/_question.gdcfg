@@ -1,0 +1,101 @@
+[root]
+type = "R"
+
+[rush_intro]
+v = "random"
+
+[rush_tute0]
+v = "random"
+
+[rush_tute1]
+v = "random"
+
+[rush_tute2]
+v = "random"
+
+[rush_tute3]
+v = "random"
+
+[title]
+t = "Dis-E’s"
+v = "title"
+s = "“Dis-E’s”."
+
+[explanation]
+v = "explanation"
+s = "Choose the correct answers that [i]don’t[/i] contain the letter E."
+
+[section0]
+q = "British monarchs without an E"
+o = [
+"William",
+"Victoria",
+"George",
+"David",
+"Charles",
+"John",
+]
+a = [1,1,0,0,0,1]
+
+[section1]
+q = "Pokémon without an E"
+o = [
+"Pikachu",
+"Squirtle",
+"Tinkaton",
+"Frodo",
+"Combusken",
+"Sawk",
+]
+a = [1,0,1,0,0,1]
+
+[section2]
+q = "post-Soviet states without an E"
+o = [
+"Poland",
+"Czechia",
+"Kazakhstan",
+"Tajikistan",
+"Bosnia",
+"Moldova",
+]
+a = [0,0,1,1,0,1]
+
+[section3]
+q = "titles without an E of songs by Queen"
+o = [
+"Bijou",
+"Ruby",
+"My Fairy King",
+"Get Down, Make Love",
+"Rain Must Fall",
+"How Long?",
+]
+a = [1,0,1,0,1,0]
+
+[section4]
+q = "US presidents without an E in their [i]first[/i] name"
+o = [
+"_____ Madison",
+"_____ Adams",
+"_____ Taylor",
+"_____ B. Johnson",
+"_____ A. Garfield",
+"_____ G. Harding",
+]
+a = [0,1,1,1,0,0]
+
+[section5]
+q = "numbers whose [i]Spanish[/i] word has no E"
+o = [
+"1",
+"3",
+"2",
+"8",
+"60",
+"1000",
+]
+a = [1,0,1,1,0,1]
+
+[skip]
+v = "_rush_skip"

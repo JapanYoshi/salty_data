@@ -1,0 +1,102 @@
+[root]
+type = "R"
+
+[rush_intro]
+v = "random"
+
+[rush_tute0]
+v = "random"
+
+[rush_tute1]
+v = "random"
+
+[rush_tute2]
+v = "random"
+
+[rush_tute3]
+v = "random"
+
+[title]
+t = "“-Cide” Hustle"
+v = "title"
+s = "“‘-Cide’ Hustle”."
+
+[explanation]
+v = "explanation"
+s = "Which of these committed the “-cide” word in question?[#2890#]
+I’m gonna hustle right towards my lunch, BRB."
+
+[section0]
+q = "patricide"
+o = [
+"Cesar Correia",
+"Chiyo Aizawa",
+"Oedipus",
+"Emperor Commodus",
+"Bobby Beale [i](Eastenders)[/i]",
+"Kylo Ren [i](Star Wars)[/i]",
+]
+a = [1,1,1,0,0,1]
+
+[section1]
+q = "regicide"
+o = [
+"Gaetano Bresci",
+"Sogdianus",
+"Dingane Zulu",
+"Joan of Arc",
+"Claudius [i](Hamlet)[/i]",
+"Maekar Targaryen [i](A Song of Ice and Fire)[/i]",
+]
+a = [1,1,1,0,1,0]
+
+[section2]
+q = "fratricide"
+o = [
+"Gaetano Bresci",
+"Sogdianus",
+"Dingane Zulu",
+"Cain",
+"Remus",
+"Genghis Khan",
+]
+a = [0,1,1,1,0,1]
+
+[section3]
+q = "suicide"
+o = [
+"Kurt Cobain",
+"Kevin Hines",
+"Alice Herz",
+">1500 self-immolators in India, 2001",
+"Kenneth Baldwin",
+"Jay Gatsby [i](The Great Gatsby)[/i]",
+]
+a = [1,0,1,1,0,0]
+
+[section4]
+q = "triple homicide or more"
+o = [
+"Charles J. Guiteau",
+"Jeffrey Dahmer",
+"Paul Bernardo",
+"Leon Czolgosz",
+"Lin Biao",
+"Yang Xinhai",
+]
+a = [0,1,1,0,0,1]
+
+[section5]
+q = "uxoricide"
+o = [
+"Emperor Nero",
+"Agrippina the Younger",
+"Henry VIII",
+"Phil Hartman",
+"Kim Jong-Un",
+"Othello [i](Othello)[/i]",
+]
+a = [1,0,1,0,0,1]
+
+[skip]
+v = "_rush_skip"

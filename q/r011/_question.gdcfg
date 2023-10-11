@@ -1,0 +1,106 @@
+[root]
+type = "R"
+
+[rush_intro]
+v = "random"
+
+[rush_tute0]
+v = "random"
+
+[rush_tute1]
+v = "random"
+
+[rush_tute2]
+v = "random"
+
+[rush_tute3]
+v = "random"
+
+[title]
+t = "This Song, Not That"
+v = "title"
+s = "“This Song, Not That”."
+
+[explanation]
+v = "explanation"
+s = "Which of these artists made a song called this, not that? Ignore the punctuation."
+
+[section0]
+q = "[i]Hold On[/i] (not [i]Let It Go[/i])"
+o = [
+"Jonas Brothers",
+"Wiz Khalifa",
+"Shawn Mendes",
+"Demi Lovato",
+"Adele",
+"Justin Bieber",
+]
+a = [1,0,1,0,1,1]
+
+[section1]
+q = "[i]Home[/i] (not [i]The City[/i])"
+o = [
+"Ed Sheeran",
+"Michael Bublé",
+"BTS",
+"Wu-Tang Clan",
+"One Direction",
+"Madeon",
+]
+a = [0,1,1,0,1,0]
+
+[section2]
+q = "[i]Without You[/i] (not [i]With You[/i])"
+o = [
+"Lil Wayne feat. Drake",
+"The Kid LAROI",
+"Mötley Crüe",
+"Linkin Park",
+"Chris Brown",
+"Drake feat. PARTYNEXTDOOR",
+]
+a = [0,1,1,0,0,0]
+
+[section3]
+q = "[i]Up[/i] (not [i]Down[/i])"
+o = [
+"Cardi B",
+"blink-182",
+"Justin Bieber",
+"Luke Bryan",
+"Chris Brown feat. Kanye West",
+"Olly Murs feat. Demi Lovato",
+]
+a = [1,0,1,1,0,1]
+
+[section4]
+q = "[i]Forever[/i] (not [i]Right Now[/i])"
+o = [
+"PSY",
+"Chris Brown",
+"Van Halen",
+"One Direction",
+"Justin Bieber feat. Post Malone and Clever",
+"Drake, Kanye West, Lil Wayne, and Eminem",
+]
+a = [0,1,0,0,1,1]
+
+[section5]
+q = "[i]The End[/i] (not [i]The Beginning[/i])"
+o = [
+"Seal",
+"Linkin Park",
+"The Doors",
+"My Chemical Romance",
+"John Legend",
+"The Beatles",
+]
+a = [0,
+1,
+1,
+1,
+0,
+1]
+
+[skip]
+v = "_rush_skip"

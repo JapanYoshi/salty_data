@@ -1,0 +1,101 @@
+[root]
+type = "R"
+
+[rush_intro]
+v = "random"
+
+[rush_tute0]
+v = "random"
+
+[rush_tute1]
+v = "random"
+
+[rush_tute2]
+v = "random"
+
+[rush_tute3]
+v = "random"
+
+[title]
+t = "Where are You [i]Really[/i] From, Word?"
+v = "title"
+s = "“Where are You [i]Really[/i] From, Word?”"
+
+[explanation]
+v = "explanation"
+s = "It takes a hell of a long time to naturalize, for people and for words. Good luck."
+
+[section0]
+q = "Italian"
+o = [
+"bingo",
+"bravo",
+"paint",
+"cantaloupe",
+"gusto",
+"antics",
+]
+a = [0,1,0,1,1,1]
+
+[section1]
+q = "Japanese"
+o = [
+"honcho",
+"emoji",
+"ketchup",
+"tycoon",
+"moxa",
+"rickshaw",
+]
+a = [1,1,0,1,1,1]
+
+[section2]
+q = "Yiddish"
+o = [
+"maven",
+"blitz",
+"glitch",
+"nibble",
+"schmaltz",
+"golem",
+]
+a = [1,0,1,0,1,1]
+
+[section3]
+q = "Hindustani (Hindi or Urdu)"
+o = [
+"pajama",
+"jungle",
+"balcony",
+"juggernaut",
+"bungalow",
+"cumquat",
+]
+a = [1,1,0,1,1,0]
+
+[section4]
+q = "Arabic"
+o = [
+"nudge",
+"candy",
+"lacquer",
+"lemon",
+"shale",
+"sofa",
+]
+a = [0,1,1,1,0,1]
+
+[section5]
+q = "Ukrainian"
+o = [
+"pierogi",
+"borscht",
+"kasha",
+"holodets",
+"Cossack",
+"babushka",
+]
+a = [0,1,1,0,1,0]
+
+[skip]
+v = "_rush_skip"

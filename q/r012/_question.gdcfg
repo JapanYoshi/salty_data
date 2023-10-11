@@ -1,0 +1,101 @@
+[root]
+type = "R"
+
+[rush_intro]
+v = "random"
+
+[rush_tute0]
+v = "random"
+
+[rush_tute1]
+v = "random"
+
+[rush_tute2]
+v = "random"
+
+[rush_tute3]
+v = "random"
+
+[title]
+t = "Public Ingredients"
+v = "title"
+s = "“Public Ingredients”."
+
+[explanation]
+v = "explanation"
+s = "What ingredients are these things typically made of? Good luck."
+
+[section0]
+q = "hummus"
+o = [
+"chickpea",
+"tahini",
+"sugar",
+"lemon juice",
+"onion",
+"salt",
+]
+a = [1,1,0,1,0,1]
+
+[section1]
+q = "Bloody Mary cocktail"
+o = [
+"vodka",
+"gin",
+"clam juice",
+"tomato juice",
+"worcestershier sauce",
+"salt",
+]
+a = [1,0,0,1,1,0]
+
+[section2]
+q = "traditional aïoli sauce"
+o = [
+"egg",
+"garlic",
+"olive oil",
+"mustard",
+"ice",
+"salt",
+]
+a = [0,1,1,0,0,1]
+
+[section3]
+q = "typical Japanese curry rice"
+o = [
+"carrot",
+"onion",
+"russet potato",
+"eggplant",
+"green pepper",
+"salt",
+]
+a = [1,1,1,0,0,0]
+
+[section4]
+q = "cake in Minecraft	"
+o = [
+"sugar",
+"milk",
+"egg",
+"wild berry",
+"wheat",
+"salt",
+]
+a = [1,1,1,0,1,0]
+
+[section5]
+q = "Powerpuff Girls, according to the intro"
+o = [
+"sugar",
+"everything sweet",
+"Chemical X",
+"spice",
+"everything nice",
+"salt",
+]
+a = [1,0,1,1,1,0]
+
+[skip]
+v = "_rush_skip"
