@@ -1,0 +1,104 @@
+[root]
+type = "C"
+
+[pretitle]
+v = "random"
+
+[title]
+t = "The Sweet Relief of a Chewy Candy Bar"
+v = "title"
+s = "
+“The Sweet Relief of a Chewy Candy Bar”.
+"
+
+[intro]
+v = "intro"
+s = "
+I usually don’t eat the Laffy Taffy that these jokes come with, but[#3610#]
+I’m a bit hungry, so I’m gonna eat it right now to tide me over.[#7710#]
+[i](wet munching for an uncomfortably long time)[/i][#11425#]
+Mm, okay then. Here’s the joke.
+"
+
+[setup]
+t = "Why are there fences around cemeteries?"
+v = "setup"
+s = "
+“Why are there fences around cemeteries?[#3734#]
+"
+
+[punchline]
+t = "Because people are dying to get in!"
+v = "punchline"
+s = "
+Because people are dying to get in.”
+"
+
+[post_punchline]
+v = "post_punchline"
+s = "
+Ugh, that’s thematic. Anyway,
+"
+
+[question]
+t = "Which country has the cemetery where the most people died to get in?"
+v = "question"
+s = "
+Which country has the cemetery where the most people died to get in?
+"
+
+[options]
+t = [
+"Iraq",
+"Switzerland",
+"Egypt",
+"China",
+]
+v = "options"
+s = "
+Iraq, Switzerland, Egypt, or China?
+"
+i = 0
+
+[used_lifesaver]
+v = "random"
+
+[reveal]
+v = "random"
+
+[reveal_crickets]
+v = "random"
+
+[reveal_jinx]
+v = "random"
+
+[reveal_split]
+v = "random"
+
+[reveal_correct]
+v = "random"
+
+[option0]
+v = "option0"
+s = "[b]Candy:[/b] The Valley of Peace in Najaf, Iraq, houses the remains of 5 million people, mostly Shia Muslims, including prophets and politicians."
+
+[option1]
+v = "random"
+
+[option2]
+v = "option2"
+s = "[b]Ozzy:[/b] No, that’s where the most people are dying to become mummies!
+[b]Candy:[/b] Get out of the recording booth, Ozzy, and take your joke that only works with British spelling standards with you!"
+
+[option3]
+v = "option3"
+s = "
+[b]Announcer:[/b] The following joke will be removed in the Chinese airing to comply with China’s censorship laws.[#4852#]
+[b]Candy:[/b] Ugh, don’t you just love censorship? Such a great leap forward for our society.
+"
+
+[outro]
+v = "outro"
+s = "
+In other words, it’s Iraq’s version of Fox News’ target demographic.
+"

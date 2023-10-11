@@ -1,0 +1,117 @@
+[root]
+type = "C"
+
+[pretitle]
+v = "random"
+
+[title]
+t = "Riding the Sugar High"
+v = "title"
+s = "
+“Riding the Sugar High”.
+"
+
+[intro]
+v = "intro"
+s = "
+Everybody knows that the stereotypical pro elite gamer snack[#3417#]
+consists of Doritos and Mountain Dew, #notspon,[#6308#]
+but we don’t have either of them here in this dump of a studio,[#9431#]
+only an unholy amount of Laffy Taffy.[#12761#]
+Like, an amount I can only describe as “a lethal dose”.[#16410#]
+Like this one here, that says...
+"
+
+[setup]
+t = "What cheese is made backwards?"
+v = "setup"
+s = "
+“What cheese is made backwards?[#2116#]
+"
+
+[punchline]
+t = "Edam!"
+v = "punchline"
+s = "
+Edam.”
+"
+
+[post_punchline]
+v = "post_punchline"
+s = "
+C-tier puns as always. Speaking of cheese,
+"
+
+[question]
+t = "Which of these is [b]not[/b] a way to “cheese” a video game?"
+v = "question"
+s = "
+Which of these is [i]not[/i] a way to “cheese” a video game?
+"
+
+[options]
+t = [
+"manchego-ing in [i]Destiny 2[/i]",
+"andouille-ing in [i]Kagemusha[/i]",
+"burrata-ing in [i]I, Robot[/i]",
+"havarti-ing in [i]Yoshi’s Island[/i]",
+]
+v = "options"
+s = "
+Manchego-ing in [i]Destiny 2,[/i][#1784#]
+andouille-ing in [i]Kagemusha,[/i][#3687#]
+burrata-ing in [i]I, Robot,[/i][#5407#]
+or havarti-ing in [i]Yoshi’s Island?[/i]
+"
+i = 1
+
+[used_lifesaver]
+v = "random"
+
+[reveal]
+v = "random"
+
+[reveal_crickets]
+v = "random"
+
+[reveal_jinx]
+v = "random"
+
+[reveal_split]
+v = "random"
+
+[reveal_correct]
+v = "random"
+
+[option0]
+v = "random"
+s = ""
+
+[option1]
+v = "option1"
+s = "
+First, andoille is a type of sausage, not cheese.[#2738#]
+Second, [i]Kagemusha[/i] is an Akira Kurosawa movie, not a video game.
+"
+
+[option2]
+v = "option2"
+s = "
+Yes, [i]I, Robot[/i] is a movie.[#2000#]
+It’s also an unrelated game released in 1984,[#4794#]
+plus burrata is a type of cheese.
+"
+
+[option3]
+v = "option3"
+s = "
+[b]Daisy:[/b] [i][intense screaming][/i] OH, MY!!!
+"
+
+[outro]
+v = "outro"
+s = "
+I had a bandmate who only ate things while playing guitar.[#3790#]He was a picky eater.[#5570#]
+[i](crowd boo sound effect)[/i][#7430#]
+Yeah, I deserved that.
+"

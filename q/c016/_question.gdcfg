@@ -1,0 +1,111 @@
+[root]
+type = "C"
+
+[pretitle]
+v = "pretitle"
+s = "The title of the next question’s gonna be:"
+
+[title]
+t = "I’m Cutting You Off"
+v = "title"
+s = "
+“I’m Cutting You Off”.
+"
+
+[intro]
+v = "intro"
+s = "
+You know what’ll calm me right down after a bitter break-up? Some sweet treats.[#3912#]
+Like this Laffy Taffy, the wrapper of which says...
+"
+
+[setup]
+t = "Why did the phones break up?"
+v = "setup"
+s = "
+“Why did the phones break up?[#2000#]
+"
+
+[punchline]
+t = "They wanted to go wireless!"
+v = "punchline"
+s = "
+They wanted to go wireless.”
+"
+
+[post_punchline]
+v = "post_punchline"
+s = "
+Ugh, why did I have to read the wrapper again?[#2708#]
+Now I’m mad for a different reason. Anyway,
+"
+
+[question]
+t = "Why would I [b]not[/b] be able to use a cell phone that’s a lusophone?"
+v = "question"
+s = "
+Why would I [i]not[/i] be able to use a cell phone that’s a “lusophone”?
+"
+
+[options]
+t = [
+"because it can only make brass noises",
+"because it only picks up seismic waves",
+"because I don’t speak Portuguese",
+"because it’s traumatized by loud noises",
+]
+v = "options"
+s = "
+Because it can only make brass noises,[#1760#]
+because it only picks up seismic waves,[#3630#]
+because I don’t speak Portuguese,[#5250#]
+or because it’s traumatized by loud noises?
+"
+i = 2
+
+[used_lifesaver]
+v = "random"
+
+[reveal]
+v = "random"
+
+[reveal_crickets]
+v = "random"
+
+[reveal_jinx]
+v = "random"
+
+[reveal_split]
+v = "random"
+
+[reveal_correct]
+v = "random"
+
+[option0]
+v = "option0"
+s = "
+[i][yelling][/i] Wake up![#1553#]
+[i](loudest, jazziest car horn ever)[/i]
+"
+
+[option1]
+v = "option1"
+s = "No, you’re thinking of a seismometer, which measures the shaking of the ground caused by earthquakes.[#4829#]Or caused by me slamming Kyle’s face on the ground again and again with full force after this show."
+
+[option2]
+v = "option2"
+s = "A lusophone is another word for a Portuguese speaker, like an anglophone is an English speaker."
+
+[option3]
+v = "option3"
+s = "
+[b]Candy:[/b] No, but I’m traumatized by being ditched on TV by a living representation of a tar pit filled with f**king battery acid![#5617#]
+[b]Miles:[/b] Candy, keep it together, please!
+"
+
+[outro]
+v = "outro"
+s = "
+And Kyle is another word for someone who doesn’t speak any love languages.[#4723#]
+Man, screw that guy. I hope he gets an ingrown.
+"
