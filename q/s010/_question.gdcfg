@@ -1,0 +1,115 @@
+[root]
+type = "S"
+has_both = true
+
+[pretitle]
+v = "random"
+
+[title]
+t = "Just a Small Town Girl, Dancing in a Lonely World"
+v = "title"
+s = "“Just a Small Town Girl, Dancing in a Lonely World”."
+
+[sort_segue]
+v = "sort_segue"
+s = "You’re about to take the midnight train to a Sorta Kinda!"
+
+[sort_category]
+v = "sort_category"
+s = "I’m gonna give you 7 song titles,"
+
+[sort_explain]
+v = "sort_explain"
+s = "which you gotta split into..."
+
+[sort_a]
+t = "covered for [i]Just Dance[/i] series"
+v = "sort_a"
+s = "a song covered for the dance simulator video game series [i]Just Dance,[/i]"
+
+[sort_b]   
+t = "covered by [i]Glee[/i] cast"
+v = "sort_b"
+s = "a song covered by the cast of the TV show Glee,"
+
+[sort_ab]
+v = "sort_ab"
+s = "or both! If it’s covered by:"
+
+[sort_a_short]
+t = "[i]Just Dance[/i]"
+v = "sort_a_short"
+s = "[i]Just Dance,[/i]"
+
+[sort_press_left]
+v = "sort_press_left"
+s = "press Left. And if it was covered by..."
+
+[sort_b_short]
+t = "TV’s [i]Glee[/i]"
+v = "sort_b_short"
+s = "TV’s [i]Glee[/i],"
+
+[sort_press_right]
+v = "sort_press_right"
+s = "press Right."
+
+[sort_press_up]
+v = "sort_press_up"
+s = "And as usual, if it’s both, press Up."
+
+[sort_lifesaver]
+v = "random"
+
+[sort_no_lifesaver]
+v = "random"
+
+[skip]
+v = "random"
+
+[sort_options]
+t = [
+"[i]Physical[/i] — Olivia Newton-John",
+"[i]Footloose[/i] — Kenny Loggins",
+"[i]I’m Still Standing[/i] — Elton John",
+"[i]Blame It on the Boogie[/i] — Michael Jackson",
+"[i]Toxic[/i] — Britney Spears",
+"[i]U Can’t Touch This[/i] — MC Hammer",
+"[i]Baby[/i] — Justin Bieber feat. Ludacris",
+]
+s = [
+"[i]Physical[/i] by Olivia Newton-John.",
+"[i]Footloose[/i] by Kenny Loggins.",
+"[i]I’m Still Standing[/i] by Elton John.",
+"[i]Blame It on the Boogie[/i] by Michael Jackson.",
+"[i]Toxic[/i] by Britney Spears.",
+"[i]U Can’t Touch This[/i] by MC Hammer.",
+"[i]Baby[/i] by Justin Bieber featuring Ludacris.",
+]
+a = [1, 2, 0, 0, 2, 2, 1]
+
+[sort_perfect]
+v = "sort_perfect"
+s = "Bravo! You're a Megastar!"
+
+[sort_good]
+v = "sort_good"
+s = "You got the bases covered. Get it? Covered? No, I’m not sorry."
+
+[sort_ok]
+v = "sort_ok"
+s = "You were about as good as the Wii Remote is at motion sensing.[#3147#]
+When it works, it works, but it’s mediocre."
+
+[sort_bad]
+v = "sort_bad"
+s = "Even KidzBop does better at covering pop songs than you did at this question."
+
+[outro]
+v = "outro"
+s = "
+Oh, I’ve just realized that these are all songs from my karaoke playlist. [#3812#]
+Amazing how big the intersection is between songs famous enough for Just Dance to cover,[#8118#]
+songs famous enough for Glee to cover,[#10165#]
+and songs famous enough for me to sing at karaoke.
+"

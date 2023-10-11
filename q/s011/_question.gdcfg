@@ -1,0 +1,106 @@
+[root]
+type = "S"
+has_both = false
+
+[pretitle]
+v = "random"
+
+[title]
+t = "Swiftly Leave My Life"
+v = "title"
+s = "“Swiftly Leave My Life”."
+
+[sort_segue]
+v = "sort_segue"
+s = "I had a Valentine’s Day themed Sorta Kinda for this slot, but here’s what you’re getting instead."
+
+[sort_category]
+v = "sort_category"
+s = "I’m gonna give you 7 phrases,"
+
+[sort_explain]
+v = "sort_explain"
+s = "and for each of them, tell me if it’s"
+
+[sort_a]
+t = "the title of a Taylor Swift song"
+v = "sort_a"
+s = "the title of a Taylor Swift song I’m gonna listen to later, or:"
+
+[sort_b]   
+t = "the title of a rom-com"
+v = "sort_b"
+s = "the title of a rom-com I’m gonna watch later. If it’s:"
+
+[sort_a_short]
+t = "Taylor Swift"
+v = "sort_a_short"
+s = "Taylor Swift,"
+
+[sort_press_left]
+v = "sort_press_left"
+s = "press Left. And if it’s:"
+
+[sort_b_short]
+t = "rom-com"
+v = "sort_b_short"
+s = "rom-com,"
+
+[sort_press_right]
+v = "sort_press_right"
+s = "press Right."
+
+[sort_lifesaver]
+v = "sort_lifesaver"
+s = "And Lifesavers are as useful as love here, so let’s get cracking."
+
+[sort_no_lifesaver]
+v = "sort_no_lifesaver"
+s = "And don’t bother trying to charm me to get extra credit. It won’t work."
+
+[skip]
+v = "skip"
+s = "Getting through the tutorial faster than I can get over this breakup, I see. Fine. Let’s go."
+
+[sort_options]
+t = [
+"[i]Trainwreck[/i]",
+"[i]The Photograph[/i]",
+"[i]The Story of Us[/i]",
+"[i]Back to December[/i]",
+"[i]Forever and Always[/i]",
+"[i]10 Things I Hate About You[/i]",
+"[i]To All the Boys I’ve Loved Before[/i]",
+]
+s = [
+"[i]Trainwreck[/i].",
+"[i]The Photograph[/i].",
+"[i]The Story of Us[/i].",
+"[i]Back to December[/i].",
+"[i]Forever and Always[/i].",
+"[i]10 Things I Hate About You[/i].",
+"[i]To All the Boys I’ve Loved Before[/i].",
+]
+a = [1, 1, 0, 0, 0, 1, 1]
+
+[sort_perfect]
+v = "sort_perfect"
+s = "Seven out of Seven! You know, because Seven’s a Taylor album."
+
+[sort_good]
+v = "sort_good"
+s = "Just a few mistakes. Just Shake It Off and continue."
+
+[sort_ok]
+v = "sort_ok"
+s = "I Knew You Were going to have Trouble on this question."
+
+[sort_bad]
+v = "sort_bad"
+s = "That was Sad and Tragic, but definitely not Beautiful."
+
+[outro]
+v = "outro"
+s = "
+Telenovelas are more understandable than my ridiculous insensitive ex.
+"

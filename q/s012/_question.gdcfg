@@ -1,0 +1,115 @@
+[root]
+type = "S"
+has_both = false
+
+[pretitle]
+v = "pretitle"
+s = "[b]Candy:[/b] You know what? These death threat messages are getting me into the mood[#3459#]
+where I want to ask some more murderer-themed questions. Here’s one called:"
+
+[title]
+t = "Making a Killing"
+v = "title"
+s = "“Making a Killing”,"
+
+[sort_segue]
+v = "sort_segue"
+s = "which is a Sorta Kinda!"
+
+[sort_category]
+v = "sort_category"
+s = "I’m gonna list 7 names."
+
+[sort_explain]
+v = "sort_explain"
+s = "For each of them, you need to tell me if it’s..."
+
+[sort_a]
+t = "a real-life murderer"
+v = "sort_a"
+s = "a real-life murderer, or..."
+
+[sort_b]   
+t = "a fictional murderer"
+v = "sort_b"
+s = "a fictional murderer. If the killer is..."
+
+[sort_a_short]
+t = "real"
+v = "sort_a_short"
+s = "real,"
+
+[sort_press_left]
+v = "sort_press_left"
+s = "press Left. And if the killer is:"
+
+[sort_b_short]
+t = "fictional"
+v = "sort_b_short"
+s = "fictional,"
+
+[sort_press_right]
+v = "sort_press_right"
+s = "press Right."
+
+[sort_lifesaver]
+v = "sort_lifesaver"
+s = "And Lifesavers can’t save your life now! Get ready."
+
+[sort_no_lifesaver]
+v = "sort_no_lifesaver"
+s = "And you’re all alone without any Lifesavers to save your life.[#3843#]
+Well, not that it’d matter, anyway. Let’s go."
+
+[skip]
+v = "random"
+
+[sort_options]
+t = [
+"Hannibal Lecter",
+"Jack the Ripper",
+"the Trinity Killer",
+"Buffalo Bill",
+"the Zodiac Killer",
+"the Alphabet Murderer",
+"the Freeway Phantom",
+]
+s = [
+"Hannibal Lecter!",
+"Jack the Ripper!",
+"the Trinity Killer!",
+"Buffalo Bill!",
+"the Zodiac Killer!",
+"the Alphabet Murderer!",
+"the Freeway Phantom!",
+]
+a = [1, 0, 1, 1, 0, 0, 0]
+
+[sort_perfect]
+v = "sort_perfect"
+s = "Wow, you know a lot about serial killers.[#3147#]
+...That’s concerning, even from one of those goth kids like me."
+
+[sort_good]
+v = "sort_good"
+s = "I see your revolver couldn’t fire enough bullets to kill all 7 options."
+
+[sort_ok]
+v = "sort_ok"
+s = "Can’t tell fictional violence from real violence? You must be an anti-video-game karen."
+
+[sort_bad]
+v = "sort_bad"
+s = "Oh, you sweet summer child. Stay under that rock where it’s safe for your life and sanity."
+
+[outro]
+v = "outro"
+s = "
+[b]Candy:[/b] Whatever the problem with this guy is, he’s kind of a loser if the biggest obstacle in the way of his happiness is someone like me.[#5949#]
+Some guy on TV he’s never met. For all he knows, I could be fictional! Hahaha![#11631#]
+[b]Daisy:[/b] Candy was blissfully unaware that she was just a disembodied voice[#15163#]
+created to guide along players and add some human warmth in a cold, inorganic trivia video game.[#21486#]
+[b]Candy:[/b] Daisy, stop narrating our lives like it’s the Stanley Parable.[#24593#]
+[b]Daisy:[/b] You mean the Candy Parable?[#25765#]
+[b]Candy:[/b] Absolutely not.
+"

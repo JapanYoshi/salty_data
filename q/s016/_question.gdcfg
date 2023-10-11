@@ -1,0 +1,109 @@
+[root]
+type = "S"
+has_both = false
+
+[pretitle]
+v = "random"
+
+[title]
+t = "I’m Sorry, Major Tom—I’m Afraid I Can’t Do That"
+v = "title"
+s = "“I’m Sorry, Major Tom—I’m Afraid I Can’t Do That”."
+
+[sort_segue]
+v = "sort_segue"
+s = "Blast off into this Sorta Kinda!"
+
+[sort_category]
+v = "sort_category"
+s = "I’m gonna give you 7 passages."
+
+[sort_explain]
+v = "sort_explain"
+s = "For each one, tell me if it’s..."
+
+[sort_a]
+t = "from the Kubrick movie [i]2001: a Space Odyssey[/i]"
+v = "sort_a"
+s = "a quote from the movie adaptation of 2001: a Space Odyssey, or:"
+
+[sort_b]
+t = "from the Bowie song [i]Space Oddity[/i]"
+v = "sort_b"
+s = "a line from the song Space Oddity by David Bowie, excluding the sequels. If it’s from..."
+
+[sort_a_short]
+t = "[i]Space Odyssey[/i]"
+v = "sort_a_short"
+s = "[i]Space Odyssey,[/i]"
+
+[sort_press_left]
+v = "sort_press_left"
+s = "press Left. And if it’s from..."
+
+[sort_b_short]
+t = "[i]Space Oddity[/i]"
+v = "sort_b_short"
+s = "[i]Space Oddity,[/i]"
+
+[sort_press_right]
+v = "sort_press_right"
+s = "press Right."
+
+[sort_lifesaver]
+v = "sort_lifesaver"
+s = "One last thing:[#863#]
+this mission is too important for me to allow your Lifesaver to jeopardize it.[#4637#]
+Blast off!"
+
+[sort_no_lifesaver]
+v = "sort_no_lifesaver"
+s = "Check ignition and may fun facts be with you."
+
+[skip]
+v = "random"
+
+[sort_options]
+t = [
+"The stars look very different today.",
+"I am putting myself to the fullest possible use.",
+"Take your protein pills and put your helmet on.",
+"Tell my wife I love her very much.",
+"I can feel it. My mind is going.",
+"Do you read me?",
+"Can you hear me?",
+]
+s = [
+"“The stars look very different today.”",
+"“I am putting myself to the fullest possible use.”",
+"“Take your protein pills and put your helmet on.”",
+"“Tell my wife I love her very much.”",
+"“I can feel it. My mind is going.”",
+"“Do you read me?”",
+"“Can you hear me?”",
+]
+a = [1, 0, 1, 1, 0, 0, 1]
+
+[sort_perfect]
+v = "sort_perfect"
+s = "Impressive, a perfect operational record!"
+
+[sort_good]
+v = "sort_good"
+s = "HAL was right. It [i]is[/i] human error."
+
+[sort_ok]
+v = "sort_ok"
+s = "Planet Earth is blue and there’s nothing I can do to make your score look good."
+
+[sort_bad]
+v = "sort_bad"
+s = "Ground control to your brain! Your circuit’s dead! There’s something wrong!"
+
+[outro]
+v = "outro"
+s = "
+I have a theory on what [i]Space Odyssey[/i]’s 1:4:9 monolith actually was.[#4731#]
+A big smartphone for a giant.[#7110#]
+A little on the thick side for us, but it’s the tradeoff for battery life and wireless charging.
+"

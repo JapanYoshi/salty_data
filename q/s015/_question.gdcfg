@@ -1,0 +1,106 @@
+[root]
+type = "S"
+has_both = false
+
+[pretitle]
+v = "random"
+
+[title]
+t = "Sick Drops at the Stock Market"
+v = "title"
+s = "“Sick Drops at the Stock Market”."
+
+[sort_segue]
+v = "sort_segue"
+s = "
+Should you or should you not drop it hard?[#2241#]
+That’s the theme of this Sorta Kinda.
+"
+
+[sort_category]
+v = "sort_category"
+s = "I’m gonna give you 7 strings of uppercase letters,"
+
+[sort_explain]
+v = "sort_explain"
+s = "and for each of them, you gotta tell if it’s..."
+
+[sort_a]
+t = "the stage name of an electronic DJ or DJ group"
+v = "sort_a"
+s = "the stage name of an electronic DJ or DJ group, or"
+
+[sort_b]
+t = "the stock symbol of a major publicly traded company"
+v = "sort_b"
+s = "the stock symbol of a major publicly traded company. If it’s..."
+
+[sort_a_short]
+t = "DJ"
+v = "sort_a_short"
+s = "a DJ,"
+
+[sort_press_left]
+v = "sort_press_left"
+s = "press Left. And if it’s..."
+
+[sort_b_short]
+t = "megacorp"
+v = "sort_b_short"
+s = "a megacorp,"
+
+[sort_press_right]
+v = "sort_press_right"
+s = "press Right."
+
+[sort_lifesaver]
+v = "_sort_lifesaver"
+
+[sort_no_lifesaver]
+v = "_sort_no_lifesaver"
+
+[skip]
+v = "random"
+
+[sort_options]
+t = [
+"KSHMR",
+"DCUP",
+"AAPL",
+"AVICII",
+"WMT",
+"VOW",
+"LMFAO",
+]
+s = [
+"[i][reading out letter by letter][/i]\nK-S-H-M-R.",
+"D-C-U-P.",
+"A-A-P-L.",
+"A-V-I-C-I-I.",
+"W-M-T.",
+"V-O-W.",
+"L-M-F-A-O.",
+]
+a = [0, 0, 1, 0, 1, 1, 0]
+
+[sort_perfect]
+v = "sort_perfect"
+s = "You nailed it, skillful tradesman and/or producer!"
+
+[sort_good]
+v = "sort_good"
+s = "Eh, you win some, you lose some, much like an average stock trader."
+
+[sort_ok]
+v = "sort_ok"
+s = "It’s like you showed up to Coachella with a banjo."
+
+[sort_bad]
+v = "sort_bad"
+s = "Wow, that was a great depressing performance."
+
+[outro]
+v = "outro"
+s = "
+Another thing EDM and stock trading have in common: both have mumbo jumbo for jargon.
+"
