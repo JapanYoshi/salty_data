@@ -1,0 +1,140 @@
+[root]
+type = "L"
+[like_intro]
+v = "random"
+[like_tute0]
+v = "random"
+[like_tute1]
+v = "random"
+[like_tute2]
+v = "random"
+[like_tute3]
+v = "random"
+[skip]
+v = "random"
+[like_title]
+v = "random"
+[title]
+t = "Are We There Yet?"
+v = "title"
+s = "
+“Are We There Yet?”
+"
+[like_options]
+v = "like_options"
+s = "And we’re going to get there with:"
+[options]
+v = "options"
+s = "
+Planes, trains, and automobiles.
+"
+o = [
+"airplane",
+"train",
+"car"
+]
+[like_ready]
+v = "like_ready"
+s = "Fasten your seatbelts if you have them."
+[section0]
+v = "section0"
+t = "manufactured by the Wright Bros"
+s = "
+Manufactured by the Wright Brothers.
+"
+o = [
+"airplane",
+"train",
+"car",
+"bicycle",
+]
+
+[answer0]
+a = [1, 0, 0, 1]
+v = "answer0"
+s = "
+Before they made it big with their flying machine, Wilbur and Orville made a living making and fixing bicycles.[#5260#]
+Would that make them the first known tech startup?
+"
+[section1]
+v = "section1"
+t = "manufactured by Boeing (currently or formerly)"
+s = "
+Manufactured by Boeing. Currently or formerly.
+"
+o = [
+"airplane",
+"train",
+"car",
+"motorboat",
+]
+
+[answer1]
+a = [1, 1, 0, 1]
+v = "answer1"
+s = "
+Boeing also makes the 929 Jetfoil Ferry and the US Light Rail.[#4460#]
+Their attempt to make a flying electric car with Porsche never got off the ground, though,[#8588#]
+figuratively and literally.
+"
+[section2]
+v = "section2"
+t = "usually has 4 wheels"
+s = "
+Usually has 4 wheels.
+"
+o = [
+"airplane",
+"train",
+"car",
+"an inline rollerskate",
+]
+
+[answer2]
+a = [0, 0, 1, 1]
+v = "answer2"
+s = "
+Rollerblades usually have 4 wheels per foot.[#2479#]
+Airplanes may have up to 6 wheels in their landing gear, but the number varies.
+"
+[section3]
+v = "section3"
+t = "less than 1 / 1,000,000 chance of crashing"
+s = "
+Has a less than a one-in-a-million chance of crashing.
+"
+o = [
+"airplane (per flight)",
+"train (from terminus to terminus)",
+"car (per one-way trip)",
+"a Bethesda game (per playthrough)",
+]
+
+[answer3]
+a = [1, 0, 0, 0]
+v = "answer3"
+s = "
+With this section, I get to reaffirm that factoid [i]and[/i] dunk on Bethesda. This makes me happy.
+"
+[section4]
+v = "section4"
+t = "can have a capacity over 100"
+s = "
+Can have a capacity of over 100 people.
+"
+o = [
+"airplane",
+"train",
+"car",
+"the Trojan Horse",
+]
+
+[answer4]
+a = [1, 1, 1, 0]
+v = "answer4"
+s = "
+Unlike double-decker buses or articulated buses that can hold 120 people,[#3949#]
+the Trojan Horse only held 40 sneaky passengers according to most accounts.
+"
+[like_outro]
+v = "random"

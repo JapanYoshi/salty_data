@@ -5,31 +5,48 @@ type = "N"
 v = "random"
 
 [title]
-t = "The Queen is Dead; Long live the King!"
+t = "The Question is Dead; Long Live the Question!"
 v = "title"
-s = "“The Queen is Dead; Long Live the King”."
+s = "“The Question is Dead; Long Live the Question”."
+
+[errata]
+t = "Good day to you, ma'am, it has come to my attention that one of your writers has published an inaccuracy concerning the British monarchy. While it is true that the current era is called the Carolean era, our current ruler is, in fact, King Charles III, not II as you claimed. There were two Charlies in a short span of time during the Stuart Era, though I presume that you do not know who came between.
+
+Dearly yours, K.W."
+start = 10540
+end = 39576
 
 [intro]
 v = "intro"
-s = "While we were writing these questions, we got some shocking news out of the blue![#4323#]The long-reigning Queen Elizabeth II died at 98.[#8421#]So that means we started making this show in the Elizabethan Era, and finished it in the...[#13666#][#14749#]Uh, hold on..."
+s = "We at Salty Trivia always strive for factual accuracy, which is why we have a place where people can send in their complaints.[#5817#]
+Here’s the inaugural first complaint that we got from the United Kingdom, and I quote:[#10540#]
+[i][in feigned British accent][/i] “Good day to you, ma’am, it has come to my attention[#14245#]
+that one of your writers has published an inaccuracy concerning the British monarchy.[#19393#]
+While it is true that the current era is called the Carolean era,[#23027#]
+our current ruler is, in fact, King Charles the Third, not the Second as you claimed.[#29280#]
+There were two Charlies in a short span of time during the Stuart Era,[#33604#]
+though I presume that you do not know who came between.[#37030#]
+Dearly yours, K.W.”[#39576#]
+[i][in normal voice][/i] That letter had formal passive-aggression smeared all over it. Presume [i]this,[/i] sucker.[#45192#]
+"
 
 [question]
-t = "What’s the name of this new era when the monarch of England is King Charles?"
+t = "Who came between Charles I and Charles II?"
 v = "question"
-s = "What’s the name of this new era when the monarch of England is King Charles?"
+s = "Who came between King Charles the First and King Charles the Second?"
 
 [options]
 t = [
-"the Caroline era",
-"the Carlian era",
-"the Carolean era",
-"the Charlatan era"
+"Oliver Cromwell",
+"Anna Gloria",
+"George III",
+"Louis XVI"
 ]
 v = "options"
 s = "
-the Caroline era, the Carlian era, the Carolean era, or the Charlatan era?
+Oliver Cromwell, Anna Gloria, George the Third, or Louis the Sixteenth?
 "
-i = 2
+i = 0
 
 [used_lifesaver]
 v = "random"
@@ -51,20 +68,28 @@ v = "random"
 
 [option0]
 v = "option0"
-s = "Yes, the era marked by the reign of Charles I is called the Caroline era.[#4206#]However, the new king is King Charles II."
+s = "Oliver Cromwell was a leading advocate of the execution of Charles the First,[#3529#]
+replaced the Monarchy with the Protectorate, then ruled as Lord Protector until he died,[#8396#]
+and was succeeded by his son Richard, who resigned next year to give way[#11878#]
+for Charles the Second to come back from exile and take the throne as the King of Bling."
 
 [option1]
 v = "option1"
-s = "No, I believe that’s the term for the era of American TV where iCarly was big."
+s = "Anna Gloria, a.k.a. Queen Anne, was three monarchs after Charles the Second.[#4841#]
+Or four if you count the power couple of Will and Mary,[#7949#]
+which one of my writers [i]assures[/i] me was a thing."
 
 [option2]
 v = "option2"
-s = "While Charles I’s reign is called the Caroline era,[#3261#]Charles II’s reign seems to be called the Carolean era so far."
+s = "George the Third was the one who lost the American colonies, and also lost his mind.[#4279#]
+Much like you’re about to lose some moolah."
 
 [option3]
 v = "option3"
-s = "[i][in English accent][/i] Oh, what?! I beg your pardon?![#3123#]How [i]dare[/i] you accuse the King of England of being a [i]lowly charlatan![/i]"
+s = "Your reputation is going to fall like the French monarchy during the reign of Louis the Sixteenth,[#4054#]
+as well as the reputation of his replacement Napoleon’s height."
 
 [outro]
 v = "outro"
-s = "The saddest part of all of this is that all of the memes about Queen Elizabeth being immortal are outdated now."
+s = "Wait, I recognise this handwriting.[#1761#]
+[i][calling out][/i] Miles! Can I send a strongly-worded email to someone?[#5336#]I promise no death threats this time!"

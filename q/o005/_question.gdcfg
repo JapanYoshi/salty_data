@@ -1,0 +1,114 @@
+[root]
+type = "O"
+[pretitle]
+v = "random"
+[title]
+v = "title"
+t = "Agent of Destruction"
+s = "
+“Agent of Destruction”.
+"
+[preintro]
+v = "preintro"
+s = "
+[b]Candy:[/b] So, Miles and I had an argument before this show about whether memes started with the Internet, or they existed in the offline era.[#6658#]
+I think memes are an Internet thing, and Miles thinks Ozzy has an earful to give me.[#10797#]
+[b]Ozzy:[/b] And I’m here despite the fact that the cricket’s about to start in five minutes!
+"
+[intro]
+v = "intro"
+s = "
+[b]Candy:[/b] So what was the thing that Miles wanted you to tell me?[#2423#]
+[b]Ozzy:[/b] He didn’t tell me sh**. He just told me to tell you about some thing called a “meme” in a TV show.[#8364#]
+As if I’d heard of that before.[#10337#]
+[b]Candy:[/b] Okay, so, memes are basically a short gag or a quotable line of some sort[#14736#]
+that people tell each other over the Internet, like an inside joke but for the general public.[#18918#]
+[b]Ozzy:[/b] Then why didn’t you just say so?![#22017#]
+[b]Candy:[/b] Just—Just ask the question and be grateful that I actually explained it to you.[#26213#]
+[b]Ozzy:[/b] Well, if it pleases you weirdos.
+"
+[question]
+v = "question"
+t = "American TV comedy show... [#2399#]secret agent from the 60’s... [#4628#]by Mel Brooks and Buck Henry... [#8489#]James Bond parody... [#11315#] clumsy secret agent... [#15205#]named after being thrown out of a bar... [#27302#]“Would you believe...?” [#28671#]“...Sorry about that, Chief.” [#39874#]Who’s the main character?"
+s = "
+[b]Ozzy:[/b] This was an American TV comedy show about a secret agent from the 1960’s,[#4502#]
+written and created by Mel Brooks and Buck Henry.[#7488#]
+It was essentialy a parody of James Bond, with the main character being a clumsy secret agent.[#13024#]
+In fact, their codename was slang for being thrown out of a bar.[#17045#]
+Several of the gags and props made up for the show were thought up by the cast and crew for a quick laugh,[#22071#]
+and if it’s running gags you want, this show had a [i]lot[/i] of recurring lines![#26442#]
+Including “Would you believe...?” and “Sorry about that, Chief.”[#30128#]
+[b]Candy:[/b] That’s great and all, Ozzy, but are those the biggest, quote-unquote, “memes”, in the show?[#35620#]
+[b]Ozzy:[/b] Of course not! If I said that, it would be a dead giveaway.[#39481#]
+Now why don’t you snot-heads tell me what the protagonist’s name is?
+"[options]
+v = "options"
+t = [
+"Johnny English",
+"Maxwell Smart",
+"Matt Helm",
+"Austin Powers"
+]
+s = "
+[b]Ozzy:[/b] Johnny English, Maxwell Smart, Matt Helm, or Austin Powers?
+"
+i = 1
+[option0]
+v = "option0"
+s = "
+[b]Daisy:[/b] Johnny English was created in like 2003, right?[#3650#]
+[b]Candy (flatly) and Ozzy (angrily):[/b] Yes.[#4397#]
+[b]Daisy:[/b] Yeah, so I can’t believe someone would ever think this one is the right answer.[#8536#]
+By the way, how do you know about Johnny English, Ozzy?[#11009#]
+[b]Candy:[/b] Yeah, you’re old enough to be his grandpa.[#12883#]
+[b]Ozzy:[/b] I’m a fan of Mr. Bean.[#14538#]
+[i](beat)[/i][#15436#]
+[b]Candy:[/b] You know they’re both—
+[b]Ozzy:[/b] [i][petulantly] Yes.[/i]
+"
+[option1]
+v = "option1"
+s = "
+[b]Ozzy:[/b] Maxwell Smart, played by Don Adams,[#2562#]
+was the main character of the 1960’s TV series [i]Get Smart.[/i][#6631#]
+[b]Candy:[/b] Wait, I thought it was a movie starring Steve Carell.[#8925#]
+[b]Ozzy:[/b] It was, but that was a reboot!
+"
+[option2]
+v = "option2"
+s = "
+[b]Candy:[/b] Was it Matt Helm, Ozzy?
+[b]Ozzy:[/b] No, I said “comedy TV show”.[#4137#]
+You got almost everything on point except for that part.[#7236#]
+[b]Daisy:[/b] Books are for libraries, amirite?
+"
+[option3]
+v = "option3"
+s = "
+[b]Ozzy:[/b] No no no! Austin Powers came from the 90’s![#3701#]
+[b]Candy:[/b] No, he’s from the 60’s.
+[b]Ozzy:[/b] Huh?[#5671#]
+[b]Candy:[/b] Austin Powers famously came from the Swinging Sixties.[#8625#]
+[b]Ozzy:[/b] The hell are you on? Austin Powers definitely came out in the 90’s.[#12873#]
+[b]Candy:[/b] Oh, you mean the movie. Carry on with your day.
+"
+[outro]
+v = "outro"
+s = "
+[b]Candy:[/b] I still don’t get your point about pre-Internet media having “memes” in it.[#4198#]
+[b]Ozzy:[/b] You missed the point, eh? Well, you could say that you...[#7275#]
+“missed it by [i]that[/i] much”.[#9451#]
+[b]Candy:[/b] Oh, dang it, now I have to work out another quip for that other question where Steve Carell is the wrong answer.
+"
+[reveal]
+v = "random"
+[reveal_crickets]
+v = "random"
+[reveal_jinx]
+v = "random"
+[reveal_split]
+v = "random"
+[reveal_correct]
+v = "random"
+[used_lifesaver]
+v = "random"

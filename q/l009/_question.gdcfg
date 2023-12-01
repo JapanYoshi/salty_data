@@ -1,0 +1,146 @@
+[root]
+type = "L"
+[like_intro]
+v = "random"
+[like_tute0]
+v = "random"
+[like_tute1]
+v = "random"
+[like_tute2]
+v = "random"
+[like_tute3]
+v = "random"
+[skip]
+v = "random"
+[like_title]
+v = "random"
+[title]
+t = "Caffeine Queen"
+v = "title"
+s = "
+“Caffeine Queen”
+"
+[like_options]
+v = "random"
+[options]
+v = "options"
+s = "
+Coffee, tea, and Coca-Cola.
+"
+o = [
+"coffee",
+"tea",
+"Coca-Cola"
+]
+[like_ready]
+v = "like_ready"
+s = "Get a fix of your poison of choice."
+[section0]
+v = "section0"
+t = "sold in the USA, made in the USA"
+s = "
+Likely made in the United States if it is sold in the United States.
+"
+o = [
+"coffee",
+"tea",
+"Coca-Cola",
+"beer",
+]
+
+[answer0]
+a = [0, 0, 1, 1]
+v = "answer0"
+s = "
+The coffee plant can only grow in tropical regions, and only a few tea farms exist in the United States.[#5446#]
+Coca-Cola syrup is made in a handful of places around the world,[#8594#]
+including Atlanta, Georgia, whence most or all American Coke comes.[#12902#]
+About 66% of beer sold in the United States is domestic.
+"
+[section1]
+v = "section1"
+t = "sometimes used for cleaning in the kitchen"
+s = "
+Sometimes used for cleaning in the kitchen.
+"
+o = [
+"coffee",
+"tea",
+"Coca-Cola",
+"orange juice",
+]
+
+[answer1]
+a = [1, 1, 1, 0]
+v = "answer1"
+s = "
+Coffee grounds can be used as a pan scrubber, and an environmentally-friendly replacement for plastic sponges.[#5584#]
+Tea can be used to deodorize surfaces,[#7695#]
+and the phosphoric and citric acids in Coca-Cola break down rust,[#11134#]
+although it’s much less effective than a real rust remover.
+"
+[section2]
+v = "section2"
+t = "has ever been banned by the head of a country"
+s = "
+Has ever been banned by the head of a country.
+"
+o = [
+"coffee",
+"tea",
+"Coca-Cola",
+"cider, specifically",
+]
+
+[answer2]
+a = [1, 0, 1, 0]
+v = "answer2"
+s = "
+Coffee was banned in Sweden by royal decree in 5 different short bursts,[#4285#]
+and it is currently illegal to import Coca-Cola and other Western products into North Korea.[#9021#]
+Tea, however, is free of such geopolitical drama, which is the real reason why Kermit drinks it.
+"
+[section3]
+v = "section3"
+t = "comes caffeinated or caffeine-free"
+s = "
+Comes in both caffeinated and caffeine-free versions.
+"
+o = [
+"coffee",
+"tea",
+"Coca-Cola",
+"root beer (generally)",
+]
+
+[answer3]
+a = [1, 1, 1, 0]
+v = "answer3"
+s = "
+Caffeine-Free Coca-Cola was first introduced in 1983,[#3156#]
+even though it’s hard to find in stores these days.[#5282#]
+Root beer, on the other hand, generally doesn’t have caffeine in it.
+"
+[section4]
+v = "section4"
+t = "should NOT be shaken"
+s = "
+Should not be shaken.
+"
+o = [
+"coffee",
+"tea",
+"Coca-Cola",
+"Polaroid",
+]
+
+[answer4]
+a = [0, 0, 1, 1]
+v = "answer4"
+s = "
+I think by now we all know that you’re [i]not[/i] supposed to shake a Polaroid picture,[#3610#]
+and the guy from Outkast is singlehandedly responsible[#6206#]
+for making an entire generation of instant photos more horrible than they need to be.
+"
+[like_outro]
+v = "random"

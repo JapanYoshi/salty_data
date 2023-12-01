@@ -36,7 +36,7 @@ v = "thou_intro"
 s = "On your mark, get set, here’s the question!"
 
 [question]
-t = "[##]Which of these characters cannot speak at all?"
+t = "[#27500#]Which of these characters cannot speak at all?"
 v = "question"
 s = "[#719#]
 [b]Daisy:[/b] Wh—[#1769#][#2308#]

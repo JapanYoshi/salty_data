@@ -35,7 +35,7 @@ t = [
 ]
 v = "options"
 s = "
-Sick (Da Ba Dee Da Ba Dai), Dead (Da Ba Dee Da Ba Dai), Drunk (Da Ba Dee Da Ba Dai), or Rich (Da Ba Dee Da Ba Dai)
+Sick (Da Ba Dee Da Ba Dai), Dead (Da Ba Dee Da Ba Dai), Drunk (Da Ba Dee Da Ba Dai), or Rich (Da Ba Dee Da Ba Dai)?
 "
 i = 2
 
@@ -60,8 +60,8 @@ v = "random"
 [option0]
 v = "option0"
 s = "
-[b]Daisy:[/b] [in exaggerated Valley Girl voice] Ohh my gosh, that was [i]so[/i] not sick.[#2477#]
-[b]Candy:[/b] [in exaggerated Valley Girl voice] I know, right? Like, totally un-fetch.
+[b]Daisy:[/b] [i][in exaggerated Valley Girl voice][/i] Ohh my gosh, that was [i]so[/i] not sick.[#2477#]
+[b]Candy:[/b] [i][in exaggerated Valley Girl voice][/i] I know, right? Like, totally un-fetch.
 "
 
 [option1]
@@ -73,7 +73,7 @@ s = "
 [option2]
 v = "option2"
 s = "
-[b]Candy:[/b] The German phrase [i]blau sein[/i] literally means “to be blue”,[#3568#]
+[b]Candy:[/b] The German phrase [i]„blau sein“[/i] literally means “to be blue”,[#3568#]
 but also describes someone who’s hit the Jäger too hard.
 "
 

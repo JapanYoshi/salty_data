@@ -1,0 +1,119 @@
+[root]
+type = "O"
+[pretitle]
+v = "random"
+[title]
+v = "title"
+t = "Past the Expiration Date"
+s = "
+“Past the Expiration Date”.
+"
+[preintro]
+v = "preintro"
+s = "
+[b]Candy:[/b] I don’t know if I told anyone this, but I like to buy chocolate imported from Australia.[#3436#]
+I sometimes just get the specific type of craving[#5953#]
+that only a Tim-Tam or a Caramello Koala can satisfy![#8938#]
+[b]Ozzy:[/b] Really? I would have thought you’d be a Darrel Lea kind of girl.[#13142#]
+[b]Candy:[/b] Aaaaaand forget about this question...
+"
+[intro]
+v = "intro"
+s = "
+[b]Candy:[/b] What do you want, Ozzy?[#1608#]
+[b]Ozzy:[/b] I overheard you talking about good ol’ Aussie confectionery,[#5320#]
+and it made me think of some from my childhood.[#7606#]
+[b]Candy:[/b] You had a childhood? What deca— What century was that?[#10680#]
+[b]Ozzy:[/b] Can I just tell you kids about some old Australian confectionery or nah?![#14392#]
+[b]Candy:[/b] Oh, whatever. Just get on with it...
+[b]Ozzy:[/b] [i](growls)[/i]
+"
+[question]
+v = "question"
+t = "From 1920’s... [#6565#]Possibly 1890’s... [#8446#]pink sticks... [#9673#]star-shaped cross section... [#12413#]named after perfume... [#20900#]added to the Disgusting Food Museum... [#33396#]What is this candy called?"
+s = "
+[b]Ozzy:[/b] This stuff was first known to have existed as far back as the 1920’s,[#4131#]
+but it may be even older than that and go back to the 1890’s.[#7976#]
+They are pink sticks with a weird star-shaped cross section to them,[#11452#]
+and they get their name from some kind of perfume... I think.[#14459#]
+[b]Candy:[/b] You think?
+[b]Ozzy:[/b] Hey, this stuff’s old, alright?![#17076#]
+That said, opinion of them is pretty divided.[#20062#]
+Apparently, they were added to the Disgusting Food Museum in Sweden back in 2018.[#25727#]
+[b]Candy:[/b] Oh yeah, that place that runs the gamut from haggis and balut to Pop-Tarts and factory-farmed pork.[#30942#]
+[b]Ozzy:[/b] Enough about the Disgusting Food Museum! Now why don’t you tell me what the hell these things were called?!
+"[options]
+v = "options"
+t = [
+"Pencil Bites",
+"Musk Sticks",
+"Spanish Gold",
+"Coconut Ice Bars"
+]
+s = "
+[b]Ozzy:[/b] Pencil Bites, Musk Sticks, Spanish Gold, or Coconut Ice Bars?
+"
+i = 1
+[option0]
+v = "option0"
+s = "
+[b]Candy:[/b] Well, you can’t erase this wrong answer.[#1919#]
+[b]Ozzy:[/b] I don’t get it.[#3119#]
+[b]Candy:[/b] [i][confused][/i] Because they’re called pencil bites... and pencils... can be erased—[#7763#]
+You’re just messing with me, aren’t you?[#9385#]
+[b]Ozzy:[/b] No, I honestly didn’t get the joke, because it [i]sucked![/i]
+"
+[option1]
+v = "option1"
+s = "
+[b]Candy:[/b] Were they musk sticks?[#1137#]
+[b]Ozzy:[/b] Course they were! What else could they be?! They were the only thing that matches the description I gave![#6028#]
+[i](beat)[/i][#6706#]
+[b]Candy:[/b] Did you stop taking your medication again?
+"
+[option2]
+v = "option2"
+s = "
+[b]Candy:[/b] Spanish Gold? More like Fool’s Gold, get it?[#2299#]
+[b]Ozzy:[/b] No. But did you know that they are also known as Sweet Tobacco?[#5881#]
+[b]Candy:[/b] Was that from the same people that made the candy cigarettes in your country?[#8913#]
+[b]Ozzy:[/b] What? You mean F—
+[b]Daisy:[/b] [i][loudly] NOOOOOOOO!!![/i][#11310#]
+[i](beat)[/i][#12156#]
+[b]Ozzy:[/b] The hell was that about?[#13256#]
+[b]Candy:[/b] It’s one of those words that you can’t say in American English.[#16218#]
+Like how in British English, you can say that your car is flailing wildy out of control,[#20562#]but you can’t say that your car is going spa—[#23058#]
+[b]Daisy:[/b] Stop doing that!
+"
+[option3]
+v = "option3"
+s = "
+[b]Candy:[/b] Was it the Coconut Ice Bars?[#1127#]
+[b]Ozzy:[/b] The heck you get [i]that[/i] from?![#3091#]
+[b]Candy:[/b] Well, you listed it as one of the options, so that means that it’s possibly-[#6373#]
+[b]Ozzy:[/b] No! It wasn’t them! Moving on![#8954#]
+[b]Candy:[/b] [i][annoyed][/i] Well, if [i]you[/i] wanna host the game, go the f**k ahead![#12260#]
+[b]Ozzy:[/b] Why would I want to host your stupid game?![#14892#]
+[b]Candy:[/b] Good. Now shut up and watch me dock some scores!
+"
+[outro]
+v = "outro"
+s = "
+[b]Candy:[/b] Back to the Disgusting Food Museum. I wonder if Laffy Taffy are there.[#3127#]
+[b]Ozzy:[/b] I thought you liked that edible clay.[#5048#]
+[b]Candy:[/b] Oh, I do. The thing that’s disgusting is the jokes that come with them.[#8402#]
+[i](rimshot)[/i][#9942#]
+[b]Candy:[/b] I wasn’t kidding, Daisy.
+"
+[reveal]
+v = "random"
+[reveal_crickets]
+v = "random"
+[reveal_jinx]
+v = "random"
+[reveal_split]
+v = "random"
+[reveal_correct]
+v = "random"
+[used_lifesaver]
+v = "random"

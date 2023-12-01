@@ -55,7 +55,7 @@ v = "random"
 [option0]
 v = "option0"
 s = "[b]Candy:[/b] That answer. “It’s ’bout as bad as it could be”.[#2556#]
-[b]Daisy:[/b] On the other hand, “there’s no way but up from here”[#4905#]
+[b]Daisy:[/b] On the other hand, “there’s no way but up from here”.[#4905#]
 [b]Candy:[/b] In theory."
 
 [option1]

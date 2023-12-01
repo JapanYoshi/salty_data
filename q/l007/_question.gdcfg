@@ -1,0 +1,132 @@
+[root]
+type = "L"
+[like_intro]
+v = "random"
+[like_tute0]
+v = "random"
+[like_tute1]
+v = "random"
+[like_tute2]
+v = "random"
+[like_tute3]
+v = "random"
+[skip]
+v = "random"
+[like_title]
+v = "random"
+[title]
+t = "Birds of a Feather"
+v = "title"
+s = "
+“Birds of a Feather”.
+"
+[like_options]
+v = "random"
+[options]
+v = "options"
+s = "
+Duck, eagle, and turkey.
+"
+o = [
+"duck",
+"eagle",
+"turkey"
+]
+[like_ready]
+v = "random"
+[section0]
+v = "section0"
+t = "golf terms"
+s = "Golf terms."
+o = [
+"duck",
+"eagle",
+"turkey",
+"condor",
+]
+
+[answer0]
+a = [0, 1, 0, 1]
+v = "answer0"
+s = "
+[b]Candy:[/b] Condor is 4 under par, but it’s rarely used,[#2811#]
+since you’d need to have a par 6 hole, which is rare, and complete it in two strokes.
+"
+[section1]
+v = "section1"
+t = "native to Australia"
+s = "Native to Australia."
+o = [
+"duck",
+"eagle",
+"turkey",
+"peacock",
+]
+
+[answer1]
+a = [1, 1, 1, 0]
+v = "answer1"
+s = "
+[b]Candy:[/b] Breeds of the first three are in Australia, but there are no peacocks, only lyrebirds.[#4598#]
+And given Australia’s government’s reputation, “lyre” is right.[#7958#]
+[b]Ozzy:[/b] I heard that!
+"
+[section2]
+v = "section2"
+t = "inspired a Gen I Pokémon"
+s = "Inspired a Generation One Pokémon."
+o = [
+"duck",
+"eagle",
+"turkey",
+"dove",
+]
+
+[answer2]
+a = [1, 0, 0, 0]
+v = "answer2"
+s = "
+[b]Candy:[/b] Out of the first 151, three of them are ducks:[#3091#]
+Psyduck, Golduck, and the odd one out, Farfetch’d.[#5880#]
+And as of Scarlet/Violet, there are no turkey Pokémon at all.
+"
+[section3]
+v = "section3"
+t = "in [i]Chicken Little / Henny Penny[/i]"
+s = "Appears in the children’s story [i]Chicken Little.[/i]"
+o = [
+"duck",
+"eagle",
+"turkey",
+"goose",
+]
+
+[answer3]
+a = [1, 0, 1, 1]
+v = "answer3"
+s = "
+[b]Candy:[/b] I haven’t read the story before Disney adapted it to the big screen in 2005,[#3615#]
+but the version I read ends with the fox eating all the birds.[#6757#]
+[b]Daisy:[/b] Ooh! I used to read it [i]all[/i] the time![#9181#]
+[b]Candy and Ozzy:[/b] Figures.
+"
+[section4]
+v = "section4"
+t = "can fly"
+s = "Birds that can fly. How did we put this off so long?"
+o = [
+"duck",
+"eagle",
+"turkey",
+"flamingo",
+]
+
+[answer4]
+a = [1, 1, 1, 1]
+v = "answer4"
+s = "
+[b]Candy:[/b] Turkeys can hover off the ground and move up to 100 yards to escape predators,[#3874#]
+barely getting them out of the “flightless” category.
+"
+[like_outro]
+v = "random"

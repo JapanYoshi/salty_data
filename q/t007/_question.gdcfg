@@ -1,0 +1,86 @@
+[root]
+type = "T"
+[pretitle]
+v = "random"
+[title]
+v = "title"
+t = "YouTubers Rehashing Millennia-Old Ideas"
+s = "
+“YouTubers Rehashing Millennia-Old Ideas”.
+"
+[thou_segue]
+v = "random"
+[thou_tute0]
+v = "random"
+[thou_tute1]
+v = "random"
+[thou_tute2]
+v = "random"
+[skip]
+v = "random"
+[thou_intro]
+v = "random"
+[question]
+v = "question"
+t = "Which of these YouTubers is the most likely to make a video about lopadotemachoselachogaleokranioleipsanodrimhypotrimmato-
+silphiokarabomelitokatakechymenokichlepikossyphophatto-
+peristeralektryonoptekephalliokigklopeleiolagoiosiraiobaphe-
+traganopterygon?"
+s = "
+Which of these YouTubers is the most likely to make a video about[#3901#]
+lopadotemachoselachogaleokranio-[#6576#]
+leipsanodrimhypotrimmatosilphio-[#9549#]
+karabomelitokatakechymenokichlepikos-[#13851#]
+syphophattoperisteralektryonoptekephallio-[#18793#]
+kigklopeleiolagoiosiraioba-[#22307#]
+phetraganopterygon?
+"[options]
+v = "options"
+t = [
+"Binging with Babish",
+"Vsauce",
+"TierZoo",
+"Ten Second Songs"
+]
+s = "
+Binging with Babish, Vsauce, TierZoon, or Ten Second Songs?
+"
+i = 0
+[option0]
+v = "option0"
+s = "
+That massive word, known as the longest word in Ancient Greek literature,[#4075#]
+is the name of a dish from Aristophanes’ play “Assemblywomen”.[#7488#]
+And since Babish is all for making real life food based on fictional food, it would be right up his alley.[#13270#]
+At least farther up his alley than any of the other options here.
+"
+[option1]
+v = "option1"
+s = "
+Hey, Vsauce, mistake there.
+"
+[option2]
+v = "option2"
+s = "
+This answer goes straight in F tier.
+"
+[option3]
+v = "option3"
+s = "
+[i][sung][/i] No-o-o-o-o!
+"
+[outro]
+v = "outro"
+s = "
+I will guarantee you that preparing that monstrosity will require at least three timelapses.
+"
+[reveal]
+v = "random"
+[reveal_crickets]
+v = "random"
+[reveal_jinx]
+v = "random"
+[reveal_split]
+v = "random"
+[reveal_correct]
+v = "random"

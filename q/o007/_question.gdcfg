@@ -1,0 +1,99 @@
+[root]
+type = "O"
+[pretitle]
+v = "random"
+[title]
+v = "title"
+t = "Music is Dead, but He Isn’t"
+s = "
+“Music is Dead, but He Isn’t”
+"
+[preintro]
+v = "preintro"
+s = "
+[b]Candy:[/b] Get this: Miles wants me to start helping out old people more often,[#3947#]
+’cause it’s supposedly “good for my public image” or something.[#7768#]
+The problem with that is, he wants me to start helping out [i]this specific[/i] old person for a few hours.
+"
+[intro]
+v = "intro"
+s = "
+[b]Candy:[/b] That’s right, it’s everyone’s favorite coffin dodger, Ozzy![#2846#]
+[b]Ozzy:[/b] Joke about my age again, and I’ll rip your ears off and sew ’em to your backside![#7531#]
+And just because you helped me make breakfast this morning, it doesn’t give you a free pass to make fun of me.[#13102#]
+[b]Candy:[/b] Jeez, Ozzy, can’t you learn to, as the Aussies say, “shoot the sh** with your mates”?[#17965#]
+[b]Ozzy:[/b] Never say that again in your foreign accent.[#21033#]
+And what’s with the dingy atmosphere in here? Put some real music on![#24902#]
+[b]Candy:[/b] Let me guess, you want to hear “Solitude in E Minor” or something?[#27652#]
+[b]Ozzy:[/b] Ha! You think I want that frilly fancy-pants nonsense?[#31013#]
+There was this one band who blew [i]all[/i] of the other p**sies out the water!
+"
+[question]
+v = "question"
+t = "Band formed in London in 1975... [#5365#]Lasted 2½ years... [#11082#]Kick-started the punk movement... [#14537#]Called the UK “a fascist régime” in [i]God Save the Queen...[/i] [#25300#]Which band is this?"
+s = "
+[b]Ozzy:[/b] These blokes formed a band in London, all the way back in 1975.[#4837#]
+They only lasted two and a half years until they broke up from infighting,[#8464#]
+but two and a half years was more than enough for them to kick-start the punk movement of music.[#13586#]
+They’re notorious for calling the UK “a fascist régime” on their rendition of [i]God Save the Queen.[/i][#19723#]
+They basically inspired an influx of punk and alt-rock music for generations to come.[#25126#]
+Now who the hell am I talking about?
+"[options]
+v = "options"
+t = [
+"Blink-182",
+"The Misfits",
+"The Sex Pistols",
+"Green Day"
+]
+s = "
+[b]Ozzy:[/b] Blink-182, The Misfits, The Sex Pistols, or Green Day?
+"
+i = 2
+[option0]
+v = "option0"
+s = "
+[b]Ozzy:[/b] It’s a long way back from Question 1, kid.
+"
+[option1]
+v = "option1"
+s = "
+[b]Candy:[/b] Ozzy, can I go out and kill tonight?[#1561#]
+[b]Ozzy:[/b] Only if you change your identity before all Hell breaks loose.
+"
+[option2]
+v = "option2"
+s = "
+[b]Candy:[/b] Lemme guess, the Sex Pistols?[#1344#]
+[b]Ozzy:[/b] Of course it was! Who else could I be talking about?
+"
+[option3]
+v = "option3"
+s = "
+[b]Candy:[/b] Wake me up when your ignorance ends.[#1705#]
+[b]Ozzy:[/b] Says the American Idiot.[#3920#]
+[b]Candy:[/b] First of all, I’m only half American, and second of all, I graduated high school with honors.
+"
+[outro]
+v = "outro"
+s = "
+[b]Candy:[/b] Uh, okay, sure, which song do you want me to put on?[#2634#]
+[b]Ozzy:[/b] All of them.[#4000#]
+[b]Candy:[/b] ...Wait, all—
+[b]Ozzy:[/b] Did I stutter?![#6060#]
+I said all o’ them![#8456#]
+I wanna make sure you hear what [i]real[/i] music was like back then![#13581#]
+[b]Candy:[/b] ...Miles, you are so uninvited to my next big party.
+"
+[reveal]
+v = "random"
+[reveal_crickets]
+v = "random"
+[reveal_jinx]
+v = "random"
+[reveal_split]
+v = "random"
+[reveal_correct]
+v = "random"
+[used_lifesaver]
+v = "random"
