@@ -71,70 +71,68 @@ o = [
 ]
 
 [answer1]
-a = [1, 1, 0, 11]
+a = [0, 1, 1, 0]
 v = "answer1"
 s = "
-Watermelons let Yoshi spit seeds like a machine gun.[#2798#]
-Which makes me cast doubt on how much Baby Mario is trained on makeshift seed gun safety.
+Street Fighter II had a movie in 1994.[#2887#]
+There was also a Japanese animated Mario movie in 1986,[#6711#]
+the very first movie in the world based on a video game.
 "
 
 [section2]
 v = "section2"
-t = "can be eaten in [i]Pac-Man Championship Edition[/i] (2007)"
-s = "“Can be eaten in Pac-Man Championship Edition”."
+t = "in an official game on Sega Saturn"
+s = "In an official game on Sega Saturn."
 o = [
-    "watermelon",
-    "banana",
-    "peach",
-    "Galaxian Flagship"
+    "Mario",
+    "Sonic",
+    "Doomguy",
+    "Beat",
 ]
 
 [answer2]
-a = [0, 1, 1, 1]
+a = [0, 1, 1, 0]
 v = "answer2"
 s = "
-Yep, Pac-Man is able to devour an entire spaceship.[#3756#]
-If I had that kind of ability,[#5182#]
-I would probably devour Daisy’s car the next time she pranks me.
+Beat is from Jet Set Radio, which started on the Dreamcast but never made it to Saturn.
 "
 
 [section3]
 v = "section3"
-t = "eaten by [i]The Very Hungry Caterpillar[/i] (1969)"
-s = "“Eaten by the Very Hungry Caterpillar”."
+t = "plays in the Tokyo Olympics on smartphones"
+s = "Plays in the Tokyo Olympics on smartphones."
 o = [
-    "watermelon",
-    "banana",
-    "peach",
-    "sandwich"
+    "Mario",
+    "Sonic",
+    "Doomguy",
+    "Godzilla",
 ]
 
 [answer3]
-a = [1, 0, 0, 1]
+a = [0, 1, 0, 0]
 v = "answer3"
 s = "
-A watermelon was the last thing the Very Hungry Caterpillar ate before cocooning and getting his butterfly wings.[#5148#]
-If it were me, my last meal would be the entire Wendy’s menu[#8097#]
-before cocooning and getting my demi-Demon wings.
+There’s been companion smartphone apps to the Mario & Sonic at the Olympic Games series,[#4505#]
+but they only feature the Sonic side of things.[#7153#]
+Mario’s too busy on Mario Run, Mario Kart Tour, and that Dr. Mario thing.
 "
 
 [section4]
 v = "section4"
-t = "is an official Crayola color"
-s = "“Is an official Crayola color”."
+t = "is, or fights, someone who uses a real-ass gun"
+s = "Is, or fights, someone who uses a real-ass gun."
 o = [
-    "watermelon",
-    "banana",
-    "peach",
-    "apricot"
+    "Mario",
+    "Sonic",
+    "Doomguy",
+    "GLaDOS",
 ]
 
 [answer4]
-a = [0, 0, 1, 1]
+a = [1, 1, 1, 0]
 v = "answer4"
 s = "
-[b]Candy:[/b] Not that I recommend eating crayons. Not unless you wanna end up like Daisy.[#3763#]
-[b]Daisy:[/b] [i][scandalized][/i] Hey! I only eat the ones without adjectives in their name!
+Sonic fights Shadow the Hedgehog, who famously uses a real-ass gun. Mario and Sonic both fight Bayonetta, who uses a real-ass gun, in Smash Bros 4 and Ultimate. And Doom is all about gunning down demons from Hell. GLaDOS from Portal only ever fights Chell, who has a Portal Gun, but not a real-ass gun.
 "
 
 [like_outro]
