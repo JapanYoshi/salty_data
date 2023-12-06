@@ -71,7 +71,7 @@ o = [
 ]
 
 [answer1]
-a = [0, 1, 1, 0]
+a = [1, 1, 0, 1]
 v = "answer1"
 s = "
 Street Fighter II had a movie in 1994.[#2887#]
