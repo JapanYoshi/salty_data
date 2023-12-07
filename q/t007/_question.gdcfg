@@ -22,10 +22,9 @@ v = "random"
 v = "random"
 [question]
 v = "question"
-t = "Which of these YouTubers is the most likely to make a video about lopadotemachoselachogaleokranioleipsanodrimhypotrimmato-
-silphiokarabomelitokatakechymenokichlepikossyphophatto-
-peristeralektryonoptekephalliokigklopeleiolagoiosiraiobaphe-
-traganopterygon?"
+; This is the only question so far that uses the [shy] shortcut. It gets converted to a visible hyphen plus zero-width space in the game, but a real soft hyphen in the browser. Because Godot 3.5 doesn't support real soft hyphens
+t = "Which of these YouTubers is the most likely to make a video about
+lopado\u00ADtemacho\u00ADselacho\u00ADgaleo\u00ADkranio\u00ADleipsano\u00ADdrim\u00ADhypotrimmato\u00ADsilphio\u00ADkarabo[shy]melito\u00ADkatake\u00ADchymenoki\u00ADchlepikos\u00ADsypho\u00ADphatto\u00ADperistera\u00ADlektryono\u00ADpteke\u00ADphallio[shy]kigklo\u00ADpeleio\u00ADlagoio\u00ADsiraio\u00ADbaphetragano\u00ADpterygon?"
 s = "
 Which of these YouTubers is the most likely to make a video about[#3901#]
 lopadotemachoselachogaleokranio-[#6576#]

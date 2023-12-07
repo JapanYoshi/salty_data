@@ -27,7 +27,7 @@ v = "random"
 v = "random"
 
 [question]
-t = "What could a person with supercalifragilisticexpialidocious levels of hippopotomonstrosesquipedaliophobia [#9312#]say to perform floccinaucinihilipilification [#20996#]of antidisestablishmentarianism?[#24524#]"
+t = "What could a person with super\u00ADcali\u00ADfragil\u00ADistic\u00ADexpialid\u00ADocious levels of hippo\u00ADpoto[shy]monstro\u00ADsesqui\u00ADpedalio\u00ADphobia [#9312#]say to perform flocci\u00ADnauci\u00ADnihili\u00ADpilif\u00ADication [#20996#]of anti[shy]dis\u00ADestablish\u00ADment\u00ADarian\u00ADism?[#24524#]"
 v = "question"
 s = "
 What could a person with supercalifragilisticexpialidocious levels of[#4743#]
